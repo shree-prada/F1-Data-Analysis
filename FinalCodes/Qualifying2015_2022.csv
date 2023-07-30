@@ -1,0 +1,3270 @@
+,grid,driver_name,car,qualifying_time,season,round
+0,1,Lewis  Hamilton  HAM,Mercedes,01:26.3,2015,1
+1,2,Nico  Rosberg  ROS,Mercedes,01:26.9,2015,1
+2,3,Felipe  Massa  MAS,Williams Mercedes,01:27.7,2015,1
+3,4,Sebastian  Vettel  VET,Ferrari,01:27.8,2015,1
+4,5,Kimi  Räikkönen  RAI,Ferrari,01:27.8,2015,1
+5,6,Daniel  Ricciardo  RIC,Red Bull Racing Renault,01:28.3,2015,1
+6,7,Carlos  Sainz  SAI,STR Renault,01:28.5,2015,1
+7,8,Romain  Grosjean  GRO,Lotus Mercedes,01:28.6,2015,1
+8,9,Pastor  Maldonado  MAL,Lotus Mercedes,01:29.5,2015,1
+9,10,Felipe  Nasr  NAS,Sauber Ferrari,01:28.8,2015,1
+10,11,Max  Verstappen  VER,STR Renault,01:28.9,2015,1
+11,12,Daniil  Kvyat  KVY,Red Bull Racing Renault,01:29.1,2015,1
+12,13,Nico  Hulkenberg  HUL,Force India Mercedes,01:29.2,2015,1
+13,14,Sergio  Perez  PER,Force India Mercedes,01:29.2,2015,1
+14,15,Marcus  Ericsson  ERI,Sauber Ferrari,01:31.4,2015,1
+15,16,Jenson  Button  BUT,McLaren Honda,01:31.4,2015,1
+16,17,Kevin  Magnussen  MAG,McLaren Honda,01:32.0,2015,1
+0,1,Lewis  Hamilton  HAM,Mercedes,01:49.8,2015,2
+1,2,Sebastian  Vettel  VET,Ferrari,01:49.9,2015,2
+2,3,Nico  Rosberg  ROS,Mercedes,01:50.3,2015,2
+3,4,Daniel  Ricciardo  RIC,Red Bull Racing Renault,01:51.5,2015,2
+4,5,Daniil  Kvyat  KVY,Red Bull Racing Renault,01:52.0,2015,2
+5,6,Max  Verstappen  VER,STR Renault,01:52.0,2015,2
+6,7,Felipe  Massa  MAS,Williams Mercedes,01:52.5,2015,2
+7,8,Valtteri  Bottas  BOT,Williams Mercedes,01:53.2,2015,2
+8,9,Marcus  Ericsson  ERI,Sauber Ferrari,01:53.3,2015,2
+9,10,Romain  Grosjean  GRO,Lotus Mercedes,01:53.0,2015,2
+10,11,Kimi  Räikkönen  RAI,Ferrari,01:42.2,2015,2
+11,12,Pastor  Maldonado  MAL,Lotus Mercedes,01:42.2,2015,2
+12,13,Nico  Hulkenberg  HUL,Force India Mercedes,01:43.0,2015,2
+13,14,Sergio  Perez  PER,Force India Mercedes,01:43.5,2015,2
+14,15,Carlos  Sainz  SAI,STR Renault,01:43.7,2015,2
+15,16,Felipe  Nasr  NAS,Sauber Ferrari,01:41.3,2015,2
+16,17,Jenson  Button  BUT,McLaren Honda,01:41.6,2015,2
+17,18,Fernando  Alonso  ALO,McLaren Honda,01:41.7,2015,2
+18,19,Roberto  Merhi  MER,Marussia Ferrari,01:46.7,2015,2
+0,1,Lewis  Hamilton  HAM,Mercedes,01:35.8,2015,3
+1,2,Nico  Rosberg  ROS,Mercedes,01:35.8,2015,3
+2,3,Sebastian  Vettel  VET,Ferrari,01:36.7,2015,3
+3,4,Felipe  Massa  MAS,Williams Mercedes,01:37.0,2015,3
+4,5,Valtteri  Bottas  BOT,Williams Mercedes,01:37.1,2015,3
+5,6,Kimi  Räikkönen  RAI,Ferrari,01:37.2,2015,3
+6,7,Daniel  Ricciardo  RIC,Red Bull Racing Renault,01:37.5,2015,3
+7,8,Romain  Grosjean  GRO,Lotus Mercedes,01:37.9,2015,3
+8,9,Felipe  Nasr  NAS,Sauber Ferrari,01:38.1,2015,3
+9,10,Marcus  Ericsson  ERI,Sauber Ferrari,01:38.2,2015,3
+10,11,Pastor  Maldonado  MAL,Lotus Mercedes,01:38.1,2015,3
+11,12,Daniil  Kvyat  KVY,Red Bull Racing Renault,01:38.2,2015,3
+12,13,Max  Verstappen  VER,STR Renault,01:38.4,2015,3
+13,14,Carlos  Sainz  SAI,STR Renault,01:38.5,2015,3
+14,15,Sergio  Perez  PER,Force India Mercedes,01:39.3,2015,3
+15,16,Nico  Hulkenberg  HUL,Force India Mercedes,01:39.2,2015,3
+16,17,Jenson  Button  BUT,McLaren Honda,01:39.3,2015,3
+17,18,Fernando  Alonso  ALO,McLaren Honda,01:39.3,2015,3
+18,19,Will  Stevens  STE,Marussia Ferrari,01:42.1,2015,3
+19,20,Roberto  Merhi  MER,Marussia Ferrari,01:42.8,2015,3
+0,1,Lewis  Hamilton  HAM,Mercedes,01:32.6,2015,4
+1,2,Sebastian  Vettel  VET,Ferrari,01:33.0,2015,4
+2,3,Nico  Rosberg  ROS,Mercedes,01:33.1,2015,4
+3,4,Kimi  Räikkönen  RAI,Ferrari,01:33.2,2015,4
+4,5,Valtteri  Bottas  BOT,Williams Mercedes,01:33.4,2015,4
+5,6,Felipe  Massa  MAS,Williams Mercedes,01:33.7,2015,4
+6,7,Daniel  Ricciardo  RIC,Red Bull Racing Renault,01:33.8,2015,4
+7,8,Nico  Hulkenberg  HUL,Force India Mercedes,01:34.5,2015,4
+8,9,Carlos  Sainz  SAI,STR Renault,01:34.5,2015,4
+9,10,Romain  Grosjean  GRO,Lotus Mercedes,01:34.5,2015,4
+10,11,Sergio  Perez  PER,Force India Mercedes,01:34.7,2015,4
+11,12,Felipe  Nasr  NAS,Sauber Ferrari,01:34.7,2015,4
+12,13,Marcus  Ericsson  ERI,Sauber Ferrari,01:35.0,2015,4
+13,14,Fernando  Alonso  ALO,McLaren Honda,01:35.0,2015,4
+14,15,Max  Verstappen  VER,STR Renault,01:35.1,2015,4
+15,16,Pastor  Maldonado  MAL,Lotus Mercedes,01:35.7,2015,4
+16,17,Daniil  Kvyat  KVY,Red Bull Racing Renault,01:35.8,2015,4
+17,18,Will  Stevens  STE,Marussia Ferrari,01:38.7,2015,4
+18,19,Roberto  Merhi  MER,Marussia Ferrari,01:39.7,2015,4
+19,20,Jenson  Button  BUT,McLaren Honda,,2015,4
+0,1,Nico  Rosberg  ROS,Mercedes,01:24.7,2015,5
+1,2,Lewis  Hamilton  HAM,Mercedes,01:24.9,2015,5
+2,3,Sebastian  Vettel  VET,Ferrari,01:25.5,2015,5
+3,4,Valtteri  Bottas  BOT,Williams Mercedes,01:25.7,2015,5
+4,5,Carlos  Sainz  SAI,STR Renault,01:26.1,2015,5
+5,6,Max  Verstappen  VER,STR Renault,01:26.2,2015,5
+6,7,Kimi  Räikkönen  RAI,Ferrari,01:26.4,2015,5
+7,8,Daniil  Kvyat  KVY,Red Bull Racing Renault,01:26.6,2015,5
+8,9,Felipe  Massa  MAS,Williams Mercedes,01:26.8,2015,5
+9,10,Daniel  Ricciardo  RIC,Red Bull Racing Renault,01:26.8,2015,5
+10,11,Romain  Grosjean  GRO,Lotus Mercedes,01:27.4,2015,5
+11,12,Pastor  Maldonado  MAL,Lotus Mercedes,01:27.5,2015,5
+12,13,Fernando  Alonso  ALO,McLaren Honda,01:27.8,2015,5
+13,14,Jenson  Button  BUT,McLaren Honda,01:27.9,2015,5
+14,15,Felipe  Nasr  NAS,Sauber Ferrari,01:28.0,2015,5
+15,16,Marcus  Ericsson  ERI,Sauber Ferrari,01:28.1,2015,5
+16,17,Nico  Hulkenberg  HUL,Force India Mercedes,01:28.4,2015,5
+17,18,Sergio  Perez  PER,Force India Mercedes,01:28.4,2015,5
+18,19,Will  Stevens  STE,Marussia Ferrari,01:31.2,2015,5
+19,20,Roberto  Merhi  MER,Marussia Ferrari,01:32.0,2015,5
+0,1,Lewis  Hamilton  HAM,Mercedes,01:15.1,2015,6
+1,2,Nico  Rosberg  ROS,Mercedes,01:15.4,2015,6
+2,3,Sebastian  Vettel  VET,Ferrari,01:15.8,2015,6
+3,4,Daniel  Ricciardo  RIC,Red Bull Racing Renault,01:16.0,2015,6
+4,5,Daniil  Kvyat  KVY,Red Bull Racing Renault,01:16.2,2015,6
+5,6,Kimi  Räikkönen  RAI,Ferrari,01:16.4,2015,6
+6,7,Sergio  Perez  PER,Force India Mercedes,01:16.8,2015,6
+7,8,Pastor  Maldonado  MAL,Lotus Mercedes,01:16.9,2015,6
+8,9,Max  Verstappen  VER,STR Renault,01:17.0,2015,6
+9,10,Jenson  Button  BUT,McLaren Honda,01:17.1,2015,6
+10,11,Nico  Hulkenberg  HUL,Force India Mercedes,01:17.2,2015,6
+11,12,Felipe  Massa  MAS,Williams Mercedes,01:17.3,2015,6
+12,13,Fernando  Alonso  ALO,McLaren Honda,01:26.6,2015,6
+13,14,Felipe  Nasr  NAS,Sauber Ferrari,01:18.1,2015,6
+14,15,Romain  Grosjean  GRO,Lotus Mercedes,01:17.0,2015,6
+15,16,Valtteri  Bottas  BOT,Williams Mercedes,01:18.4,2015,6
+16,17,Marcus  Ericsson  ERI,Sauber Ferrari,01:18.5,2015,6
+17,18,Will  Stevens  STE,Marussia Ferrari,01:20.7,2015,6
+18,19,Roberto  Merhi  MER,Marussia Ferrari,01:20.9,2015,6
+0,1,Lewis  Hamilton  HAM,Mercedes,01:14.4,2015,7
+1,2,Nico  Rosberg  ROS,Mercedes,01:14.7,2015,7
+2,3,Kimi  Räikkönen  RAI,Ferrari,01:15.0,2015,7
+3,4,Valtteri  Bottas  BOT,Williams Mercedes,01:15.1,2015,7
+4,5,Romain  Grosjean  GRO,Lotus Mercedes,01:15.2,2015,7
+5,6,Pastor  Maldonado  MAL,Lotus Mercedes,01:15.3,2015,7
+6,7,Nico  Hulkenberg  HUL,Force India Mercedes,01:15.6,2015,7
+7,8,Daniil  Kvyat  KVY,Red Bull Racing Renault,01:16.1,2015,7
+8,9,Daniel  Ricciardo  RIC,Red Bull Racing Renault,01:16.1,2015,7
+9,10,Sergio  Perez  PER,Force India Mercedes,01:16.3,2015,7
+10,11,Carlos  Sainz  SAI,STR Renault,01:16.0,2015,7
+11,12,Marcus  Ericsson  ERI,Sauber Ferrari,01:16.3,2015,7
+12,13,Fernando  Alonso  ALO,McLaren Honda,01:16.3,2015,7
+13,14,Felipe  Nasr  NAS,Sauber Ferrari,01:16.6,2015,7
+14,15,Felipe  Massa  MAS,Williams Mercedes,01:17.9,2015,7
+15,16,Roberto  Merhi  MER,Marussia Ferrari,01:19.1,2015,7
+16,17,Will  Stevens  STE,Marussia Ferrari,01:19.2,2015,7
+17,18,Sebastian  Vettel  VET,Ferrari,01:17.3,2015,7
+18,19,Max  Verstappen  VER,STR Renault,01:16.2,2015,7
+19,20,Jenson  Button  BUT,McLaren Honda,,2015,7
+0,1,Lewis  Hamilton  HAM,Mercedes,01:08.5,2015,8
+1,2,Nico  Rosberg  ROS,Mercedes,01:08.6,2015,8
+2,3,Sebastian  Vettel  VET,Ferrari,01:08.8,2015,8
+3,4,Felipe  Massa  MAS,Williams Mercedes,01:09.2,2015,8
+4,5,Nico  Hulkenberg  HUL,Force India Mercedes,01:09.3,2015,8
+5,6,Valtteri  Bottas  BOT,Williams Mercedes,01:09.3,2015,8
+6,7,Max  Verstappen  VER,STR Renault,01:09.6,2015,8
+7,8,Felipe  Nasr  NAS,Sauber Ferrari,01:09.7,2015,8
+8,9,Romain  Grosjean  GRO,Lotus Mercedes,01:09.9,2015,8
+9,10,Pastor  Maldonado  MAL,Lotus Mercedes,01:10.4,2015,8
+10,11,Marcus  Ericsson  ERI,Sauber Ferrari,01:10.4,2015,8
+11,12,Carlos  Sainz  SAI,STR Renault,01:10.5,2015,8
+12,13,Sergio  Perez  PER,Force India Mercedes,01:12.5,2015,8
+13,14,Kimi  Räikkönen  RAI,Ferrari,01:12.9,2015,8
+14,15,Daniil  Kvyat  KVY,Red Bull Racing Renault,01:09.7,2015,8
+15,16,Roberto  Merhi  MER,Marussia Ferrari,01:14.1,2015,8
+16,17,Will  Stevens  STE,Marussia Ferrari,01:15.4,2015,8
+17,18,Daniel  Ricciardo  RIC,Red Bull Racing Renault,01:10.5,2015,8
+18,19,Fernando  Alonso  ALO,McLaren Honda,01:10.7,2015,8
+19,20,Jenson  Button  BUT,McLaren Honda,01:12.6,2015,8
+0,1,Lewis  Hamilton  HAM,Mercedes,01:32.2,2015,9
+1,2,Nico  Rosberg  ROS,Mercedes,01:32.4,2015,9
+2,3,Felipe  Massa  MAS,Williams Mercedes,01:33.1,2015,9
+3,4,Valtteri  Bottas  BOT,Williams Mercedes,01:33.1,2015,9
+4,5,Kimi  Räikkönen  RAI,Ferrari,01:33.4,2015,9
+5,6,Sebastian  Vettel  VET,Ferrari,01:33.5,2015,9
+6,7,Daniil  Kvyat  KVY,Red Bull Racing Renault,01:33.6,2015,9
+7,8,Carlos  Sainz  SAI,STR Renault,01:33.6,2015,9
+8,9,Nico  Hulkenberg  HUL,Force India Mercedes,01:33.7,2015,9
+9,10,Daniel  Ricciardo  RIC,Red Bull Racing Renault,01:33.9,2015,9
+10,11,Sergio  Perez  PER,Force India Mercedes,01:34.3,2015,9
+11,12,Romain  Grosjean  GRO,Lotus Mercedes,01:34.4,2015,9
+12,13,Max  Verstappen  VER,STR Renault,01:34.5,2015,9
+13,14,Pastor  Maldonado  MAL,Lotus Mercedes,01:34.5,2015,9
+14,15,Marcus  Ericsson  ERI,Sauber Ferrari,01:34.9,2015,9
+15,16,Felipe  Nasr  NAS,Sauber Ferrari,01:34.9,2015,9
+16,17,Fernando  Alonso  ALO,McLaren Honda,01:35.0,2015,9
+17,18,Jenson  Button  BUT,McLaren Honda,01:35.2,2015,9
+18,19,Will  Stevens  STE,Marussia Ferrari,01:37.4,2015,9
+19,20,Roberto  Merhi  MER,Marussia Ferrari,01:39.4,2015,9
+0,1,Lewis  Hamilton  HAM,Mercedes,01:22.0,2015,10
+1,2,Nico  Rosberg  ROS,Mercedes,01:22.6,2015,10
+2,3,Sebastian  Vettel  VET,Ferrari,01:22.7,2015,10
+3,4,Daniel  Ricciardo  RIC,Red Bull Racing Renault,01:22.8,2015,10
+4,5,Kimi  Räikkönen  RAI,Ferrari,01:23.0,2015,10
+5,6,Valtteri  Bottas  BOT,Williams Mercedes,01:23.2,2015,10
+6,7,Daniil  Kvyat  KVY,Red Bull Racing Renault,01:23.3,2015,10
+7,8,Felipe  Massa  MAS,Williams Mercedes,01:23.5,2015,10
+8,9,Max  Verstappen  VER,STR Renault,01:23.7,2015,10
+9,10,Romain  Grosjean  GRO,Lotus Mercedes,01:24.2,2015,10
+10,11,Nico  Hulkenberg  HUL,Force India Mercedes,01:23.8,2015,10
+11,12,Carlos  Sainz  SAI,STR Renault,01:23.9,2015,10
+12,13,Sergio  Perez  PER,Force India Mercedes,01:24.5,2015,10
+13,14,Pastor  Maldonado  MAL,Lotus Mercedes,01:24.6,2015,10
+14,15,Fernando  Alonso  ALO,McLaren Honda,,2015,10
+15,16,Jenson  Button  BUT,McLaren Honda,01:24.7,2015,10
+16,17,Marcus  Ericsson  ERI,Sauber Ferrari,01:24.8,2015,10
+17,18,Felipe  Nasr  NAS,Sauber Ferrari,01:25.0,2015,10
+18,19,Roberto  Merhi  MER,Marussia Ferrari,01:27.4,2015,10
+19,20,Will  Stevens  STE,Marussia Ferrari,01:27.9,2015,10
+0,1,Lewis  Hamilton  HAM,Mercedes,01:47.2,2015,11
+1,2,Nico  Rosberg  ROS,Mercedes,01:47.7,2015,11
+2,3,Valtteri  Bottas  BOT,Williams Mercedes,01:48.5,2015,11
+3,4,Sergio  Perez  PER,Force India Mercedes,01:48.6,2015,11
+4,5,Daniel  Ricciardo  RIC,Red Bull Racing Renault,01:48.6,2015,11
+5,6,Felipe  Massa  MAS,Williams Mercedes,01:48.7,2015,11
+6,7,Pastor  Maldonado  MAL,Lotus Mercedes,01:48.8,2015,11
+7,8,Sebastian  Vettel  VET,Ferrari,01:48.8,2015,11
+8,9,Romain  Grosjean  GRO,Lotus Mercedes,01:48.6,2015,11
+9,10,Carlos  Sainz  SAI,STR Renault,01:49.8,2015,11
+10,11,Nico  Hulkenberg  HUL,Force India Mercedes,01:49.1,2015,11
+11,12,Daniil  Kvyat  KVY,Red Bull Racing Renault,01:49.2,2015,11
+12,13,Marcus  Ericsson  ERI,Sauber Ferrari,01:49.6,2015,11
+13,14,Felipe  Nasr  NAS,Sauber Ferrari,01:50.0,2015,11
+14,15,Will  Stevens  STE,Marussia Ferrari,01:52.9,2015,11
+15,16,Kimi  Räikkönen  RAI,Ferrari,,2015,11
+16,17,Roberto  Merhi  MER,Marussia Ferrari,01:53.1,2015,11
+17,18,Max  Verstappen  VER,STR Renault,,2015,11
+18,19,Jenson  Button  BUT,McLaren Honda,01:51.0,2015,11
+19,20,Fernando  Alonso  ALO,McLaren Honda,01:51.4,2015,11
+0,1,Lewis  Hamilton  HAM,Mercedes,01:23.4,2015,12
+1,2,Kimi  Räikkönen  RAI,Ferrari,01:23.6,2015,12
+2,3,Sebastian  Vettel  VET,Ferrari,01:23.7,2015,12
+3,4,Nico  Rosberg  ROS,Mercedes,01:23.7,2015,12
+4,5,Felipe  Massa  MAS,Williams Mercedes,01:23.9,2015,12
+5,6,Valtteri  Bottas  BOT,Williams Mercedes,01:24.1,2015,12
+6,7,Sergio  Perez  PER,Force India Mercedes,01:24.6,2015,12
+7,8,Romain  Grosjean  GRO,Lotus Mercedes,01:25.1,2015,12
+8,9,Nico  Hulkenberg  HUL,Force India Mercedes,01:25.3,2015,12
+9,10,Pastor  Maldonado  MAL,Lotus Mercedes,01:24.5,2015,12
+10,11,Felipe  Nasr  NAS,Sauber Ferrari,01:24.9,2015,12
+11,12,Marcus  Ericsson  ERI,Sauber Ferrari,01:26.2,2015,12
+12,13,Will  Stevens  STE,Marussia Ferrari,01:27.7,2015,12
+13,14,Roberto  Merhi  MER,Marussia Ferrari,01:27.9,2015,12
+14,15,Jenson  Button  BUT,McLaren Honda,01:26.1,2015,12
+15,16,Fernando  Alonso  ALO,McLaren Honda,01:26.2,2015,12
+16,17,Carlos  Sainz  SAI,STR Renault,01:25.6,2015,12
+17,18,Daniil  Kvyat  KVY,Red Bull Racing Renault,01:25.8,2015,12
+18,19,Daniel  Ricciardo  RIC,Red Bull Racing Renault,,2015,12
+19,20,Max  Verstappen  VER,STR Renault,,2015,12
+0,1,Sebastian  Vettel  VET,Ferrari,01:43.9,2015,13
+1,2,Daniel  Ricciardo  RIC,Red Bull Racing Renault,01:44.4,2015,13
+2,3,Kimi  Räikkönen  RAI,Ferrari,01:44.7,2015,13
+3,4,Daniil  Kvyat  KVY,Red Bull Racing Renault,01:44.7,2015,13
+4,5,Lewis  Hamilton  HAM,Mercedes,01:45.3,2015,13
+5,6,Nico  Rosberg  ROS,Mercedes,01:45.4,2015,13
+6,7,Valtteri  Bottas  BOT,Williams Mercedes,01:45.7,2015,13
+7,8,Max  Verstappen  VER,STR Renault,01:45.8,2015,13
+8,9,Felipe  Massa  MAS,Williams Mercedes,01:46.1,2015,13
+9,10,Romain  Grosjean  GRO,Lotus Mercedes,01:46.4,2015,13
+10,11,Nico  Hulkenberg  HUL,Force India Mercedes,01:46.3,2015,13
+11,12,Fernando  Alonso  ALO,McLaren Honda,01:46.3,2015,13
+12,13,Sergio  Perez  PER,Force India Mercedes,01:46.4,2015,13
+13,14,Carlos  Sainz  SAI,STR Renault,01:46.9,2015,13
+14,15,Jenson  Button  BUT,McLaren Honda,01:47.0,2015,13
+15,16,Felipe  Nasr  NAS,Sauber Ferrari,01:47.0,2015,13
+16,17,Marcus  Ericsson  ERI,Sauber Ferrari,01:47.1,2015,13
+17,18,Pastor  Maldonado  MAL,Lotus Mercedes,01:47.3,2015,13
+18,19,Will  Stevens  STE,Marussia Ferrari,01:51.0,2015,13
+19,20,Alexander  Rossi  RSI,Marussia Ferrari,01:51.5,2015,13
+0,1,Nico  Rosberg  ROS,Mercedes,01:32.6,2015,14
+1,2,Lewis  Hamilton  HAM,Mercedes,01:32.7,2015,14
+2,3,Valtteri  Bottas  BOT,Williams Mercedes,01:33.0,2015,14
+3,4,Sebastian  Vettel  VET,Ferrari,01:33.2,2015,14
+4,5,Felipe  Massa  MAS,Williams Mercedes,01:33.3,2015,14
+5,6,Kimi  Räikkönen  RAI,Ferrari,01:33.3,2015,14
+6,7,Daniel  Ricciardo  RIC,Red Bull Racing Renault,01:33.5,2015,14
+7,8,Romain  Grosjean  GRO,Lotus Mercedes,01:34.0,2015,14
+8,9,Sergio  Perez  PER,Force India Mercedes,,2015,14
+9,10,Carlos  Sainz  SAI,STR Renault,01:34.5,2015,14
+10,11,Pastor  Maldonado  MAL,Lotus Mercedes,01:34.5,2015,14
+11,12,Fernando  Alonso  ALO,McLaren Honda,01:34.8,2015,14
+12,13,Nico  Hulkenberg  HUL,Force India Mercedes,01:34.4,2015,14
+13,14,Jenson  Button  BUT,McLaren Honda,01:35.7,2015,14
+14,15,Marcus  Ericsson  ERI,Sauber Ferrari,01:35.7,2015,14
+15,16,Felipe  Nasr  NAS,Sauber Ferrari,01:35.8,2015,14
+16,17,Max  Verstappen  VER,STR Renault,,2015,14
+17,18,Will  Stevens  STE,Marussia Ferrari,01:38.8,2015,14
+18,19,Alexander  Rossi  RSI,Marussia Ferrari,01:47.1,2015,14
+0,1,Nico  Rosberg  ROS,Mercedes,01:37.1,2015,15
+1,2,Lewis  Hamilton  HAM,Mercedes,01:37.4,2015,15
+2,3,Valtteri  Bottas  BOT,Williams Mercedes,01:37.9,2015,15
+3,4,Sebastian  Vettel  VET,Ferrari,01:38.0,2015,15
+4,5,Kimi  Räikkönen  RAI,Ferrari,01:38.3,2015,15
+5,6,Nico  Hulkenberg  HUL,Force India Mercedes,01:38.7,2015,15
+6,7,Sergio  Perez  PER,Force India Mercedes,01:38.7,2015,15
+7,8,Romain  Grosjean  GRO,Lotus Mercedes,01:38.8,2015,15
+8,9,Max  Verstappen  VER,STR Renault,01:38.9,2015,15
+9,10,Daniel  Ricciardo  RIC,Red Bull Racing Renault,01:39.7,2015,15
+10,11,Daniil  Kvyat  KVY,Red Bull Racing Renault,01:39.2,2015,15
+11,12,Felipe  Nasr  NAS,Sauber Ferrari,01:39.3,2015,15
+12,13,Jenson  Button  BUT,McLaren Honda,01:39.8,2015,15
+13,14,Pastor  Maldonado  MAL,Lotus Mercedes,01:39.8,2015,15
+14,15,Felipe  Massa  MAS,Williams Mercedes,01:39.9,2015,15
+15,16,Marcus  Ericsson  ERI,Sauber Ferrari,01:40.7,2015,15
+16,17,Will  Stevens  STE,Marussia Ferrari,01:43.7,2015,15
+17,18,Roberto  Merhi  MER,Marussia Ferrari,01:43.8,2015,15
+18,19,Fernando  Alonso  ALO,McLaren Honda,01:40.1,2015,15
+19,20,Carlos  Sainz  SAI,STR Renault,,2015,15
+0,1,Nico  Rosberg  ROS,Mercedes,01:56.8,2015,16
+1,2,Lewis  Hamilton  HAM,Mercedes,01:56.9,2015,16
+2,3,Daniel  Ricciardo  RIC,Red Bull Racing Renault,01:58.0,2015,16
+3,4,Daniil  Kvyat  KVY,Red Bull Racing Renault,01:58.4,2015,16
+4,5,Sergio  Perez  PER,Force India Mercedes,01:59.2,2015,16
+5,6,Nico  Hulkenberg  HUL,Force India Mercedes,01:59.3,2015,16
+6,7,Felipe  Massa  MAS,Williams Mercedes,02:00.0,2015,16
+7,8,Max  Verstappen  VER,STR Renault,02:00.2,2015,16
+8,9,Fernando  Alonso  ALO,McLaren Honda,02:00.3,2015,16
+9,10,Romain  Grosjean  GRO,Lotus Mercedes,02:00.6,2015,16
+10,11,Jenson  Button  BUT,McLaren Honda,02:01.2,2015,16
+11,12,Pastor  Maldonado  MAL,Lotus Mercedes,02:01.6,2015,16
+12,13,Sebastian  Vettel  VET,Ferrari,01:58.6,2015,16
+13,14,Marcus  Ericsson  ERI,Sauber Ferrari,02:02.2,2015,16
+14,15,Felipe  Nasr  NAS,Sauber Ferrari,02:03.2,2015,16
+15,16,Valtteri  Bottas  BOT,Williams Mercedes,02:00.3,2015,16
+16,17,Alexander  Rossi  RSI,Marussia Ferrari,02:04.2,2015,16
+17,18,Kimi  Räikkönen  RAI,Ferrari,01:59.7,2015,16
+18,19,Will  Stevens  STE,Marussia Ferrari,02:04.5,2015,16
+19,20,Carlos  Sainz  SAI,STR Renault,02:07.3,2015,16
+0,1,Nico  Rosberg  ROS,Mercedes,01:19.5,2015,17
+1,2,Lewis  Hamilton  HAM,Mercedes,01:19.7,2015,17
+2,3,Sebastian  Vettel  VET,Ferrari,01:19.8,2015,17
+3,4,Daniil  Kvyat  KVY,Red Bull Racing Renault,01:20.4,2015,17
+4,5,Daniel  Ricciardo  RIC,Red Bull Racing Renault,01:20.4,2015,17
+5,6,Valtteri  Bottas  BOT,Williams Mercedes,01:20.4,2015,17
+6,7,Felipe  Massa  MAS,Williams Mercedes,01:20.6,2015,17
+7,8,Max  Verstappen  VER,STR Renault,01:20.7,2015,17
+8,9,Sergio  Perez  PER,Force India Mercedes,01:20.7,2015,17
+9,10,Nico  Hulkenberg  HUL,Force India Mercedes,01:20.8,2015,17
+10,11,Carlos  Sainz  SAI,STR Renault,01:20.9,2015,17
+11,12,Romain  Grosjean  GRO,Lotus Mercedes,01:21.0,2015,17
+12,13,Pastor  Maldonado  MAL,Lotus Mercedes,01:21.3,2015,17
+13,14,Marcus  Ericsson  ERI,Sauber Ferrari,01:21.5,2015,17
+14,15,Felipe  Nasr  NAS,Sauber Ferrari,01:21.8,2015,17
+15,16,Alexander  Rossi  RSI,Marussia Ferrari,01:24.1,2015,17
+16,17,Will  Stevens  STE,Marussia Ferrari,01:24.4,2015,17
+17,18,Fernando  Alonso  ALO,McLaren Honda,01:21.8,2015,17
+18,19,Kimi  Räikkönen  RAI,Ferrari,01:22.5,2015,17
+19,20,Jenson  Button  BUT,McLaren Honda,,2015,17
+0,1,Nico  Rosberg  ROS,Mercedes,01:11.3,2015,18
+1,2,Lewis  Hamilton  HAM,Mercedes,01:11.4,2015,18
+2,3,Sebastian  Vettel  VET,Ferrari,01:11.8,2015,18
+3,4,Kimi  Räikkönen  RAI,Ferrari,01:12.1,2015,18
+4,5,Nico  Hulkenberg  HUL,Force India Mercedes,01:12.3,2015,18
+5,6,Daniil  Kvyat  KVY,Red Bull Racing Renault,01:12.3,2015,18
+6,7,Valtteri  Bottas  BOT,Williams Mercedes,01:12.1,2015,18
+7,8,Felipe  Massa  MAS,Williams Mercedes,01:12.4,2015,18
+8,9,Max  Verstappen  VER,STR Renault,01:12.7,2015,18
+9,10,Carlos  Sainz  SAI,STR Renault,01:13.0,2015,18
+10,11,Sergio  Perez  PER,Force India Mercedes,01:13.1,2015,18
+11,12,Marcus  Ericsson  ERI,Sauber Ferrari,01:13.2,2015,18
+12,13,Felipe  Nasr  NAS,Sauber Ferrari,01:13.0,2015,18
+13,14,Romain  Grosjean  GRO,Lotus Mercedes,01:13.9,2015,18
+14,15,Pastor  Maldonado  MAL,Lotus Mercedes,01:13.4,2015,18
+15,16,Jenson  Button  BUT,McLaren Honda,01:13.4,2015,18
+16,17,Alexander  Rossi  RSI,Marussia Ferrari,01:16.2,2015,18
+17,18,Will  Stevens  STE,Marussia Ferrari,01:16.3,2015,18
+18,19,Daniel  Ricciardo  RIC,Red Bull Racing Renault,01:12.4,2015,18
+19,20,Fernando  Alonso  ALO,McLaren Honda,,2015,18
+0,1,Nico  Rosberg  ROS,Mercedes,01:40.2,2015,19
+1,2,Lewis  Hamilton  HAM,Mercedes,01:40.6,2015,19
+2,3,Kimi  Räikkönen  RAI,Ferrari,01:41.1,2015,19
+3,4,Sergio  Perez  PER,Force India Mercedes,01:41.2,2015,19
+4,5,Daniel  Ricciardo  RIC,Red Bull Racing Renault,01:41.4,2015,19
+5,6,Valtteri  Bottas  BOT,Williams Mercedes,01:41.7,2015,19
+6,7,Nico  Hulkenberg  HUL,Force India Mercedes,01:41.7,2015,19
+7,8,Felipe  Massa  MAS,Williams Mercedes,01:41.8,2015,19
+8,9,Daniil  Kvyat  KVY,Red Bull Racing Renault,01:41.9,2015,19
+9,10,Carlos  Sainz  SAI,STR Renault,01:42.7,2015,19
+10,11,Max  Verstappen  VER,STR Renault,01:42.5,2015,19
+11,12,Jenson  Button  BUT,McLaren Honda,01:42.7,2015,19
+12,13,Pastor  Maldonado  MAL,Lotus Mercedes,01:42.8,2015,19
+13,14,Felipe  Nasr  NAS,Sauber Ferrari,01:43.6,2015,19
+14,15,Sebastian  Vettel  VET,Ferrari,01:42.9,2015,19
+15,16,Fernando  Alonso  ALO,McLaren Honda,01:43.2,2015,19
+16,17,Marcus  Ericsson  ERI,Sauber Ferrari,01:43.8,2015,19
+17,18,Romain  Grosjean  GRO,Lotus Mercedes,,2015,19
+18,19,Will  Stevens  STE,Marussia Ferrari,01:46.3,2015,19
+0,1,Lewis  Hamilton  HAM,Mercedes,01:23.8,2016,1
+1,2,Nico  Rosberg  ROS,Mercedes,01:24.2,2016,1
+2,3,Sebastian  Vettel  VET,Ferrari,01:24.7,2016,1
+3,4,Kimi  Räikkönen  RAI,Ferrari,01:25.0,2016,1
+4,5,Max  Verstappen  VER,Toro Rosso-Ferrari,01:25.4,2016,1
+5,6,Felipe  Massa  MAS,Williams Mercedes,01:25.5,2016,1
+6,7,Carlos  Sainz  SAI,Toro Rosso-Ferrari,01:25.6,2016,1
+7,8,Daniel  Ricciardo  RIC,Red Bull Racing TAG Heuer,01:25.6,2016,1
+8,9,Sergio  Perez  PER,Force India Mercedes,01:25.8,2016,1
+9,10,Nico  Hulkenberg  HUL,Force India Mercedes,01:25.9,2016,1
+10,11,Fernando  Alonso  ALO,McLaren Honda,01:26.1,2016,1
+11,12,Jenson  Button  BUT,McLaren Honda,01:26.3,2016,1
+12,13,Jolyon  Palmer  PAL,Renault,01:27.6,2016,1
+13,14,Kevin  Magnussen  MAG,Renault,01:27.7,2016,1
+14,15,Marcus  Ericsson  ERI,Sauber Ferrari,01:27.4,2016,1
+15,16,Valtteri  Bottas  BOT,Williams Mercedes,01:26.0,2016,1
+16,17,Felipe  Nasr  NAS,Sauber Ferrari,01:28.0,2016,1
+17,18,Daniil  Kvyat  KVY,Red Bull Racing TAG Heuer,01:28.0,2016,1
+18,19,Romain  Grosjean  GRO,Haas Ferrari,01:28.3,2016,1
+19,20,Esteban  Gutierrez GUT,Haas Ferrari,01:29.6,2016,1
+20,21,Pascal  Wehrlein  WEH,MRT-Mercedes,01:29.6,2016,1
+21,22,Rio  Haryanto  HAR,MRT-Mercedes,01:29.6,2016,1
+0,1,Lewis  Hamilton  HAM,Mercedes,01:29.5,2016,2
+1,2,Nico  Rosberg  ROS,Mercedes,01:29.6,2016,2
+2,3,Sebastian  Vettel  VET,Ferrari,01:30.0,2016,2
+3,4,Kimi  Räikkönen  RAI,Ferrari,01:30.2,2016,2
+4,5,Daniel  Ricciardo  RIC,Red Bull Racing TAG Heuer,01:30.9,2016,2
+5,6,Valtteri  Bottas  BOT,Williams Mercedes,01:31.2,2016,2
+6,7,Felipe  Massa  MAS,Williams Mercedes,01:31.2,2016,2
+7,8,Nico  Hulkenberg  HUL,Force India Mercedes,01:31.6,2016,2
+8,9,Romain  Grosjean  GRO,Haas Ferrari,01:31.8,2016,2
+9,10,Max  Verstappen  VER,Toro Rosso-Ferrari,01:31.8,2016,2
+10,11,Carlos  Sainz  SAI,Toro Rosso-Ferrari,01:31.8,2016,2
+11,12,Stoffel  Vandoorne  VAN,McLaren Honda,01:31.9,2016,2
+12,13,Esteban  Gutierrez GUT,Haas Ferrari,01:31.9,2016,2
+13,14,Jenson  Button  BUT,McLaren Honda,01:32.0,2016,2
+14,15,Daniil  Kvyat  KVY,Red Bull Racing TAG Heuer,01:32.2,2016,2
+15,16,Pascal  Wehrlein  WEH,MRT-Mercedes,01:32.8,2016,2
+16,17,Marcus  Ericsson  ERI,Sauber Ferrari,01:32.8,2016,2
+17,18,Sergio  Perez  PER,Force India Mercedes,01:32.9,2016,2
+18,19,Jolyon  Palmer  PAL,Renault,01:33.4,2016,2
+19,20,Rio  Haryanto  HAR,MRT-Mercedes,01:34.2,2016,2
+20,21,Felipe  Nasr  NAS,Sauber Ferrari,01:34.4,2016,2
+0,1,Nico  Rosberg  ROS,Mercedes,01:35.4,2016,3
+1,2,Daniel  Ricciardo  RIC,Red Bull Racing TAG Heuer,01:35.9,2016,3
+2,3,Kimi  Räikkönen  RAI,Ferrari,01:36.0,2016,3
+3,4,Sebastian  Vettel  VET,Ferrari,01:36.2,2016,3
+4,5,Valtteri  Bottas  BOT,Williams Mercedes,01:36.3,2016,3
+5,6,Daniil  Kvyat  KVY,Red Bull Racing TAG Heuer,01:36.4,2016,3
+6,7,Sergio  Perez  PER,Force India Mercedes,01:36.9,2016,3
+7,8,Carlos  Sainz  SAI,Toro Rosso-Ferrari,01:36.9,2016,3
+8,9,Max  Verstappen  VER,Toro Rosso-Ferrari,01:37.2,2016,3
+9,10,Felipe  Massa  MAS,Williams Mercedes,01:37.3,2016,3
+10,11,Fernando  Alonso  ALO,McLaren Honda,01:38.8,2016,3
+11,12,Jenson  Button  BUT,McLaren Honda,01:39.1,2016,3
+12,13,Nico  Hulkenberg  HUL,Force India Mercedes,,2016,3
+13,14,Romain  Grosjean  GRO,Haas Ferrari,01:39.8,2016,3
+14,15,Marcus  Ericsson  ERI,Sauber Ferrari,01:40.7,2016,3
+15,16,Felipe  Nasr  NAS,Sauber Ferrari,01:42.4,2016,3
+16,17,Kevin  Magnussen  MAG,Renault,01:38.7,2016,3
+17,18,Esteban  Gutierrez GUT,Haas Ferrari,01:38.8,2016,3
+18,19,Jolyon  Palmer  PAL,Renault,01:39.5,2016,3
+19,20,Rio  Haryanto  HAR,MRT-Mercedes,01:40.3,2016,3
+20,21,Pascal  Wehrlein  WEH,MRT-Mercedes,,2016,3
+21,22,Lewis  Hamilton  HAM,Mercedes,,2016,3
+0,1,Nico  Rosberg  ROS,Mercedes,01:35.4,2016,4
+1,2,Valtteri  Bottas  BOT,Williams Mercedes,01:36.5,2016,4
+2,3,Kimi  Räikkönen  RAI,Ferrari,01:36.7,2016,4
+3,4,Felipe  Massa  MAS,Williams Mercedes,01:37.0,2016,4
+4,5,Daniel  Ricciardo  RIC,Red Bull Racing TAG Heuer,01:37.1,2016,4
+5,6,Sergio  Perez  PER,Force India Mercedes,01:37.2,2016,4
+6,7,Sebastian  Vettel  VET,Ferrari,01:36.1,2016,4
+7,8,Daniil  Kvyat  KVY,Red Bull Racing TAG Heuer,01:37.5,2016,4
+8,9,Max  Verstappen  VER,Toro Rosso Ferrari,01:37.6,2016,4
+9,10,Lewis  Hamilton  HAM,Mercedes,,2016,4
+10,11,Carlos  Sainz  SAI,Toro Rosso Ferrari,01:37.7,2016,4
+11,12,Jenson  Button  BUT,McLaren Honda,01:37.7,2016,4
+12,13,Nico  Hulkenberg  HUL,Force India Mercedes,01:37.8,2016,4
+13,14,Fernando  Alonso  ALO,McLaren Honda,01:37.8,2016,4
+14,15,Romain  Grosjean  GRO,Haas Ferrari,01:38.1,2016,4
+15,16,Esteban  Gutierrez GUT,Haas Ferrari,01:38.1,2016,4
+16,17,Kevin  Magnussen  MAG,Renault,01:38.9,2016,4
+17,18,Jolyon  Palmer  PAL,Renault,01:39.0,2016,4
+18,19,Felipe  Nasr  NAS,Sauber Ferrari,01:39.0,2016,4
+19,20,Pascal  Wehrlein  WEH,MRT Mercedes,01:39.4,2016,4
+20,21,Rio  Haryanto  HAR,MRT Mercedes,01:39.5,2016,4
+21,22,Marcus  Ericsson  ERI,Sauber Ferrari,01:39.5,2016,4
+0,1,Lewis  Hamilton  HAM,Mercedes,01:22.0,2016,5
+1,2,Nico  Rosberg  ROS,Mercedes,01:22.3,2016,5
+2,3,Daniel  Ricciardo  RIC,Red Bull Racing TAG Heuer,01:22.7,2016,5
+3,4,Max  Verstappen  VER,Red Bull Racing TAG Heuer,01:23.1,2016,5
+4,5,Kimi  Räikkönen  RAI,Ferrari,01:23.1,2016,5
+5,6,Sebastian  Vettel  VET,Ferrari,01:23.3,2016,5
+6,7,Valtteri  Bottas  BOT,Williams Mercedes,01:23.5,2016,5
+7,8,Carlos  Sainz  SAI,Toro Rosso Ferrari,01:23.6,2016,5
+8,9,Sergio  Perez  PER,Force India Mercedes,01:23.8,2016,5
+9,10,Fernando  Alonso  ALO,McLaren Honda,01:24.0,2016,5
+10,11,Nico  Hulkenberg  HUL,Force India Mercedes,01:24.2,2016,5
+11,12,Jenson  Button  BUT,McLaren Honda,01:24.3,2016,5
+12,13,Daniil  Kvyat  KVY,Toro Rosso Ferrari,01:24.4,2016,5
+13,14,Romain  Grosjean  GRO,Haas Ferrari,01:24.5,2016,5
+14,15,Kevin  Magnussen  MAG,Renault,01:24.6,2016,5
+15,16,Esteban  Gutierrez GUT,Haas Ferrari,01:24.8,2016,5
+16,17,Jolyon  Palmer  PAL,Renault,01:24.9,2016,5
+17,18,Felipe  Massa  MAS,Williams Mercedes,01:24.9,2016,5
+18,19,Marcus  Ericsson  ERI,Sauber Ferrari,01:25.2,2016,5
+19,20,Felipe  Nasr  NAS,Sauber Ferrari,01:25.6,2016,5
+20,21,Pascal  Wehrlein  WEH,MRT Mercedes,01:25.7,2016,5
+21,22,Rio  Haryanto  HAR,MRT Mercedes,01:25.9,2016,5
+0,1,Daniel  Ricciardo  RIC,Red Bull Racing TAG Heuer,01:13.6,2016,6
+1,2,Nico  Rosberg  ROS,Mercedes,01:13.8,2016,6
+2,3,Lewis  Hamilton  HAM,Mercedes,01:13.9,2016,6
+3,4,Sebastian  Vettel  VET,Ferrari,01:14.6,2016,6
+4,5,Nico  Hulkenberg  HUL,Force India Mercedes,01:14.7,2016,6
+5,6,Carlos  Sainz  SAI,Toro Rosso Ferrari,01:14.7,2016,6
+6,7,Sergio  Perez  PER,Force India Mercedes,01:14.9,2016,6
+7,8,Daniil  Kvyat  KVY,Toro Rosso Ferrari,01:15.3,2016,6
+8,9,Fernando  Alonso  ALO,McLaren Honda,01:15.4,2016,6
+9,10,Valtteri  Bottas  BOT,Williams Mercedes,01:15.3,2016,6
+10,11,Kimi  Räikkönen  RAI,Ferrari,01:14.7,2016,6
+11,12,Esteban  Gutierrez GUT,Haas Ferrari,01:15.3,2016,6
+12,13,Jenson  Button  BUT,McLaren Honda,01:15.4,2016,6
+13,14,Felipe  Massa  MAS,Williams Mercedes,01:15.4,2016,6
+14,15,Romain  Grosjean  GRO,Haas Ferrari,01:15.6,2016,6
+15,16,Kevin  Magnussen  MAG,Renault,01:16.1,2016,6
+16,17,Marcus  Ericsson  ERI,Sauber Ferrari,01:16.3,2016,6
+17,18,Jolyon  Palmer  PAL,Renault,01:16.6,2016,6
+18,19,Rio  Haryanto  HAR,MRT Mercedes,01:17.3,2016,6
+19,20,Pascal  Wehrlein  WEH,MRT Mercedes,01:17.5,2016,6
+0,1,Lewis  Hamilton  HAM,Mercedes,01:12.8,2016,7
+1,2,Nico  Rosberg  ROS,Mercedes,01:12.9,2016,7
+2,3,Sebastian  Vettel  VET,Ferrari,01:13.0,2016,7
+3,4,Daniel  Ricciardo  RIC,Red Bull Racing TAG Heuer,01:13.2,2016,7
+4,5,Max  Verstappen  VER,Red Bull Racing TAG Heuer,01:13.4,2016,7
+5,6,Kimi  Räikkönen  RAI,Ferrari,01:13.6,2016,7
+6,7,Valtteri  Bottas  BOT,Williams Mercedes,01:13.7,2016,7
+7,8,Felipe  Massa  MAS,Williams Mercedes,01:13.8,2016,7
+8,9,Nico  Hulkenberg  HUL,Force India Mercedes,01:14.0,2016,7
+9,10,Fernando  Alonso  ALO,McLaren Honda,01:14.3,2016,7
+10,11,Sergio  Perez  PER,Force India Mercedes,01:14.3,2016,7
+11,12,Jenson  Button  BUT,McLaren Honda,01:14.4,2016,7
+12,13,Esteban  Gutierrez GUT,Haas Ferrari,01:14.6,2016,7
+13,14,Romain  Grosjean  GRO,Haas Ferrari,01:14.8,2016,7
+14,15,Daniil  Kvyat  KVY,Toro Rosso Ferrari,01:14.5,2016,7
+15,16,Jolyon  Palmer  PAL,Renault,01:15.5,2016,7
+16,17,Pascal  Wehrlein  WEH,MRT Mercedes,01:15.6,2016,7
+17,18,Felipe  Nasr  NAS,Sauber Ferrari,01:16.7,2016,7
+18,19,Rio  Haryanto  HAR,MRT Mercedes,01:17.1,2016,7
+19,20,Carlos  Sainz  SAI,Toro Rosso Ferrari,01:22.0,2016,7
+20,21,Marcus  Ericsson  ERI,Sauber Ferrari,01:15.6,2016,7
+21,22,Kevin  Magnussen  MAG,Renault,,2016,7
+0,1,Nico  Rosberg  ROS,Mercedes,01:42.8,2016,8
+1,2,Daniel  Ricciardo  RIC,Red Bull Racing TAG Heuer,01:44.0,2016,8
+2,3,Sebastian  Vettel  VET,Ferrari,01:44.0,2016,8
+3,4,Kimi  Räikkönen  RAI,Ferrari,01:44.3,2016,8
+4,5,Felipe  Massa  MAS,Williams Mercedes,01:44.5,2016,8
+5,6,Daniil  Kvyat  KVY,Toro Rosso Ferrari,01:44.7,2016,8
+6,7,Sergio  Perez  PER,Force India Mercedes,01:43.5,2016,8
+7,8,Valtteri  Bottas  BOT,Williams Mercedes,01:45.2,2016,8
+8,9,Max  Verstappen  VER,Red Bull Racing TAG Heuer,01:45.6,2016,8
+9,10,Lewis  Hamilton  HAM,Mercedes,02:02.0,2016,8
+10,11,Romain  Grosjean  GRO,Haas Ferrari,01:44.8,2016,8
+11,12,Nico  Hulkenberg  HUL,Force India Mercedes,01:44.8,2016,8
+12,13,Fernando  Alonso  ALO,McLaren Honda,01:45.3,2016,8
+13,14,Esteban  Gutierrez GUT,Haas Ferrari,01:45.3,2016,8
+14,15,Felipe  Nasr  NAS,Sauber Ferrari,01:46.0,2016,8
+15,16,Rio  Haryanto  HAR,MRT Mercedes,01:45.7,2016,8
+16,17,Pascal  Wehrlein  WEH,MRT Mercedes,01:45.7,2016,8
+17,18,Carlos  Sainz  SAI,Toro Rosso Ferrari,01:45.0,2016,8
+18,19,Jenson  Button  BUT,McLaren Honda,01:45.8,2016,8
+19,20,Marcus  Ericsson  ERI,Sauber Ferrari,01:46.2,2016,8
+20,21,Jolyon  Palmer  PAL,Renault,01:46.4,2016,8
+0,1,Lewis  Hamilton  HAM,Mercedes,01:07.9,2016,9
+1,2,Nico  Hulkenberg  HUL,Force India Mercedes,01:09.3,2016,9
+2,3,Jenson  Button  BUT,McLaren Honda,01:09.9,2016,9
+3,4,Kimi  Räikkönen  RAI,Ferrari,01:09.9,2016,9
+4,5,Daniel  Ricciardo  RIC,Red Bull Racing TAG Heuer,01:10.0,2016,9
+5,6,Nico  Rosberg  ROS,Mercedes,01:08.5,2016,9
+6,7,Valtteri  Bottas  BOT,Williams Mercedes,01:10.4,2016,9
+7,8,Max  Verstappen  VER,Red Bull Racing TAG Heuer,01:11.2,2016,9
+8,9,Sebastian  Vettel  VET,Ferrari,01:09.8,2016,9
+9,10,Felipe  Massa  MAS,Williams Mercedes,01:12.0,2016,9
+10,11,Esteban  Gutierrez GUT,Haas Ferrari,01:07.6,2016,9
+11,12,Pascal  Wehrlein  WEH,MRT Mercedes,01:07.7,2016,9
+12,13,Romain  Grosjean  GRO,Haas Ferrari,01:07.9,2016,9
+13,14,Fernando  Alonso  ALO,McLaren Honda,01:08.2,2016,9
+14,15,Carlos  Sainz  SAI,Toro Rosso Ferrari,,2016,9
+15,16,Sergio  Perez  PER,Force India Mercedes,,2016,9
+16,17,Kevin  Magnussen  MAG,Renault,01:07.9,2016,9
+17,18,Marcus  Ericsson  ERI,Sauber Ferrari,01:08.4,2016,9
+18,19,Jolyon  Palmer  PAL,Renault,01:08.0,2016,9
+19,20,Rio  Haryanto  HAR,MRT Mercedes,01:08.0,2016,9
+20,21,Felipe  Nasr  NAS,Sauber Ferrari,01:08.4,2016,9
+0,1,Lewis  Hamilton  HAM,Mercedes,01:29.3,2016,10
+1,2,Nico  Rosberg  ROS,Mercedes,01:29.6,2016,10
+2,3,Max  Verstappen  VER,Red Bull Racing TAG Heuer,01:30.3,2016,10
+3,4,Daniel  Ricciardo  RIC,Red Bull Racing TAG Heuer,01:30.6,2016,10
+4,5,Kimi  Räikkönen  RAI,Ferrari,01:30.9,2016,10
+5,6,Valtteri  Bottas  BOT,Williams Mercedes,01:31.6,2016,10
+6,7,Carlos  Sainz  SAI,Toro Rosso Ferrari,01:32.0,2016,10
+7,8,Nico  Hulkenberg  HUL,Force India Mercedes,01:32.2,2016,10
+8,9,Fernando  Alonso  ALO,McLaren Honda,01:32.3,2016,10
+9,10,Sergio  Perez  PER,Force India Mercedes,01:31.9,2016,10
+10,11,Sebastian  Vettel  VET,Ferrari,01:31.5,2016,10
+11,12,Felipe  Massa  MAS,Williams Mercedes,01:32.0,2016,10
+12,13,Romain  Grosjean  GRO,Haas Ferrari,01:32.0,2016,10
+13,14,Esteban  Gutierrez GUT,Haas Ferrari,01:32.2,2016,10
+14,15,Daniil  Kvyat  KVY,Toro Rosso Ferrari,01:32.3,2016,10
+15,16,Kevin  Magnussen  MAG,Renault,01:37.1,2016,10
+16,17,Jenson  Button  BUT,McLaren Honda,01:32.8,2016,10
+17,18,Jolyon  Palmer  PAL,Renault,01:32.9,2016,10
+18,19,Rio  Haryanto  HAR,MRT Mercedes,01:33.1,2016,10
+19,20,Pascal  Wehrlein  WEH,MRT Mercedes,01:33.2,2016,10
+20,21,Felipe  Nasr  NAS,Sauber Ferrari,01:33.5,2016,10
+0,1,Nico  Rosberg  ROS,Mercedes,01:20.0,2016,11
+1,2,Lewis  Hamilton  HAM,Mercedes,01:20.1,2016,11
+2,3,Daniel  Ricciardo  RIC,Red Bull Racing TAG Heuer,01:20.3,2016,11
+3,4,Max  Verstappen  VER,Red Bull Racing TAG Heuer,01:20.6,2016,11
+4,5,Sebastian  Vettel  VET,Ferrari,01:20.9,2016,11
+5,6,Carlos  Sainz  SAI,Toro Rosso Ferrari,01:21.1,2016,11
+6,7,Fernando  Alonso  ALO,McLaren Honda,01:21.2,2016,11
+7,8,Jenson  Button  BUT,McLaren Honda,01:21.6,2016,11
+8,9,Nico  Hulkenberg  HUL,Force India Mercedes,01:21.8,2016,11
+9,10,Valtteri  Bottas  BOT,Williams Mercedes,01:22.2,2016,11
+10,11,Romain  Grosjean  GRO,Haas Ferrari,01:24.9,2016,11
+11,12,Daniil  Kvyat  KVY,Toro Rosso Ferrari,01:25.3,2016,11
+12,13,Sergio  Perez  PER,Force India Mercedes,01:25.4,2016,11
+13,14,Kimi  Räikkönen  RAI,Ferrari,01:25.4,2016,11
+14,15,Esteban  Gutierrez GUT,Haas Ferrari,01:26.2,2016,11
+15,16,Felipe  Nasr  NAS,Sauber Ferrari,01:27.1,2016,11
+16,17,Jolyon  Palmer  PAL,Renault,01:44.0,2016,11
+17,18,Felipe  Massa  MAS,Williams Mercedes,01:44.0,2016,11
+18,19,Kevin  Magnussen  MAG,Renault,01:44.5,2016,11
+19,20,Pascal  Wehrlein  WEH,MRT Mercedes,01:47.3,2016,11
+20,21,Rio  Haryanto  HAR,MRT Mercedes,01:50.2,2016,11
+0,1,Nico  Rosberg  ROS,Mercedes,01:14.4,2016,12
+1,2,Lewis  Hamilton  HAM,Mercedes,01:14.5,2016,12
+2,3,Daniel  Ricciardo  RIC,Red Bull Racing TAG Heuer,01:14.7,2016,12
+3,4,Max  Verstappen  VER,Red Bull Racing TAG Heuer,01:14.8,2016,12
+4,5,Kimi  Räikkönen  RAI,Ferrari,01:15.1,2016,12
+5,6,Sebastian  Vettel  VET,Ferrari,01:15.3,2016,12
+6,7,Valtteri  Bottas  BOT,Williams Mercedes,01:15.5,2016,12
+7,8,Nico  Hulkenberg  HUL,Force India Mercedes,01:15.5,2016,12
+8,9,Sergio  Perez  PER,Force India Mercedes,01:15.5,2016,12
+9,10,Felipe  Massa  MAS,Williams Mercedes,01:15.6,2016,12
+10,11,Esteban  Gutierrez GUT,Haas Ferrari,01:15.9,2016,12
+11,12,Jenson  Button  BUT,McLaren Honda,01:15.9,2016,12
+12,13,Fernando  Alonso  ALO,McLaren Honda,01:16.0,2016,12
+13,14,Jolyon  Palmer  PAL,Renault,01:16.7,2016,12
+14,15,Carlos  Sainz  SAI,Toro Rosso Ferrari,01:16.0,2016,12
+15,16,Kevin  Magnussen  MAG,Renault,01:16.7,2016,12
+16,17,Pascal  Wehrlein  WEH,MRT Mercedes,01:16.7,2016,12
+17,18,Daniil  Kvyat  KVY,Toro Rosso Ferrari,01:16.9,2016,12
+18,19,Rio  Haryanto  HAR,MRT Mercedes,01:17.0,2016,12
+19,20,Romain  Grosjean  GRO,Haas Ferrari,01:16.1,2016,12
+20,21,Felipe  Nasr  NAS,Sauber Ferrari,01:17.1,2016,12
+21,22,Marcus  Ericsson  ERI,Sauber Ferrari,01:17.2,2016,12
+0,1,Nico  Rosberg  ROS,Mercedes,01:46.7,2016,13
+1,2,Max  Verstappen  VER,Red Bull Racing TAG Heuer,01:46.9,2016,13
+2,3,Kimi  Räikkönen  RAI,Ferrari,01:46.9,2016,13
+3,4,Sebastian  Vettel  VET,Ferrari,01:47.1,2016,13
+4,5,Daniel  Ricciardo  RIC,Red Bull Racing TAG Heuer,01:47.2,2016,13
+5,6,Sergio  Perez  PER,Force India Mercedes,01:47.4,2016,13
+6,7,Nico  Hulkenberg  HUL,Force India Mercedes,01:47.5,2016,13
+7,8,Valtteri  Bottas  BOT,Williams Mercedes,01:47.6,2016,13
+8,9,Jenson  Button  BUT,McLaren Honda,01:48.1,2016,13
+9,10,Felipe  Massa  MAS,Williams Mercedes,01:48.3,2016,13
+10,11,Romain  Grosjean  GRO,Haas Ferrari,01:48.3,2016,13
+11,12,Kevin  Magnussen  MAG,Renault,01:48.5,2016,13
+12,13,Jolyon  Palmer  PAL,Renault,01:48.9,2016,13
+13,14,Carlos  Sainz  SAI,Toro Rosso Ferrari,01:49.0,2016,13
+14,15,Pascal  Wehrlein  WEH,MRT Mercedes,01:49.3,2016,13
+15,16,Felipe  Nasr  NAS,Sauber Ferrari,01:48.9,2016,13
+16,17,Esteban  Ocon  OCO,MRT Mercedes,01:49.1,2016,13
+17,18,Esteban  Gutierrez GUT,Haas Ferrari,01:48.6,2016,13
+18,19,Daniil  Kvyat  KVY,Toro Rosso Ferrari,01:49.1,2016,13
+19,20,Marcus  Ericsson  ERI,Sauber Ferrari,01:49.1,2016,13
+20,21,Lewis  Hamilton  HAM,Mercedes,01:50.0,2016,13
+21,22,Fernando  Alonso  ALO,McLaren Honda,,2016,13
+0,1,Lewis  Hamilton  HAM,Mercedes,01:21.1,2016,14
+1,2,Nico  Rosberg  ROS,Mercedes,01:21.6,2016,14
+2,3,Sebastian  Vettel  VET,Ferrari,01:22.0,2016,14
+3,4,Kimi  Räikkönen  RAI,Ferrari,01:22.1,2016,14
+4,5,Valtteri  Bottas  BOT,Williams Mercedes,01:22.4,2016,14
+5,6,Daniel  Ricciardo  RIC,Red Bull Racing TAG Heuer,01:22.4,2016,14
+6,7,Max  Verstappen  VER,Red Bull Racing TAG Heuer,01:22.4,2016,14
+7,8,Sergio  Perez  PER,Force India Mercedes,01:22.8,2016,14
+8,9,Nico  Hulkenberg  HUL,Force India Mercedes,01:22.8,2016,14
+9,10,Esteban  Gutierrez GUT,Haas Ferrari,01:23.2,2016,14
+10,11,Felipe  Massa  MAS,Williams Mercedes,01:23.0,2016,14
+11,12,Fernando  Alonso  ALO,McLaren Honda,01:23.3,2016,14
+12,13,Pascal  Wehrlein  WEH,MRT Mercedes,01:23.3,2016,14
+13,14,Jenson  Button  BUT,McLaren Honda,01:23.4,2016,14
+14,15,Carlos  Sainz  SAI,Toro Rosso Ferrari,01:23.5,2016,14
+15,16,Daniil  Kvyat  KVY,Toro Rosso Ferrari,01:23.8,2016,14
+16,17,Romain  Grosjean  GRO,Haas Ferrari,01:23.1,2016,14
+17,18,Felipe  Nasr  NAS,Sauber Ferrari,01:24.0,2016,14
+18,19,Marcus  Ericsson  ERI,Sauber Ferrari,01:24.1,2016,14
+19,20,Jolyon  Palmer  PAL,Renault,01:24.2,2016,14
+20,21,Kevin  Magnussen  MAG,Renault,01:24.4,2016,14
+21,22,Esteban  Ocon  OCO,MRT Mercedes,,2016,14
+0,1,Nico  Rosberg  ROS,Mercedes,01:42.6,2016,15
+1,2,Daniel  Ricciardo  RIC,Red Bull Racing TAG Heuer,01:43.1,2016,15
+2,3,Lewis  Hamilton  HAM,Mercedes,01:43.3,2016,15
+3,4,Max  Verstappen  VER,Red Bull Racing TAG Heuer,01:43.3,2016,15
+4,5,Kimi  Räikkönen  RAI,Ferrari,01:43.5,2016,15
+5,6,Carlos  Sainz  SAI,Toro Rosso Ferrari,01:44.2,2016,15
+6,7,Daniil  Kvyat  KVY,Toro Rosso Ferrari,01:44.5,2016,15
+7,8,Nico  Hulkenberg  HUL,Force India Mercedes,01:44.5,2016,15
+8,9,Fernando  Alonso  ALO,McLaren Honda,01:44.6,2016,15
+9,10,Valtteri  Bottas  BOT,Williams Mercedes,01:44.7,2016,15
+10,11,Felipe  Massa  MAS,Williams Mercedes,01:45.0,2016,15
+11,12,Jenson  Button  BUT,McLaren Honda,01:45.1,2016,15
+12,13,Esteban  Gutierrez GUT,Haas Ferrari,01:45.6,2016,15
+13,14,Marcus  Ericsson  ERI,Sauber Ferrari,01:47.8,2016,15
+14,15,Kevin  Magnussen  MAG,Renault,01:46.8,2016,15
+15,16,Felipe  Nasr  NAS,Sauber Ferrari,01:46.9,2016,15
+16,17,Sergio  Perez  PER,Force India Mercedes,01:44.6,2016,15
+17,18,Jolyon  Palmer  PAL,Renault,01:47.0,2016,15
+18,19,Pascal  Wehrlein  WEH,MRT Mercedes,01:47.7,2016,15
+19,20,Romain  Grosjean  GRO,Haas Ferrari,01:45.7,2016,15
+20,21,Esteban  Ocon  OCO,MRT Mercedes,01:48.3,2016,15
+21,22,Sebastian  Vettel  VET,Ferrari,01:49.1,2016,15
+0,1,Lewis  Hamilton  HAM,Mercedes,01:32.8,2016,16
+1,2,Nico  Rosberg  ROS,Mercedes,01:33.3,2016,16
+2,3,Max  Verstappen  VER,Red Bull Racing TAG Heuer,01:33.4,2016,16
+3,4,Daniel  Ricciardo  RIC,Red Bull Racing TAG Heuer,01:33.5,2016,16
+4,5,Sebastian  Vettel  VET,Ferrari,01:33.6,2016,16
+5,6,Kimi  Räikkönen  RAI,Ferrari,01:33.6,2016,16
+6,7,Sergio  Perez  PER,Force India Mercedes,01:34.3,2016,16
+7,8,Nico  Hulkenberg  HUL,Force India Mercedes,01:34.5,2016,16
+8,9,Jenson  Button  BUT,McLaren Honda,01:34.5,2016,16
+9,10,Felipe  Massa  MAS,Williams Mercedes,01:34.7,2016,16
+10,11,Valtteri  Bottas  BOT,Williams Mercedes,01:34.6,2016,16
+11,12,Romain  Grosjean  GRO,Haas Ferrari,01:35.0,2016,16
+12,13,Esteban  Gutierrez GUT,Haas Ferrari,01:35.1,2016,16
+13,14,Kevin  Magnussen  MAG,Renault,01:35.3,2016,16
+14,15,Daniil  Kvyat  KVY,Toro Rosso Ferrari,01:35.4,2016,16
+15,16,Carlos  Sainz  SAI,Toro Rosso Ferrari,01:35.4,2016,16
+16,17,Marcus  Ericsson  ERI,Sauber Ferrari,01:35.8,2016,16
+17,18,Felipe  Nasr  NAS,Sauber Ferrari,01:35.9,2016,16
+18,19,Jolyon  Palmer  PAL,Renault,01:36.0,2016,16
+19,20,Esteban  Ocon  OCO,MRT Mercedes,01:36.5,2016,16
+20,21,Pascal  Wehrlein  WEH,MRT Mercedes,01:36.6,2016,16
+21,22,Fernando  Alonso  ALO,McLaren Honda,01:37.2,2016,16
+0,1,Nico  Rosberg  ROS,Mercedes,01:30.6,2016,17
+1,2,Lewis  Hamilton  HAM,Mercedes,01:30.7,2016,17
+2,3,Max  Verstappen  VER,Red Bull Racing TAG Heuer,01:31.2,2016,17
+3,4,Daniel  Ricciardo  RIC,Red Bull Racing TAG Heuer,01:31.2,2016,17
+4,5,Sergio  Perez  PER,Force India Mercedes,01:32.0,2016,17
+5,6,Sebastian  Vettel  VET,Ferrari,01:31.0,2016,17
+6,7,Romain  Grosjean  GRO,Haas Ferrari,01:32.0,2016,17
+7,8,Kimi  Räikkönen  RAI,Ferrari,01:30.9,2016,17
+8,9,Nico  Hulkenberg  HUL,Force India Mercedes,01:32.1,2016,17
+9,10,Esteban  Gutierrez GUT,Haas Ferrari,01:32.5,2016,17
+10,11,Valtteri  Bottas  BOT,Williams Mercedes,01:32.3,2016,17
+11,12,Felipe  Massa  MAS,Williams Mercedes,01:32.4,2016,17
+12,13,Daniil  Kvyat  KVY,Toro Rosso Ferrari,01:32.6,2016,17
+13,14,Carlos  Sainz  SAI,Toro Rosso Ferrari,01:32.7,2016,17
+14,15,Fernando  Alonso  ALO,McLaren Honda,01:32.7,2016,17
+15,16,Jolyon  Palmer  PAL,Renault,01:32.8,2016,17
+16,17,Kevin  Magnussen  MAG,Renault,01:33.0,2016,17
+17,18,Marcus  Ericsson  ERI,Sauber Ferrari,01:33.2,2016,17
+18,19,Felipe  Nasr  NAS,Sauber Ferrari,01:33.3,2016,17
+19,20,Esteban  Ocon  OCO,MRT Mercedes,01:33.4,2016,17
+20,21,Pascal  Wehrlein  WEH,MRT Mercedes,01:33.6,2016,17
+21,22,Jenson  Button  BUT,McLaren Honda,01:32.9,2016,17
+0,1,Lewis  Hamilton  HAM,Mercedes,01:35.0,2016,18
+1,2,Nico  Rosberg  ROS,Mercedes,01:35.2,2016,18
+2,3,Daniel  Ricciardo  RIC,Red Bull Racing TAG Heuer,01:35.5,2016,18
+3,4,Max  Verstappen  VER,Red Bull Racing TAG Heuer,01:35.7,2016,18
+4,5,Kimi  Räikkönen  RAI,Ferrari,01:36.1,2016,18
+5,6,Sebastian  Vettel  VET,Ferrari,01:36.4,2016,18
+6,7,Nico  Hulkenberg  HUL,Force India Mercedes,01:36.6,2016,18
+7,8,Valtteri  Bottas  BOT,Williams Mercedes,01:37.1,2016,18
+8,9,Felipe  Massa  MAS,Williams Mercedes,01:37.3,2016,18
+9,10,Carlos  Sainz  SAI,Toro Rosso Ferrari,01:37.3,2016,18
+10,11,Sergio  Perez  PER,Force India Mercedes,01:37.4,2016,18
+11,12,Fernando  Alonso  ALO,McLaren Honda,01:37.4,2016,18
+12,13,Daniil  Kvyat  KVY,Toro Rosso Ferrari,01:37.5,2016,18
+13,14,Esteban  Gutierrez GUT,Haas Ferrari,01:37.8,2016,18
+14,15,Jolyon  Palmer  PAL,Renault,01:37.9,2016,18
+15,16,Marcus  Ericsson  ERI,Sauber Ferrari,01:39.4,2016,18
+16,17,Romain  Grosjean  GRO,Haas Ferrari,01:38.3,2016,18
+17,18,Kevin  Magnussen  MAG,Renault,01:38.3,2016,18
+18,19,Jenson  Button  BUT,McLaren Honda,01:38.3,2016,18
+19,20,Pascal  Wehrlein  WEH,MRT Mercedes,01:38.5,2016,18
+20,21,Felipe  Nasr  NAS,Sauber Ferrari,01:38.6,2016,18
+21,22,Esteban  Ocon  OCO,MRT Mercedes,01:38.8,2016,18
+0,1,Lewis  Hamilton  HAM,Mercedes,01:18.7,2016,19
+1,2,Nico  Rosberg  ROS,Mercedes,01:19.0,2016,19
+2,3,Max  Verstappen  VER,Red Bull Racing TAG Heuer,01:19.1,2016,19
+3,4,Daniel  Ricciardo  RIC,Red Bull Racing TAG Heuer,01:19.1,2016,19
+4,5,Nico  Hulkenberg  HUL,Force India Mercedes,01:19.3,2016,19
+5,6,Kimi  Räikkönen  RAI,Ferrari,01:19.4,2016,19
+6,7,Sebastian  Vettel  VET,Ferrari,01:19.4,2016,19
+7,8,Valtteri  Bottas  BOT,Williams Mercedes,01:19.6,2016,19
+8,9,Felipe  Massa  MAS,Williams Mercedes,01:20.0,2016,19
+9,10,Carlos  Sainz  SAI,Toro Rosso Ferrari,01:20.4,2016,19
+10,11,Fernando  Alonso  ALO,McLaren Honda,01:20.3,2016,19
+11,12,Sergio  Perez  PER,Force India Mercedes,01:20.3,2016,19
+12,13,Jenson  Button  BUT,McLaren Honda,01:20.7,2016,19
+13,14,Kevin  Magnussen  MAG,Renault,01:21.1,2016,19
+14,15,Marcus  Ericsson  ERI,Sauber Ferrari,01:21.5,2016,19
+15,16,Pascal  Wehrlein  WEH,MRT Mercedes,01:21.8,2016,19
+16,17,Esteban  Gutierrez GUT,Haas Ferrari,01:21.4,2016,19
+17,18,Daniil  Kvyat  KVY,Toro Rosso Ferrari,01:21.5,2016,19
+18,19,Felipe  Nasr  NAS,Sauber Ferrari,01:21.7,2016,19
+19,20,Esteban  Ocon  OCO,MRT Mercedes,01:21.9,2016,19
+20,21,Jolyon  Palmer  PAL,Renault,,2016,19
+0,1,Lewis  Hamilton  HAM,Mercedes,01:10.7,2016,20
+1,2,Nico  Rosberg  ROS,Mercedes,01:10.8,2016,20
+2,3,Kimi  Räikkönen  RAI,Ferrari,01:11.4,2016,20
+3,4,Max  Verstappen  VER,Red Bull Racing TAG Heuer,01:11.5,2016,20
+4,5,Sebastian  Vettel  VET,Ferrari,01:11.5,2016,20
+5,6,Daniel  Ricciardo  RIC,Red Bull Racing TAG Heuer,01:11.5,2016,20
+6,7,Romain  Grosjean  GRO,Haas Ferrari,01:11.9,2016,20
+7,8,Nico  Hulkenberg  HUL,Force India Mercedes,01:12.1,2016,20
+8,9,Sergio  Perez  PER,Force India Mercedes,01:12.2,2016,20
+9,10,Fernando  Alonso  ALO,McLaren Honda,01:12.3,2016,20
+10,11,Valtteri  Bottas  BOT,Williams Mercedes,01:12.4,2016,20
+11,12,Esteban  Gutierrez GUT,Haas Ferrari,01:12.4,2016,20
+12,13,Felipe  Massa  MAS,Williams Mercedes,01:12.5,2016,20
+13,14,Daniil  Kvyat  KVY,Toro Rosso Ferrari,01:12.7,2016,20
+14,15,Carlos  Sainz  SAI,Toro Rosso Ferrari,01:12.9,2016,20
+15,16,Jolyon  Palmer  PAL,Renault,01:13.3,2016,20
+16,17,Jenson  Button  BUT,McLaren Honda,01:13.3,2016,20
+17,18,Kevin  Magnussen  MAG,Renault,01:13.4,2016,20
+18,19,Pascal  Wehrlein  WEH,MRT Mercedes,01:13.4,2016,20
+19,20,Marcus  Ericsson  ERI,Sauber Ferrari,01:13.6,2016,20
+20,21,Felipe  Nasr  NAS,Sauber Ferrari,01:13.7,2016,20
+21,22,Esteban  Ocon  OCO,MRT Mercedes,01:13.4,2016,20
+0,1,Lewis  Hamilton  HAM,Mercedes,01:38.8,2016,21
+1,2,Nico  Rosberg  ROS,Mercedes,01:39.1,2016,21
+2,3,Daniel  Ricciardo  RIC,Red Bull Racing TAG Heuer,01:39.6,2016,21
+3,4,Kimi  Räikkönen  RAI,Ferrari,01:39.6,2016,21
+4,5,Sebastian  Vettel  VET,Ferrari,01:39.7,2016,21
+5,6,Max  Verstappen  VER,Red Bull Racing TAG Heuer,01:39.8,2016,21
+6,7,Nico  Hulkenberg  HUL,Force India Mercedes,01:40.5,2016,21
+7,8,Sergio  Perez  PER,Force India Mercedes,01:40.5,2016,21
+8,9,Fernando  Alonso  ALO,McLaren Honda,01:41.1,2016,21
+9,10,Felipe  Massa  MAS,Williams Mercedes,01:41.2,2016,21
+10,11,Valtteri  Bottas  BOT,Williams Mercedes,01:41.1,2016,21
+11,12,Jenson  Button  BUT,McLaren Honda,01:41.3,2016,21
+12,13,Esteban  Gutierrez GUT,Haas Ferrari,01:41.5,2016,21
+13,14,Romain  Grosjean  GRO,Haas Ferrari,01:41.6,2016,21
+14,15,Jolyon  Palmer  PAL,Renault,01:41.8,2016,21
+15,16,Pascal  Wehrlein  WEH,MRT Mercedes,01:42.0,2016,21
+16,17,Daniil  Kvyat  KVY,Toro Rosso Ferrari,01:42.0,2016,21
+17,18,Kevin  Magnussen  MAG,Renault,01:42.1,2016,21
+18,19,Felipe  Nasr  NAS,Sauber Ferrari,01:42.2,2016,21
+19,20,Esteban  Ocon  OCO,MRT Mercedes,01:42.3,2016,21
+20,21,Carlos  Sainz  SAI,Toro Rosso Ferrari,01:42.4,2016,21
+21,22,Marcus  Ericsson  ERI,Sauber Ferrari,01:42.6,2016,21
+0,1,Lewis  Hamilton  HAM,Mercedes,01:22.2,2017,1
+1,2,Sebastian  Vettel  VET,Ferrari,01:22.5,2017,1
+2,3,Valtteri  Bottas  BOT,Mercedes,01:22.5,2017,1
+3,4,Kimi  Räikkönen  RAI,Ferrari,01:23.0,2017,1
+4,5,Max  Verstappen  VER,Red Bull Racing TAG Heuer,01:23.5,2017,1
+5,6,Romain  Grosjean  GRO,Haas Ferrari,01:24.1,2017,1
+6,7,Felipe  Massa  MAS,Williams Mercedes,01:24.4,2017,1
+7,8,Carlos  Sainz  SAI,Toro Rosso,01:24.5,2017,1
+8,9,Daniil  Kvyat  KVY,Toro Rosso,01:24.5,2017,1
+9,10,Sergio  Perez  PER,Force India Mercedes,01:25.1,2017,1
+10,11,Nico  Hulkenberg  HUL,Renault,01:25.1,2017,1
+11,12,Fernando  Alonso  ALO,McLaren Honda,01:25.4,2017,1
+12,13,Esteban  Ocon  OCO,Force India Mercedes,01:25.6,2017,1
+13,14,Marcus  Ericsson  ERI,Sauber Ferrari,01:26.5,2017,1
+14,15,Daniel  Ricciardo  RIC,Red Bull Racing TAG Heuer,,2017,1
+15,16,Antonio  Giovinazzi  GIO,Sauber Ferrari,01:26.4,2017,1
+16,17,Kevin  Magnussen  MAG,Haas Ferrari,01:26.8,2017,1
+17,18,Stoffel  Vandoorne  VAN,McLaren Honda,01:26.9,2017,1
+18,19,Jolyon  Palmer  PAL,Renault,01:28.2,2017,1
+19,20,Lance  Stroll  STR,Williams Mercedes,01:27.1,2017,1
+0,1,Lewis  Hamilton  HAM,Mercedes,01:31.7,2017,2
+1,2,Sebastian  Vettel  VET,Ferrari,01:31.9,2017,2
+2,3,Valtteri  Bottas  BOT,Mercedes,01:31.9,2017,2
+3,4,Kimi  Räikkönen  RAI,Ferrari,01:32.1,2017,2
+4,5,Daniel  Ricciardo  RIC,Red Bull Racing TAG Heuer,01:33.0,2017,2
+5,6,Felipe  Massa  MAS,Williams Mercedes,01:33.5,2017,2
+6,7,Nico  Hulkenberg  HUL,Renault,01:33.6,2017,2
+7,8,Sergio  Perez  PER,Force India Mercedes,01:33.7,2017,2
+8,9,Daniil  Kvyat  KVY,Toro Rosso,01:33.7,2017,2
+9,10,Lance  Stroll  STR,Williams Mercedes,01:34.2,2017,2
+10,11,Carlos  Sainz  SAI,Toro Rosso,01:34.2,2017,2
+11,12,Kevin  Magnussen  MAG,Haas Ferrari,01:34.2,2017,2
+12,13,Fernando  Alonso  ALO,McLaren Honda,01:34.4,2017,2
+13,14,Marcus  Ericsson  ERI,Sauber Ferrari,01:35.0,2017,2
+14,15,Stoffel  Vandoorne  VAN,McLaren Honda,01:35.0,2017,2
+15,16,Max  Verstappen  VER,Red Bull Racing TAG Heuer,01:35.4,2017,2
+16,17,Esteban  Ocon  OCO,Force India Mercedes,01:35.5,2017,2
+17,18,Antonio  Giovinazzi  GIO,Sauber Ferrari,,2017,2
+18,19,Romain  Grosjean  GRO,Haas Ferrari,01:35.2,2017,2
+19,20,Jolyon  Palmer  PAL,Renault,01:35.3,2017,2
+0,1,Valtteri  Bottas  BOT,Mercedes,01:28.8,2017,3
+1,2,Lewis  Hamilton  HAM,Mercedes,01:28.8,2017,3
+2,3,Sebastian  Vettel  VET,Ferrari,01:29.2,2017,3
+3,4,Daniel  Ricciardo  RIC,Red Bull Racing TAG Heuer,01:29.5,2017,3
+4,5,Kimi  Räikkönen  RAI,Ferrari,01:29.6,2017,3
+5,6,Max  Verstappen  VER,Red Bull Racing TAG Heuer,01:29.7,2017,3
+6,7,Nico  Hulkenberg  HUL,Renault,01:29.8,2017,3
+7,8,Felipe  Massa  MAS,Williams Mercedes,01:30.1,2017,3
+8,9,Romain  Grosjean  GRO,Haas Ferrari,01:30.8,2017,3
+9,10,Jolyon  Palmer  PAL,Renault,01:31.1,2017,3
+10,11,Daniil  Kvyat  KVY,Toro Rosso,01:30.9,2017,3
+11,12,Lance  Stroll  STR,Williams Mercedes,01:31.2,2017,3
+12,13,Pascal  Wehrlein  WEH,Sauber Ferrari,01:31.4,2017,3
+13,14,Esteban  Ocon  OCO,Force India Mercedes,01:31.7,2017,3
+14,15,Fernando  Alonso  ALO,McLaren Honda,,2017,3
+15,16,Carlos  Sainz  SAI,Toro Rosso,01:32.1,2017,3
+16,17,Stoffel  Vandoorne  VAN,McLaren Honda,01:32.3,2017,3
+17,18,Sergio  Perez  PER,Force India Mercedes,01:32.3,2017,3
+18,19,Marcus  Ericsson  ERI,Sauber Ferrari,01:32.5,2017,3
+19,20,Kevin  Magnussen  MAG,Haas Ferrari,01:32.9,2017,3
+0,1,Sebastian  Vettel  VET,Ferrari,01:33.2,2017,4
+1,2,Kimi  Räikkönen  RAI,Ferrari,01:33.3,2017,4
+2,3,Valtteri  Bottas  BOT,Mercedes,01:33.3,2017,4
+3,4,Lewis  Hamilton  HAM,Mercedes,01:33.8,2017,4
+4,5,Daniel  Ricciardo  RIC,Red Bull Racing TAG Heuer,01:34.9,2017,4
+5,6,Felipe  Massa  MAS,Williams Mercedes,01:35.1,2017,4
+6,7,Max  Verstappen  VER,Red Bull Racing TAG Heuer,01:35.2,2017,4
+7,8,Nico  Hulkenberg  HUL,Renault,01:35.3,2017,4
+8,9,Sergio  Perez  PER,Force India Mercedes,01:35.3,2017,4
+9,10,Esteban  Ocon  OCO,Force India Mercedes,01:35.4,2017,4
+10,11,Lance  Stroll  STR,Williams Mercedes,01:36.0,2017,4
+11,12,Daniil  Kvyat  KVY,Toro Rosso,01:36.0,2017,4
+12,13,Kevin  Magnussen  MAG,Haas Ferrari,01:36.0,2017,4
+13,14,Carlos  Sainz  SAI,Toro Rosso,01:35.9,2017,4
+14,15,Fernando  Alonso  ALO,McLaren Honda,01:36.7,2017,4
+15,16,Jolyon  Palmer  PAL,Renault,01:36.5,2017,4
+16,17,Pascal  Wehrlein  WEH,Sauber Ferrari,01:37.3,2017,4
+17,18,Marcus  Ericsson  ERI,Sauber Ferrari,01:37.5,2017,4
+18,19,Romain  Grosjean  GRO,Haas Ferrari,01:37.6,2017,4
+19,20,Stoffel  Vandoorne  VAN,McLaren Honda,01:37.1,2017,4
+0,1,Lewis  Hamilton  HAM,Mercedes,01:19.1,2017,5
+1,2,Sebastian  Vettel  VET,Ferrari,01:19.2,2017,5
+2,3,Valtteri  Bottas  BOT,Mercedes,01:19.4,2017,5
+3,4,Kimi  Räikkönen  RAI,Ferrari,01:19.4,2017,5
+4,5,Max  Verstappen  VER,Red Bull Racing TAG Heuer,01:19.7,2017,5
+5,6,Daniel  Ricciardo  RIC,Red Bull Racing TAG Heuer,01:20.2,2017,5
+6,7,Fernando  Alonso  ALO,McLaren Honda,01:21.0,2017,5
+7,8,Sergio  Perez  PER,Force India Mercedes,01:21.1,2017,5
+8,9,Felipe  Massa  MAS,Williams Mercedes,01:21.2,2017,5
+9,10,Esteban  Ocon  OCO,Force India Mercedes,01:21.3,2017,5
+10,11,Kevin  Magnussen  MAG,Haas Ferrari,01:21.3,2017,5
+11,12,Carlos  Sainz  SAI,Toro Rosso,01:21.4,2017,5
+12,13,Nico  Hulkenberg  HUL,Renault,01:21.4,2017,5
+13,14,Romain  Grosjean  GRO,Haas Ferrari,01:21.5,2017,5
+14,15,Pascal  Wehrlein  WEH,Sauber Ferrari,01:21.8,2017,5
+15,16,Marcus  Ericsson  ERI,Sauber Ferrari,01:22.3,2017,5
+16,17,Jolyon  Palmer  PAL,Renault,01:22.4,2017,5
+17,18,Lance  Stroll  STR,Williams Mercedes,01:22.4,2017,5
+18,19,Daniil  Kvyat  KVY,Toro Rosso,01:22.7,2017,5
+19,20,Stoffel  Vandoorne  VAN,McLaren Honda,01:22.5,2017,5
+0,1,Kimi  Räikkönen  RAI,Ferrari,01:12.2,2017,6
+1,2,Sebastian  Vettel  VET,Ferrari,01:12.2,2017,6
+2,3,Valtteri  Bottas  BOT,Mercedes,01:12.2,2017,6
+3,4,Max  Verstappen  VER,Red Bull Racing TAG Heuer,01:12.5,2017,6
+4,5,Daniel  Ricciardo  RIC,Red Bull Racing TAG Heuer,01:13.0,2017,6
+5,6,Carlos  Sainz  SAI,Toro Rosso,01:13.2,2017,6
+6,7,Sergio  Perez  PER,Force India Mercedes,01:13.3,2017,6
+7,8,Romain  Grosjean  GRO,Haas Ferrari,01:13.3,2017,6
+8,9,Daniil  Kvyat  KVY,Toro Rosso,01:13.5,2017,6
+9,10,Nico  Hulkenberg  HUL,Renault,01:13.6,2017,6
+10,11,Kevin  Magnussen  MAG,Haas Ferrari,01:14.0,2017,6
+11,12,Stoffel  Vandoorne  VAN,McLaren Honda,,2017,6
+12,13,Lewis  Hamilton  HAM,Mercedes,01:14.1,2017,6
+13,14,Felipe  Massa  MAS,Williams Mercedes,01:20.5,2017,6
+14,15,Esteban  Ocon  OCO,Force India Mercedes,01:14.1,2017,6
+15,16,Jolyon  Palmer  PAL,Renault,01:14.7,2017,6
+16,17,Lance  Stroll  STR,Williams Mercedes,01:14.9,2017,6
+17,18,Pascal  Wehrlein  WEH,Sauber Ferrari,01:15.2,2017,6
+18,19,Marcus  Ericsson  ERI,Sauber Ferrari,01:15.3,2017,6
+0,1,Lewis  Hamilton  HAM,Mercedes,01:11.5,2017,7
+1,2,Sebastian  Vettel  VET,Ferrari,01:11.8,2017,7
+2,3,Valtteri  Bottas  BOT,Mercedes,01:12.2,2017,7
+3,4,Kimi  Räikkönen  RAI,Ferrari,01:12.3,2017,7
+4,5,Max  Verstappen  VER,Red Bull Racing TAG Heuer,01:12.4,2017,7
+5,6,Daniel  Ricciardo  RIC,Red Bull Racing TAG Heuer,01:12.6,2017,7
+6,7,Felipe  Massa  MAS,Williams Mercedes,01:12.9,2017,7
+7,8,Sergio  Perez  PER,Force India Mercedes,01:13.0,2017,7
+8,9,Esteban  Ocon  OCO,Force India Mercedes,01:13.1,2017,7
+9,10,Nico  Hulkenberg  HUL,Renault,01:13.3,2017,7
+10,11,Daniil  Kvyat  KVY,Toro Rosso,01:13.7,2017,7
+11,12,Fernando  Alonso  ALO,McLaren Honda,01:13.7,2017,7
+12,13,Carlos  Sainz  SAI,Toro Rosso,01:13.8,2017,7
+13,14,Romain  Grosjean  GRO,Haas Ferrari,01:13.8,2017,7
+14,15,Jolyon  Palmer  PAL,Renault,01:14.3,2017,7
+15,16,Stoffel  Vandoorne  VAN,McLaren Honda,01:14.2,2017,7
+16,17,Lance  Stroll  STR,Williams Mercedes,01:14.2,2017,7
+17,18,Kevin  Magnussen  MAG,Haas Ferrari,01:14.3,2017,7
+18,19,Marcus  Ericsson  ERI,Sauber Ferrari,01:14.5,2017,7
+0,1,Lewis  Hamilton  HAM,Mercedes,01:40.6,2017,8
+1,2,Valtteri  Bottas  BOT,Mercedes,01:41.0,2017,8
+2,3,Kimi  Räikkönen  RAI,Ferrari,01:41.7,2017,8
+3,4,Sebastian  Vettel  VET,Ferrari,01:41.8,2017,8
+4,5,Max  Verstappen  VER,Red Bull Racing TAG Heuer,01:41.9,2017,8
+5,6,Sergio  Perez  PER,Force India Mercedes,01:42.1,2017,8
+6,7,Esteban  Ocon  OCO,Force India Mercedes,01:42.2,2017,8
+7,8,Lance  Stroll  STR,Williams Mercedes,01:42.8,2017,8
+8,9,Felipe  Massa  MAS,Williams Mercedes,01:42.8,2017,8
+9,10,Daniel  Ricciardo  RIC,Red Bull Racing TAG Heuer,01:43.4,2017,8
+10,11,Daniil  Kvyat  KVY,Toro Rosso,01:43.2,2017,8
+11,12,Kevin  Magnussen  MAG,Haas Ferrari,01:43.8,2017,8
+12,13,Nico  Hulkenberg  HUL,Renault,01:44.3,2017,8
+13,14,Pascal  Wehrlein  WEH,Sauber Ferrari,01:44.6,2017,8
+14,15,Carlos  Sainz  SAI,Toro Rosso,01:43.3,2017,8
+15,16,Romain  Grosjean  GRO,Haas Ferrari,01:44.5,2017,8
+16,17,Marcus  Ericsson  ERI,Sauber Ferrari,01:44.8,2017,8
+17,18,Stoffel  Vandoorne  VAN,McLaren Honda,01:45.0,2017,8
+18,19,Fernando  Alonso  ALO,McLaren Honda,01:44.3,2017,8
+19,20,Jolyon  Palmer  PAL,Renault,,2017,8
+0,1,Valtteri  Bottas  BOT,Mercedes,01:04.3,2017,9
+1,2,Sebastian  Vettel  VET,Ferrari,01:04.3,2017,9
+2,3,Kimi  Räikkönen  RAI,Ferrari,01:04.8,2017,9
+3,4,Daniel  Ricciardo  RIC,Red Bull Racing TAG Heuer,01:04.9,2017,9
+4,5,Max  Verstappen  VER,Red Bull Racing TAG Heuer,01:05.0,2017,9
+5,6,Romain  Grosjean  GRO,Haas Ferrari,01:05.5,2017,9
+6,7,Sergio  Perez  PER,Force India Mercedes,01:05.6,2017,9
+7,8,Lewis  Hamilton  HAM,Mercedes,01:04.4,2017,9
+8,9,Esteban  Ocon  OCO,Force India Mercedes,01:05.7,2017,9
+9,10,Carlos  Sainz  SAI,Toro Rosso,01:05.7,2017,9
+10,11,Nico  Hulkenberg  HUL,Renault,01:05.6,2017,9
+11,12,Fernando  Alonso  ALO,McLaren Honda,01:05.6,2017,9
+12,13,Stoffel  Vandoorne  VAN,McLaren Honda,01:05.7,2017,9
+13,14,Daniil  Kvyat  KVY,Toro Rosso,01:05.9,2017,9
+14,15,Kevin  Magnussen  MAG,Haas Ferrari,,2017,9
+15,16,Jolyon  Palmer  PAL,Renault,01:06.3,2017,9
+16,17,Felipe  Massa  MAS,Williams Mercedes,01:06.5,2017,9
+17,18,Lance  Stroll  STR,Williams Mercedes,01:06.6,2017,9
+18,19,Marcus  Ericsson  ERI,Sauber Ferrari,01:06.9,2017,9
+0,1,Lewis  Hamilton  HAM,Mercedes,01:26.6,2017,10
+1,2,Kimi  Räikkönen  RAI,Ferrari,01:27.1,2017,10
+2,3,Sebastian  Vettel  VET,Ferrari,01:27.4,2017,10
+3,4,Max  Verstappen  VER,Red Bull Racing TAG Heuer,01:28.1,2017,10
+4,5,Nico  Hulkenberg  HUL,Renault,01:28.9,2017,10
+5,6,Sergio  Perez  PER,Force India Mercedes,01:28.9,2017,10
+6,7,Esteban  Ocon  OCO,Force India Mercedes,01:29.1,2017,10
+7,8,Stoffel  Vandoorne  VAN,McLaren Honda,01:29.4,2017,10
+8,9,Valtteri  Bottas  BOT,Mercedes,01:27.4,2017,10
+9,10,Romain  Grosjean  GRO,Haas Ferrari,01:29.5,2017,10
+10,11,Jolyon  Palmer  PAL,Renault,01:30.2,2017,10
+11,12,Daniil  Kvyat  KVY,Toro Rosso,01:30.4,2017,10
+12,13,Carlos  Sainz  SAI,Toro Rosso,01:31.4,2017,10
+13,14,Felipe  Massa  MAS,Williams Mercedes,01:31.5,2017,10
+14,15,Lance  Stroll  STR,Williams Mercedes,01:42.6,2017,10
+15,16,Kevin  Magnussen  MAG,Haas Ferrari,01:42.6,2017,10
+16,17,Pascal  Wehrlein  WEH,Sauber Ferrari,01:42.6,2017,10
+17,18,Marcus  Ericsson  ERI,Sauber Ferrari,01:42.6,2017,10
+18,19,Daniel  Ricciardo  RIC,Red Bull Racing TAG Heuer,01:43.0,2017,10
+19,20,Fernando  Alonso  ALO,McLaren Honda,01:30.6,2017,10
+0,1,Sebastian  Vettel  VET,Ferrari,01:16.3,2017,11
+1,2,Kimi  Räikkönen  RAI,Ferrari,01:16.4,2017,11
+2,3,Valtteri  Bottas  BOT,Mercedes,01:16.5,2017,11
+3,4,Lewis  Hamilton  HAM,Mercedes,01:16.7,2017,11
+4,5,Max  Verstappen  VER,Red Bull Racing TAG Heuer,01:16.8,2017,11
+5,6,Daniel  Ricciardo  RIC,Red Bull Racing TAG Heuer,01:16.8,2017,11
+6,7,Fernando  Alonso  ALO,McLaren Honda,01:17.5,2017,11
+7,8,Stoffel  Vandoorne  VAN,McLaren Honda,01:17.9,2017,11
+8,9,Carlos  Sainz  SAI,Toro Rosso,01:18.9,2017,11
+9,10,Jolyon  Palmer  PAL,Renault,01:18.4,2017,11
+10,11,Esteban  Ocon  OCO,Force India Mercedes,01:18.5,2017,11
+11,12,Nico  Hulkenberg  HUL,Renault,01:17.5,2017,11
+12,13,Sergio  Perez  PER,Force India Mercedes,01:18.6,2017,11
+13,14,Romain  Grosjean  GRO,Haas Ferrari,01:18.8,2017,11
+14,15,Kevin  Magnussen  MAG,Haas Ferrari,01:19.1,2017,11
+15,16,Daniil  Kvyat  KVY,Toro Rosso,01:18.5,2017,11
+16,17,Lance  Stroll  STR,Williams Mercedes,01:19.1,2017,11
+17,18,Pascal  Wehrlein  WEH,Sauber Ferrari,01:19.8,2017,11
+18,19,Paul  di Resta  DIR,Williams Mercedes,01:19.9,2017,11
+19,20,Marcus  Ericsson  ERI,Sauber Ferrari,01:20.0,2017,11
+0,1,Lewis  Hamilton  HAM,Mercedes,01:42.6,2017,12
+1,2,Sebastian  Vettel  VET,Ferrari,01:42.8,2017,12
+2,3,Valtteri  Bottas  BOT,Mercedes,01:43.1,2017,12
+3,4,Kimi  Räikkönen  RAI,Ferrari,01:43.3,2017,12
+4,5,Max  Verstappen  VER,Red Bull Racing TAG Heuer,01:43.4,2017,12
+5,6,Daniel  Ricciardo  RIC,Red Bull Racing TAG Heuer,01:43.9,2017,12
+6,7,Nico  Hulkenberg  HUL,Renault,01:45.0,2017,12
+7,8,Sergio  Perez  PER,Force India Mercedes,01:45.2,2017,12
+8,9,Esteban  Ocon  OCO,Force India Mercedes,01:45.4,2017,12
+9,10,Fernando  Alonso  ALO,McLaren Honda,01:45.1,2017,12
+10,11,Romain  Grosjean  GRO,Haas Ferrari,01:45.1,2017,12
+11,12,Kevin  Magnussen  MAG,Haas Ferrari,01:45.4,2017,12
+12,13,Carlos  Sainz  SAI,Toro Rosso,01:45.4,2017,12
+13,14,Jolyon  Palmer  PAL,Renault,,2017,12
+14,15,Lance  Stroll  STR,Williams Mercedes,01:46.9,2017,12
+15,16,Felipe  Massa  MAS,Williams Mercedes,01:45.8,2017,12
+16,17,Marcus  Ericsson  ERI,Sauber Ferrari,01:47.2,2017,12
+17,18,Pascal  Wehrlein  WEH,Sauber Ferrari,01:47.7,2017,12
+18,19,Daniil  Kvyat  KVY,Toro Rosso,01:46.0,2017,12
+19,20,Stoffel  Vandoorne  VAN,McLaren Honda,,2017,12
+0,1,Lewis  Hamilton  HAM,Mercedes,01:35.6,2017,13
+1,2,Lance  Stroll  STR,Williams Mercedes,01:37.0,2017,13
+2,3,Esteban  Ocon  OCO,Force India Mercedes,01:37.7,2017,13
+3,4,Valtteri  Bottas  BOT,Mercedes,01:37.8,2017,13
+4,5,Kimi  Räikkönen  RAI,Ferrari,01:38.0,2017,13
+5,6,Sebastian  Vettel  VET,Ferrari,01:38.1,2017,13
+6,7,Felipe  Massa  MAS,Williams Mercedes,01:38.3,2017,13
+7,8,Daniil  Kvyat  KVY,Toro Rosso,01:38.2,2017,13
+8,9,Kevin  Magnussen  MAG,Haas Ferrari,01:40.5,2017,13
+9,10,Sergio  Perez  PER,Force India Mercedes,01:37.6,2017,13
+10,11,Marcus  Ericsson  ERI,Sauber Ferrari,01:41.7,2017,13
+11,12,Pascal  Wehrlein  WEH,Sauber Ferrari,01:41.9,2017,13
+12,13,Max  Verstappen  VER,Red Bull Racing TAG Heuer,01:36.7,2017,13
+13,14,Nico  Hulkenberg  HUL,Renault,01:38.1,2017,13
+14,15,Carlos  Sainz  SAI,Toro Rosso,01:38.5,2017,13
+15,16,Daniel  Ricciardo  RIC,Red Bull Racing TAG Heuer,01:36.8,2017,13
+16,17,Jolyon  Palmer  PAL,Renault,01:40.6,2017,13
+17,18,Stoffel  Vandoorne  VAN,McLaren Honda,01:39.2,2017,13
+18,19,Fernando  Alonso  ALO,McLaren Honda,01:38.2,2017,13
+19,20,Romain  Grosjean  GRO,Haas Ferrari,01:43.4,2017,13
+0,1,Sebastian  Vettel  VET,Ferrari,01:39.5,2017,14
+1,2,Max  Verstappen  VER,Red Bull Racing TAG Heuer,01:39.8,2017,14
+2,3,Daniel  Ricciardo  RIC,Red Bull Racing TAG Heuer,01:39.8,2017,14
+3,4,Kimi  Räikkönen  RAI,Ferrari,01:40.1,2017,14
+4,5,Lewis  Hamilton  HAM,Mercedes,01:40.1,2017,14
+5,6,Valtteri  Bottas  BOT,Mercedes,01:40.8,2017,14
+6,7,Nico  Hulkenberg  HUL,Renault,01:41.0,2017,14
+7,8,Fernando  Alonso  ALO,McLaren Honda,01:41.2,2017,14
+8,9,Stoffel  Vandoorne  VAN,McLaren Honda,01:41.4,2017,14
+9,10,Carlos  Sainz  SAI,Toro Rosso,01:42.1,2017,14
+10,11,Jolyon  Palmer  PAL,Renault,01:42.1,2017,14
+11,12,Sergio  Perez  PER,Force India Mercedes,01:42.2,2017,14
+12,13,Daniil  Kvyat  KVY,Toro Rosso,01:42.3,2017,14
+13,14,Esteban  Ocon  OCO,Force India Mercedes,01:42.8,2017,14
+14,15,Romain  Grosjean  GRO,Haas Ferrari,01:43.9,2017,14
+15,16,Kevin  Magnussen  MAG,Haas Ferrari,01:43.8,2017,14
+16,17,Felipe  Massa  MAS,Williams Mercedes,01:44.0,2017,14
+17,18,Lance  Stroll  STR,Williams Mercedes,01:44.7,2017,14
+18,19,Pascal  Wehrlein  WEH,Sauber Ferrari,01:45.1,2017,14
+19,20,Marcus  Ericsson  ERI,Sauber Ferrari,01:45.6,2017,14
+0,1,Lewis  Hamilton  HAM,Mercedes,01:30.1,2017,15
+1,2,Kimi  Räikkönen  RAI,Ferrari,01:30.1,2017,15
+2,3,Max  Verstappen  VER,Red Bull Racing TAG Heuer,01:30.5,2017,15
+3,4,Daniel  Ricciardo  RIC,Red Bull Racing TAG Heuer,01:30.6,2017,15
+4,5,Valtteri  Bottas  BOT,Mercedes,01:30.8,2017,15
+5,6,Esteban  Ocon  OCO,Force India Mercedes,01:31.5,2017,15
+6,7,Stoffel  Vandoorne  VAN,McLaren Honda,01:31.6,2017,15
+7,8,Nico  Hulkenberg  HUL,Renault,01:31.6,2017,15
+8,9,Sergio  Perez  PER,Force India Mercedes,01:31.7,2017,15
+9,10,Fernando  Alonso  ALO,McLaren Honda,01:31.7,2017,15
+10,11,Felipe  Massa  MAS,Williams Mercedes,01:32.0,2017,15
+11,12,Jolyon  Palmer  PAL,Renault,01:32.1,2017,15
+12,13,Lance  Stroll  STR,Williams Mercedes,01:32.3,2017,15
+13,14,Carlos  Sainz  SAI,Toro Rosso,01:32.4,2017,15
+14,15,Pierre  Gasly  GAS,Toro Rosso,01:32.6,2017,15
+15,16,Romain  Grosjean  GRO,Haas Ferrari,01:33.3,2017,15
+16,17,Kevin  Magnussen  MAG,Haas Ferrari,01:33.4,2017,15
+17,18,Pascal  Wehrlein  WEH,Sauber Ferrari,01:33.5,2017,15
+18,19,Marcus  Ericsson  ERI,Sauber Ferrari,01:34.0,2017,15
+19,20,Sebastian  Vettel  VET,Ferrari,,2017,15
+0,1,Lewis  Hamilton  HAM,Mercedes,01:27.3,2017,16
+1,2,Sebastian  Vettel  VET,Ferrari,01:27.8,2017,16
+2,3,Daniel  Ricciardo  RIC,Red Bull Racing TAG Heuer,01:28.3,2017,16
+3,4,Max  Verstappen  VER,Red Bull Racing TAG Heuer,01:28.3,2017,16
+4,5,Esteban  Ocon  OCO,Force India Mercedes,01:29.1,2017,16
+5,6,Valtteri  Bottas  BOT,Mercedes,01:27.7,2017,16
+6,7,Sergio  Perez  PER,Force India Mercedes,01:29.3,2017,16
+7,8,Felipe  Massa  MAS,Williams Mercedes,01:29.5,2017,16
+8,9,Stoffel  Vandoorne  VAN,McLaren Honda,01:29.8,2017,16
+9,10,Kimi  Räikkönen  RAI,Ferrari,01:28.5,2017,16
+10,11,Nico  Hulkenberg  HUL,Renault,01:29.9,2017,16
+11,12,Kevin  Magnussen  MAG,Haas Ferrari,01:30.0,2017,16
+12,13,Romain  Grosjean  GRO,Haas Ferrari,01:30.8,2017,16
+13,14,Pierre  Gasly  GAS,Toro Rosso,01:31.3,2017,16
+14,15,Lance  Stroll  STR,Williams Mercedes,01:31.4,2017,16
+15,16,Marcus  Ericsson  ERI,Sauber Ferrari,01:31.6,2017,16
+16,17,Pascal  Wehrlein  WEH,Sauber Ferrari,01:31.9,2017,16
+17,18,Jolyon  Palmer  PAL,Renault,01:30.0,2017,16
+18,19,Carlos  Sainz  SAI,Toro Rosso,01:30.4,2017,16
+19,20,Fernando  Alonso  ALO,McLaren Honda,01:30.7,2017,16
+0,1,Lewis  Hamilton  HAM,Mercedes,01:33.1,2017,17
+1,2,Sebastian  Vettel  VET,Ferrari,01:33.3,2017,17
+2,3,Valtteri  Bottas  BOT,Mercedes,01:33.6,2017,17
+3,4,Daniel  Ricciardo  RIC,Red Bull Racing TAG Heuer,01:33.6,2017,17
+4,5,Kimi  Räikkönen  RAI,Ferrari,01:33.6,2017,17
+5,6,Esteban  Ocon  OCO,Force India Mercedes,01:34.6,2017,17
+6,7,Carlos  Sainz  SAI,Renault,01:34.9,2017,17
+7,8,Fernando  Alonso  ALO,McLaren Honda,01:35.0,2017,17
+8,9,Sergio  Perez  PER,Force India Mercedes,01:35.1,2017,17
+9,10,Felipe  Massa  MAS,Williams Mercedes,01:35.2,2017,17
+10,11,Daniil  Kvyat  KVY,Toro Rosso,01:35.5,2017,17
+11,12,Romain  Grosjean  GRO,Haas Ferrari,01:35.9,2017,17
+12,13,Marcus  Ericsson  ERI,Sauber Ferrari,01:36.8,2017,17
+13,14,Pascal  Wehrlein  WEH,Sauber Ferrari,01:37.2,2017,17
+14,15,Lance  Stroll  STR,Williams Mercedes,01:36.9,2017,17
+15,16,Max  Verstappen  VER,Red Bull Racing TAG Heuer,01:33.7,2017,17
+16,17,Kevin  Magnussen  MAG,Haas Ferrari,01:37.4,2017,17
+17,18,Nico  Hulkenberg  HUL,Renault,,2017,17
+18,19,Brendon  Hartley  HAR,Toro Rosso,01:36.9,2017,17
+19,20,Stoffel  Vandoorne  VAN,McLaren Honda,01:35.6,2017,17
+0,1,Sebastian  Vettel  VET,Ferrari,01:16.5,2017,18
+1,2,Max  Verstappen  VER,Red Bull Racing TAG Heuer,01:16.6,2017,18
+2,3,Lewis  Hamilton  HAM,Mercedes,01:16.9,2017,18
+3,4,Valtteri  Bottas  BOT,Mercedes,01:17.0,2017,18
+4,5,Kimi  Räikkönen  RAI,Ferrari,01:17.2,2017,18
+5,6,Esteban  Ocon  OCO,Force India Mercedes,01:17.4,2017,18
+6,7,Nico  Hulkenberg  HUL,Renault,01:17.5,2017,18
+7,8,Carlos  Sainz  SAI,Renault,01:17.8,2017,18
+8,9,Sergio  Perez  PER,Force India Mercedes,01:17.8,2017,18
+9,10,Felipe  Massa  MAS,Williams Mercedes,01:18.1,2017,18
+10,11,Lance  Stroll  STR,Williams Mercedes,01:19.2,2017,18
+11,12,Marcus  Ericsson  ERI,Sauber Ferrari,01:19.2,2017,18
+12,13,Pascal  Wehrlein  WEH,Sauber Ferrari,01:19.3,2017,18
+13,14,Kevin  Magnussen  MAG,Haas Ferrari,01:19.4,2017,18
+14,15,Romain  Grosjean  GRO,Haas Ferrari,01:19.5,2017,18
+15,16,Daniel  Ricciardo  RIC,Red Bull Racing TAG Heuer,01:17.4,2017,18
+16,17,Brendon  Hartley  HAR,Toro Rosso,,2017,18
+17,18,Fernando  Alonso  ALO,McLaren Honda,,2017,18
+18,19,Stoffel  Vandoorne  VAN,McLaren Honda,,2017,18
+19,20,Pierre  Gasly  GAS,Toro Rosso,,2017,18
+0,1,Valtteri  Bottas  BOT,Mercedes,01:08.3,2017,19
+1,2,Sebastian  Vettel  VET,Ferrari,01:08.4,2017,19
+2,3,Kimi  Räikkönen  RAI,Ferrari,01:08.5,2017,19
+3,4,Max  Verstappen  VER,Red Bull Racing TAG Heuer,01:08.9,2017,19
+4,5,Sergio  Perez  PER,Force India Mercedes,01:09.6,2017,19
+5,6,Fernando  Alonso  ALO,McLaren Honda,01:09.6,2017,19
+6,7,Nico  Hulkenberg  HUL,Renault,01:09.7,2017,19
+7,8,Carlos  Sainz  SAI,Renault,01:09.8,2017,19
+8,9,Felipe  Massa  MAS,Williams Mercedes,01:09.8,2017,19
+9,10,Esteban  Ocon  OCO,Force India Mercedes,01:09.8,2017,19
+10,11,Romain  Grosjean  GRO,Haas Ferrari,01:09.9,2017,19
+11,12,Stoffel  Vandoorne  VAN,McLaren Honda,01:10.1,2017,19
+12,13,Kevin  Magnussen  MAG,Haas Ferrari,01:10.2,2017,19
+13,14,Daniel  Ricciardo  RIC,Red Bull Racing TAG Heuer,01:09.3,2017,19
+14,15,Pascal  Wehrlein  WEH,Sauber Ferrari,01:10.7,2017,19
+15,16,Lance  Stroll  STR,Williams Mercedes,01:10.8,2017,19
+16,17,Marcus  Ericsson  ERI,Sauber Ferrari,01:10.9,2017,19
+17,18,Brendon  Hartley  HAR,Toro Rosso,,2017,19
+18,19,Pierre  Gasly  GAS,Toro Rosso,01:10.7,2017,19
+0,1,Valtteri  Bottas  BOT,Mercedes,01:36.2,2017,20
+1,2,Lewis  Hamilton  HAM,Mercedes,01:36.4,2017,20
+2,3,Sebastian  Vettel  VET,Ferrari,01:36.8,2017,20
+3,4,Daniel  Ricciardo  RIC,Red Bull Racing TAG Heuer,01:37.0,2017,20
+4,5,Kimi  Räikkönen  RAI,Ferrari,01:37.0,2017,20
+5,6,Max  Verstappen  VER,Red Bull Racing TAG Heuer,01:37.3,2017,20
+6,7,Nico  Hulkenberg  HUL,Renault,01:38.3,2017,20
+7,8,Sergio  Perez  PER,Force India Mercedes,01:38.4,2017,20
+8,9,Esteban  Ocon  OCO,Force India Mercedes,01:38.4,2017,20
+9,10,Felipe  Massa  MAS,Williams Mercedes,01:38.6,2017,20
+10,11,Fernando  Alonso  ALO,McLaren Honda,01:38.6,2017,20
+11,12,Carlos  Sainz  SAI,Renault,01:38.7,2017,20
+12,13,Stoffel  Vandoorne  VAN,McLaren Honda,01:38.8,2017,20
+13,14,Kevin  Magnussen  MAG,Haas Ferrari,01:39.3,2017,20
+14,15,Lance  Stroll  STR,Williams Mercedes,01:39.6,2017,20
+15,16,Romain  Grosjean  GRO,Haas Ferrari,01:39.5,2017,20
+16,17,Pierre  Gasly  GAS,Toro Rosso,01:39.7,2017,20
+17,18,Pascal  Wehrlein  WEH,Sauber Ferrari,01:39.9,2017,20
+18,19,Marcus  Ericsson  ERI,Sauber Ferrari,01:40.0,2017,20
+19,20,Brendon  Hartley  HAR,Toro Rosso,01:40.5,2017,20
+0,1,Lewis  Hamilton  HAM,Mercedes,01:21.2,2018,1
+1,2,Kimi  Räikkönen  RAI,Ferrari,01:21.8,2018,1
+2,3,Sebastian  Vettel  VET,Ferrari,01:21.8,2018,1
+3,4,Max  Verstappen  VER,Red Bull Racing TAG Heuer,01:21.9,2018,1
+4,5,Kevin  Magnussen  MAG,Haas Ferrari,01:23.2,2018,1
+5,6,Romain  Grosjean  GRO,Haas Ferrari,01:23.3,2018,1
+6,7,Nico  Hulkenberg  HUL,Renault,01:23.5,2018,1
+7,8,Daniel  Ricciardo  RIC,Red Bull Racing TAG Heuer,01:22.2,2018,1
+8,9,Carlos  Sainz  SAI,Renault,01:23.6,2018,1
+9,10,Fernando  Alonso  ALO,McLaren Renault,01:23.7,2018,1
+10,11,Stoffel  Vandoorne  VAN,McLaren Renault,01:23.9,2018,1
+11,12,Sergio  Perez  PER,Force India Mercedes,01:24.0,2018,1
+12,13,Lance  Stroll  STR,Williams Mercedes,01:24.2,2018,1
+13,14,Esteban  Ocon  OCO,Force India Mercedes,01:24.8,2018,1
+14,15,Valtteri  Bottas  BOT,Mercedes,,2018,1
+15,16,Brendon  Hartley  HAR,Scuderia Toro Rosso Honda,01:24.5,2018,1
+16,17,Marcus  Ericsson  ERI,Sauber Ferrari,01:24.6,2018,1
+17,18,Charles  Leclerc  LEC,Sauber Ferrari,01:24.6,2018,1
+18,19,Sergey  Sirotkin  SIR,Williams Mercedes,01:24.9,2018,1
+19,20,Pierre  Gasly  GAS,Scuderia Toro Rosso Honda,01:25.3,2018,1
+0,1,Sebastian  Vettel  VET,Ferrari,01:28.0,2018,2
+1,2,Kimi  Räikkönen  RAI,Ferrari,01:28.1,2018,2
+2,3,Valtteri  Bottas  BOT,Mercedes,01:28.1,2018,2
+3,4,Daniel  Ricciardo  RIC,Red Bull Racing TAG Heuer,01:28.4,2018,2
+4,5,Pierre  Gasly  GAS,Scuderia Toro Rosso Honda,01:29.3,2018,2
+5,6,Kevin  Magnussen  MAG,Haas Ferrari,01:29.4,2018,2
+6,7,Nico  Hulkenberg  HUL,Renault,01:29.6,2018,2
+7,8,Esteban  Ocon  OCO,Force India Mercedes,01:29.9,2018,2
+8,9,Lewis  Hamilton  HAM,Mercedes,01:28.2,2018,2
+9,10,Carlos  Sainz  SAI,Renault,01:30.0,2018,2
+10,11,Brendon  Hartley  HAR,Scuderia Toro Rosso Honda,01:30.1,2018,2
+11,12,Sergio  Perez  PER,Force India Mercedes,01:30.2,2018,2
+12,13,Fernando  Alonso  ALO,McLaren Renault,01:30.2,2018,2
+13,14,Stoffel  Vandoorne  VAN,McLaren Renault,01:30.5,2018,2
+14,15,Max  Verstappen  VER,Red Bull Racing TAG Heuer,,2018,2
+15,16,Romain  Grosjean  GRO,Haas Ferrari,01:30.5,2018,2
+16,17,Marcus  Ericsson  ERI,Sauber Ferrari,01:31.1,2018,2
+17,18,Sergey  Sirotkin  SIR,Williams Mercedes,01:31.4,2018,2
+18,19,Charles  Leclerc  LEC,Sauber Ferrari,01:31.4,2018,2
+19,20,Lance  Stroll  STR,Williams Mercedes,01:31.5,2018,2
+0,1,Sebastian  Vettel  VET,Ferrari,01:31.1,2018,3
+1,2,Kimi  Räikkönen  RAI,Ferrari,01:31.2,2018,3
+2,3,Valtteri  Bottas  BOT,Mercedes,01:31.6,2018,3
+3,4,Lewis  Hamilton  HAM,Mercedes,01:31.7,2018,3
+4,5,Max  Verstappen  VER,Red Bull Racing TAG Heuer,01:31.8,2018,3
+5,6,Daniel  Ricciardo  RIC,Red Bull Racing TAG Heuer,01:31.9,2018,3
+6,7,Nico  Hulkenberg  HUL,Renault,01:32.5,2018,3
+7,8,Sergio  Perez  PER,Force India Mercedes,01:32.8,2018,3
+8,9,Carlos  Sainz  SAI,Renault,01:32.8,2018,3
+9,10,Romain  Grosjean  GRO,Haas Ferrari,01:32.9,2018,3
+10,11,Kevin  Magnussen  MAG,Haas Ferrari,01:33.0,2018,3
+11,12,Esteban  Ocon  OCO,Force India Mercedes,01:33.1,2018,3
+12,13,Fernando  Alonso  ALO,McLaren Renault,01:33.2,2018,3
+13,14,Stoffel  Vandoorne  VAN,McLaren Renault,01:33.5,2018,3
+14,15,Brendon  Hartley  HAR,Scuderia Toro Rosso Honda,01:33.8,2018,3
+15,16,Sergey  Sirotkin  SIR,Williams Mercedes,01:34.1,2018,3
+16,17,Pierre  Gasly  GAS,Scuderia Toro Rosso Honda,01:34.1,2018,3
+17,18,Lance  Stroll  STR,Williams Mercedes,01:34.3,2018,3
+18,19,Charles  Leclerc  LEC,Sauber Ferrari,01:34.5,2018,3
+19,20,Marcus  Ericsson  ERI,Sauber Ferrari,01:34.9,2018,3
+0,1,Sebastian  Vettel  VET,Ferrari,01:41.5,2018,4
+1,2,Lewis  Hamilton  HAM,Mercedes,01:41.7,2018,4
+2,3,Valtteri  Bottas  BOT,Mercedes,01:41.8,2018,4
+3,4,Daniel  Ricciardo  RIC,Red Bull Racing TAG Heuer,01:41.9,2018,4
+4,5,Max  Verstappen  VER,Red Bull Racing TAG Heuer,01:42.0,2018,4
+5,6,Kimi  Räikkönen  RAI,Ferrari,01:42.5,2018,4
+6,7,Esteban  Ocon  OCO,Force India Mercedes,01:42.5,2018,4
+7,8,Sergio  Perez  PER,Force India Mercedes,01:42.5,2018,4
+8,9,Carlos  Sainz  SAI,Renault,01:43.4,2018,4
+9,10,Lance  Stroll  STR,Williams Mercedes,01:43.6,2018,4
+10,11,Sergey  Sirotkin  SIR,Williams Mercedes,01:43.9,2018,4
+11,12,Fernando  Alonso  ALO,McLaren Renault,01:44.0,2018,4
+12,13,Charles  Leclerc  LEC,Sauber Ferrari,01:44.1,2018,4
+13,14,Nico  Hulkenberg  HUL,Renault,01:43.1,2018,4
+14,15,Kevin  Magnussen  MAG,Haas Ferrari,01:44.8,2018,4
+15,16,Stoffel  Vandoorne  VAN,McLaren Renault,01:44.5,2018,4
+16,17,Pierre  Gasly  GAS,Scuderia Toro Rosso Honda,01:44.5,2018,4
+17,18,Marcus  Ericsson  ERI,Sauber Ferrari,01:45.5,2018,4
+18,19,Brendon  Hartley  HAR,Scuderia Toro Rosso Honda,01:57.4,2018,4
+19,20,Romain  Grosjean  GRO,Haas Ferrari,,2018,4
+0,1,Lewis  Hamilton  HAM,Mercedes,01:16.2,2018,5
+1,2,Valtteri  Bottas  BOT,Mercedes,01:16.2,2018,5
+2,3,Sebastian  Vettel  VET,Ferrari,01:16.3,2018,5
+3,4,Kimi  Räikkönen  RAI,Ferrari,01:16.6,2018,5
+4,5,Max  Verstappen  VER,Red Bull Racing TAG Heuer,01:16.8,2018,5
+5,6,Daniel  Ricciardo  RIC,Red Bull Racing TAG Heuer,01:16.8,2018,5
+6,7,Kevin  Magnussen  MAG,Haas Ferrari,01:17.7,2018,5
+7,8,Fernando  Alonso  ALO,McLaren Renault,01:17.7,2018,5
+8,9,Carlos  Sainz  SAI,Renault,01:17.8,2018,5
+9,10,Romain  Grosjean  GRO,Haas Ferrari,01:17.8,2018,5
+10,11,Stoffel  Vandoorne  VAN,McLaren Renault,01:18.3,2018,5
+11,12,Pierre  Gasly  GAS,Scuderia Toro Rosso Honda,01:18.5,2018,5
+12,13,Esteban  Ocon  OCO,Force India Mercedes,01:18.7,2018,5
+13,14,Charles  Leclerc  LEC,Sauber Ferrari,01:18.9,2018,5
+14,15,Sergio  Perez  PER,Force India Mercedes,01:19.1,2018,5
+15,16,Nico  Hulkenberg  HUL,Renault,01:18.9,2018,5
+16,17,Marcus  Ericsson  ERI,Sauber Ferrari,01:19.5,2018,5
+17,18,Lance  Stroll  STR,Williams Mercedes,01:20.2,2018,5
+18,19,Sergey  Sirotkin  SIR,Williams Mercedes,01:19.7,2018,5
+19,20,Brendon  Hartley  HAR,Scuderia Toro Rosso Honda,,2018,5
+0,1,Daniel  Ricciardo  RIC,Red Bull Racing TAG Heuer,01:10.8,2018,6
+1,2,Sebastian  Vettel  VET,Ferrari,01:11.0,2018,6
+2,3,Lewis  Hamilton  HAM,Mercedes,01:11.2,2018,6
+3,4,Kimi  Räikkönen  RAI,Ferrari,01:11.3,2018,6
+4,5,Valtteri  Bottas  BOT,Mercedes,01:11.4,2018,6
+5,6,Esteban  Ocon  OCO,Force India Mercedes,01:12.1,2018,6
+6,7,Fernando  Alonso  ALO,McLaren Renault,01:12.1,2018,6
+7,8,Carlos  Sainz  SAI,Renault,01:12.1,2018,6
+8,9,Sergio  Perez  PER,Force India Mercedes,01:12.2,2018,6
+9,10,Pierre  Gasly  GAS,Scuderia Toro Rosso Honda,01:12.2,2018,6
+10,11,Nico  Hulkenberg  HUL,Renault,01:12.4,2018,6
+11,12,Stoffel  Vandoorne  VAN,McLaren Renault,01:12.4,2018,6
+12,13,Sergey  Sirotkin  SIR,Williams Mercedes,01:12.5,2018,6
+13,14,Charles  Leclerc  LEC,Sauber Ferrari,01:12.7,2018,6
+14,15,Brendon  Hartley  HAR,Scuderia Toro Rosso Honda,01:13.2,2018,6
+15,16,Marcus  Ericsson  ERI,Sauber Ferrari,01:13.3,2018,6
+16,17,Lance  Stroll  STR,Williams Mercedes,01:13.3,2018,6
+17,18,Romain  Grosjean  GRO,Haas Ferrari,01:12.7,2018,6
+18,19,Kevin  Magnussen  MAG,Haas Ferrari,01:13.4,2018,6
+19,20,Max  Verstappen  VER,Red Bull Racing TAG Heuer,,2018,6
+0,1,Sebastian  Vettel  VET,Ferrari,01:10.8,2018,7
+1,2,Valtteri  Bottas  BOT,Mercedes,01:10.9,2018,7
+2,3,Max  Verstappen  VER,Red Bull Racing TAG Heuer,01:10.9,2018,7
+3,4,Lewis  Hamilton  HAM,Mercedes,01:11.0,2018,7
+4,5,Kimi  Räikkönen  RAI,Ferrari,01:11.1,2018,7
+5,6,Daniel  Ricciardo  RIC,Red Bull Racing TAG Heuer,01:11.1,2018,7
+6,7,Nico  Hulkenberg  HUL,Renault,01:12.0,2018,7
+7,8,Esteban  Ocon  OCO,Force India Mercedes,01:12.1,2018,7
+8,9,Carlos  Sainz  SAI,Renault,01:12.2,2018,7
+9,10,Sergio  Perez  PER,Force India Mercedes,01:12.7,2018,7
+10,11,Kevin  Magnussen  MAG,Haas Ferrari,01:12.6,2018,7
+11,12,Brendon  Hartley  HAR,Scuderia Toro Rosso Honda,01:12.6,2018,7
+12,13,Charles  Leclerc  LEC,Sauber Ferrari,01:12.7,2018,7
+13,14,Fernando  Alonso  ALO,McLaren Renault,01:12.9,2018,7
+14,15,Stoffel  Vandoorne  VAN,McLaren Renault,01:12.9,2018,7
+15,16,Lance  Stroll  STR,Williams Mercedes,01:13.6,2018,7
+16,17,Sergey  Sirotkin  SIR,Williams Mercedes,01:13.6,2018,7
+17,18,Marcus  Ericsson  ERI,Sauber Ferrari,01:14.6,2018,7
+18,19,Pierre  Gasly  GAS,Scuderia Toro Rosso Honda,01:13.0,2018,7
+19,20,Romain  Grosjean  GRO,Haas Ferrari,,2018,7
+0,1,Lewis  Hamilton  HAM,Mercedes,01:30.0,2018,8
+1,2,Valtteri  Bottas  BOT,Mercedes,01:30.1,2018,8
+2,3,Sebastian  Vettel  VET,Ferrari,01:30.4,2018,8
+3,4,Max  Verstappen  VER,Red Bull Racing TAG Heuer,01:30.7,2018,8
+4,5,Daniel  Ricciardo  RIC,Red Bull Racing TAG Heuer,01:30.9,2018,8
+5,6,Kimi  Räikkönen  RAI,Ferrari,01:31.1,2018,8
+6,7,Carlos  Sainz  SAI,Renault,01:32.1,2018,8
+7,8,Charles  Leclerc  LEC,Sauber Ferrari,01:32.6,2018,8
+8,9,Kevin  Magnussen  MAG,Haas Ferrari,01:32.9,2018,8
+9,10,Romain  Grosjean  GRO,Haas Ferrari,,2018,8
+10,11,Esteban  Ocon  OCO,Force India Mercedes,01:32.1,2018,8
+11,12,Nico  Hulkenberg  HUL,Renault,01:32.1,2018,8
+12,13,Sergio  Perez  PER,Force India Mercedes,01:32.5,2018,8
+13,14,Pierre  Gasly  GAS,Scuderia Toro Rosso Honda,01:32.5,2018,8
+14,15,Marcus  Ericsson  ERI,Sauber Ferrari,01:32.8,2018,8
+15,16,Fernando  Alonso  ALO,McLaren Renault,01:33.0,2018,8
+16,17,Stoffel  Vandoorne  VAN,McLaren Renault,01:33.2,2018,8
+17,18,Sergey  Sirotkin  SIR,Williams Mercedes,01:33.6,2018,8
+18,19,Lance  Stroll  STR,Williams Mercedes,01:33.7,2018,8
+19,20,Brendon  Hartley  HAR,Scuderia Toro Rosso Honda,01:33.0,2018,8
+0,1,Valtteri  Bottas  BOT,Mercedes,01:03.1,2018,9
+1,2,Lewis  Hamilton  HAM,Mercedes,01:03.1,2018,9
+2,3,Kimi  Räikkönen  RAI,Ferrari,01:03.7,2018,9
+3,4,Max  Verstappen  VER,Red Bull Racing TAG Heuer,01:03.8,2018,9
+4,5,Romain  Grosjean  GRO,Haas Ferrari,01:03.9,2018,9
+5,6,Sebastian  Vettel  VET,Ferrari,01:03.5,2018,9
+6,7,Daniel  Ricciardo  RIC,Red Bull Racing TAG Heuer,01:04.0,2018,9
+7,8,Kevin  Magnussen  MAG,Haas Ferrari,01:04.1,2018,9
+8,9,Carlos  Sainz  SAI,Renault,01:04.7,2018,9
+9,10,Nico  Hulkenberg  HUL,Renault,01:05.0,2018,9
+10,11,Esteban  Ocon  OCO,Force India Mercedes,01:04.8,2018,9
+11,12,Pierre  Gasly  GAS,Scuderia Toro Rosso Honda,01:04.9,2018,9
+12,13,Lance  Stroll  STR,Williams Mercedes,01:05.3,2018,9
+13,14,Stoffel  Vandoorne  VAN,McLaren Renault,01:05.3,2018,9
+14,15,Sergio  Perez  PER,Force India Mercedes,01:05.3,2018,9
+15,16,Sergey  Sirotkin  SIR,Williams Mercedes,01:05.3,2018,9
+16,17,Charles  Leclerc  LEC,Sauber Ferrari,01:05.0,2018,9
+17,18,Marcus  Ericsson  ERI,Sauber Ferrari,01:05.5,2018,9
+18,19,Brendon  Hartley  HAR,Scuderia Toro Rosso Honda,01:05.4,2018,9
+19,20,Fernando  Alonso  ALO,McLaren Renault,01:05.1,2018,9
+0,1,Lewis  Hamilton  HAM,Mercedes,01:25.9,2018,10
+1,2,Sebastian  Vettel  VET,Ferrari,01:25.9,2018,10
+2,3,Kimi  Räikkönen  RAI,Ferrari,01:26.0,2018,10
+3,4,Valtteri  Bottas  BOT,Mercedes,01:26.2,2018,10
+4,5,Max  Verstappen  VER,Red Bull Racing TAG Heuer,01:26.6,2018,10
+5,6,Daniel  Ricciardo  RIC,Red Bull Racing TAG Heuer,01:27.1,2018,10
+6,7,Kevin  Magnussen  MAG,Haas Ferrari,01:27.2,2018,10
+7,8,Romain  Grosjean  GRO,Haas Ferrari,01:27.5,2018,10
+8,9,Charles  Leclerc  LEC,Sauber Ferrari,01:27.9,2018,10
+9,10,Esteban  Ocon  OCO,Force India Mercedes,01:28.2,2018,10
+10,11,Nico  Hulkenberg  HUL,Renault,01:27.9,2018,10
+11,12,Sergio  Perez  PER,Force India Mercedes,01:27.9,2018,10
+12,13,Fernando  Alonso  ALO,McLaren Renault,01:28.1,2018,10
+13,14,Pierre  Gasly  GAS,Scuderia Toro Rosso Honda,01:28.3,2018,10
+14,15,Marcus  Ericsson  ERI,Sauber Ferrari,01:28.4,2018,10
+15,16,Carlos  Sainz  SAI,Renault,01:28.5,2018,10
+16,17,Stoffel  Vandoorne  VAN,McLaren Renault,01:29.1,2018,10
+0,1,Sebastian  Vettel  VET,Ferrari,01:11.2,2018,11
+1,2,Valtteri  Bottas  BOT,Mercedes,01:11.4,2018,11
+2,3,Kimi  Räikkönen  RAI,Ferrari,01:11.5,2018,11
+3,4,Max  Verstappen  VER,Red Bull Racing TAG Heuer,01:11.8,2018,11
+4,5,Kevin  Magnussen  MAG,Haas Ferrari,01:12.2,2018,11
+5,6,Romain  Grosjean  GRO,Haas Ferrari,01:12.5,2018,11
+6,7,Nico  Hulkenberg  HUL,Renault,01:12.6,2018,11
+7,8,Carlos  Sainz  SAI,Renault,01:12.7,2018,11
+8,9,Charles  Leclerc  LEC,Sauber Ferrari,01:12.7,2018,11
+9,10,Sergio  Perez  PER,Force India Mercedes,01:12.8,2018,11
+10,11,Fernando  Alonso  ALO,McLaren Renault,01:13.7,2018,11
+11,12,Sergey  Sirotkin  SIR,Williams Mercedes,01:13.7,2018,11
+12,13,Marcus  Ericsson  ERI,Sauber Ferrari,01:13.7,2018,11
+13,14,Lewis  Hamilton  HAM,Mercedes,01:13.0,2018,11
+14,15,Esteban  Ocon  OCO,Force India Mercedes,01:13.7,2018,11
+15,16,Brendon  Hartley  HAR,Scuderia Toro Rosso Honda,01:14.0,2018,11
+16,17,Lance  Stroll  STR,Williams Mercedes,01:14.2,2018,11
+17,18,Stoffel  Vandoorne  VAN,McLaren Renault,01:14.4,2018,11
+18,19,Daniel  Ricciardo  RIC,Red Bull Racing TAG Heuer,01:13.3,2018,11
+19,20,Pierre  Gasly  GAS,Scuderia Toro Rosso Honda,01:13.7,2018,11
+0,1,Lewis  Hamilton  HAM,Mercedes,01:35.7,2018,12
+1,2,Valtteri  Bottas  BOT,Mercedes,01:35.9,2018,12
+2,3,Kimi  Räikkönen  RAI,Ferrari,01:36.2,2018,12
+3,4,Sebastian  Vettel  VET,Ferrari,01:36.2,2018,12
+4,5,Carlos  Sainz  SAI,Renault,01:36.7,2018,12
+5,6,Pierre  Gasly  GAS,Scuderia Toro Rosso Honda,01:37.6,2018,12
+6,7,Max  Verstappen  VER,Red Bull Racing TAG Heuer,01:38.0,2018,12
+7,8,Brendon  Hartley  HAR,Scuderia Toro Rosso Honda,01:38.1,2018,12
+8,9,Kevin  Magnussen  MAG,Haas Ferrari,01:39.9,2018,12
+9,10,Romain  Grosjean  GRO,Haas Ferrari,01:40.6,2018,12
+10,11,Fernando  Alonso  ALO,McLaren Renault,01:35.2,2018,12
+11,12,Daniel  Ricciardo  RIC,Red Bull Racing TAG Heuer,01:36.4,2018,12
+12,13,Nico  Hulkenberg  HUL,Renault,01:36.5,2018,12
+13,14,Marcus  Ericsson  ERI,Sauber Ferrari,01:37.1,2018,12
+14,15,Stoffel  Vandoorne  VAN,McLaren Renault,01:18.8,2018,12
+15,16,Charles  Leclerc  LEC,Sauber Ferrari,01:18.8,2018,12
+16,17,Esteban  Ocon  OCO,Force India Mercedes,01:19.1,2018,12
+17,18,Sergio  Perez  PER,Force India Mercedes,01:19.2,2018,12
+18,19,Sergey  Sirotkin  SIR,Williams Mercedes,01:19.3,2018,12
+19,20,Lance  Stroll  STR,Williams Mercedes,,2018,12
+0,1,Lewis  Hamilton  HAM,Mercedes,01:58.2,2018,13
+1,2,Sebastian  Vettel  VET,Ferrari,01:58.9,2018,13
+2,3,Esteban  Ocon  OCO,Force India Mercedes,02:01.9,2018,13
+3,4,Sergio  Perez  PER,Force India Mercedes,02:01.9,2018,13
+4,5,Romain  Grosjean  GRO,Haas Ferrari,02:02.1,2018,13
+5,6,Kimi  Räikkönen  RAI,Ferrari,02:02.7,2018,13
+6,7,Max  Verstappen  VER,Red Bull Racing TAG Heuer,02:02.8,2018,13
+7,8,Daniel  Ricciardo  RIC,Red Bull Racing TAG Heuer,02:02.9,2018,13
+8,9,Kevin  Magnussen  MAG,Haas Ferrari,02:04.9,2018,13
+9,10,Pierre  Gasly  GAS,Scuderia Toro Rosso Honda,01:43.8,2018,13
+10,11,Brendon  Hartley  HAR,Scuderia Toro Rosso Honda,01:43.9,2018,13
+11,12,Charles  Leclerc  LEC,Sauber Ferrari,01:44.1,2018,13
+12,13,Marcus  Ericsson  ERI,Sauber Ferrari,01:44.3,2018,13
+13,14,Fernando  Alonso  ALO,McLaren Renault,01:44.9,2018,13
+14,15,Sergey  Sirotkin  SIR,Williams Mercedes,01:45.0,2018,13
+15,16,Lance  Stroll  STR,Williams Mercedes,01:45.1,2018,13
+16,17,Valtteri  Bottas  BOT,Mercedes,,2018,13
+17,18,Nico  Hulkenberg  HUL,Renault,,2018,13
+18,19,Carlos  Sainz  SAI,Renault,01:44.5,2018,13
+19,20,Stoffel  Vandoorne  VAN,McLaren Renault,01:45.3,2018,13
+0,1,Kimi  Räikkönen  RAI,Ferrari,01:19.1,2018,14
+1,2,Sebastian  Vettel  VET,Ferrari,01:19.3,2018,14
+2,3,Lewis  Hamilton  HAM,Mercedes,01:19.3,2018,14
+3,4,Valtteri  Bottas  BOT,Mercedes,01:19.7,2018,14
+4,5,Max  Verstappen  VER,Red Bull Racing TAG Heuer,01:20.6,2018,14
+5,6,Romain  Grosjean  GRO,Haas Ferrari,01:20.9,2018,14
+6,7,Carlos  Sainz  SAI,Renault,01:21.0,2018,14
+7,8,Esteban  Ocon  OCO,Force India Mercedes,01:21.1,2018,14
+8,9,Pierre  Gasly  GAS,Scuderia Toro Rosso Honda,01:21.4,2018,14
+9,10,Lance  Stroll  STR,Williams Mercedes,01:21.6,2018,14
+10,11,Kevin  Magnussen  MAG,Haas Ferrari,01:21.7,2018,14
+11,12,Sergey  Sirotkin  SIR,Williams Mercedes,01:21.7,2018,14
+12,13,Fernando  Alonso  ALO,McLaren Renault,01:22.6,2018,14
+13,14,Sergio  Perez  PER,Force India Mercedes,01:21.9,2018,14
+14,15,Charles  Leclerc  LEC,Sauber Ferrari,01:21.9,2018,14
+15,16,Brendon  Hartley  HAR,Scuderia Toro Rosso Honda,01:21.9,2018,14
+16,17,Stoffel  Vandoorne  VAN,McLaren Renault,01:22.1,2018,14
+17,18,Marcus  Ericsson  ERI,Sauber Ferrari,01:22.0,2018,14
+18,19,Daniel  Ricciardo  RIC,Red Bull Racing TAG Heuer,,2018,14
+19,20,Nico  Hulkenberg  HUL,Renault,,2018,14
+0,1,Lewis  Hamilton  HAM,Mercedes,01:36.0,2018,15
+1,2,Max  Verstappen  VER,Red Bull Racing TAG Heuer,01:36.3,2018,15
+2,3,Sebastian  Vettel  VET,Ferrari,01:36.6,2018,15
+3,4,Valtteri  Bottas  BOT,Mercedes,01:36.7,2018,15
+4,5,Kimi  Räikkönen  RAI,Ferrari,01:36.8,2018,15
+5,6,Daniel  Ricciardo  RIC,Red Bull Racing TAG Heuer,01:37.0,2018,15
+6,7,Sergio  Perez  PER,Force India Mercedes,01:38.0,2018,15
+7,8,Romain  Grosjean  GRO,Haas Ferrari,01:38.3,2018,15
+8,9,Esteban  Ocon  OCO,Force India Mercedes,01:38.4,2018,15
+9,10,Nico  Hulkenberg  HUL,Renault,01:38.6,2018,15
+10,11,Fernando  Alonso  ALO,McLaren Renault,01:38.6,2018,15
+11,12,Carlos  Sainz  SAI,Renault,01:38.7,2018,15
+12,13,Charles  Leclerc  LEC,Sauber Ferrari,01:38.7,2018,15
+13,14,Marcus  Ericsson  ERI,Sauber Ferrari,01:39.5,2018,15
+14,15,Pierre  Gasly  GAS,Scuderia Toro Rosso Honda,01:39.7,2018,15
+15,16,Kevin  Magnussen  MAG,Haas Ferrari,01:39.6,2018,15
+16,17,Brendon  Hartley  HAR,Scuderia Toro Rosso Honda,01:39.8,2018,15
+17,18,Stoffel  Vandoorne  VAN,McLaren Renault,01:39.9,2018,15
+18,19,Sergey  Sirotkin  SIR,Williams Mercedes,01:41.3,2018,15
+19,20,Lance  Stroll  STR,Williams Mercedes,01:41.3,2018,15
+0,1,Valtteri  Bottas  BOT,Mercedes,01:31.4,2018,16
+1,2,Lewis  Hamilton  HAM,Mercedes,01:31.5,2018,16
+2,3,Sebastian  Vettel  VET,Ferrari,01:31.9,2018,16
+3,4,Kimi  Räikkönen  RAI,Ferrari,01:32.2,2018,16
+4,5,Kevin  Magnussen  MAG,Haas Ferrari,01:33.2,2018,16
+5,6,Esteban  Ocon  OCO,Force India Mercedes,01:33.4,2018,16
+6,7,Charles  Leclerc  LEC,Sauber Ferrari,01:33.4,2018,16
+7,8,Sergio  Perez  PER,Force India Mercedes,01:33.6,2018,16
+8,9,Romain  Grosjean  GRO,Haas Ferrari,01:33.7,2018,16
+9,10,Marcus  Ericsson  ERI,Sauber Ferrari,01:35.2,2018,16
+10,11,Carlos  Sainz  SAI,Renault,,2018,16
+11,12,Nico  Hulkenberg  HUL,Renault,,2018,16
+12,13,Sergey  Sirotkin  SIR,Williams Mercedes,01:35.6,2018,16
+13,14,Lance  Stroll  STR,Williams Mercedes,01:36.4,2018,16
+14,15,Stoffel  Vandoorne  VAN,McLaren Renault,01:36.0,2018,16
+15,16,Fernando  Alonso  ALO,McLaren Renault,01:35.5,2018,16
+16,17,Pierre  Gasly  GAS,Scuderia Toro Rosso Honda,,2018,16
+17,18,Daniel  Ricciardo  RIC,Red Bull Racing TAG Heuer,,2018,16
+18,19,Max  Verstappen  VER,Red Bull Racing TAG Heuer,,2018,16
+19,20,Brendon  Hartley  HAR,Scuderia Toro Rosso Honda,01:35.0,2018,16
+0,1,Lewis  Hamilton  HAM,Mercedes,01:27.8,2018,17
+1,2,Valtteri  Bottas  BOT,Mercedes,01:28.1,2018,17
+2,3,Max  Verstappen  VER,Red Bull Racing TAG Heuer,01:29.1,2018,17
+3,4,Kimi  Räikkönen  RAI,Ferrari,01:29.5,2018,17
+4,5,Romain  Grosjean  GRO,Haas Ferrari,01:29.8,2018,17
+5,6,Brendon  Hartley  HAR,Scuderia Toro Rosso Honda,01:30.0,2018,17
+6,7,Pierre  Gasly  GAS,Scuderia Toro Rosso Honda,01:30.1,2018,17
+7,8,Sebastian  Vettel  VET,Ferrari,01:32.2,2018,17
+8,9,Sergio  Perez  PER,Force India Mercedes,01:37.2,2018,17
+9,10,Charles  Leclerc  LEC,Sauber Ferrari,01:29.9,2018,17
+10,11,Esteban  Ocon  OCO,Force India Mercedes,01:30.1,2018,17
+11,12,Kevin  Magnussen  MAG,Haas Ferrari,01:30.2,2018,17
+12,13,Carlos  Sainz  SAI,Renault,01:30.5,2018,17
+13,14,Lance  Stroll  STR,Williams Mercedes,01:30.7,2018,17
+14,15,Daniel  Ricciardo  RIC,Red Bull Racing TAG Heuer,,2018,17
+15,16,Nico  Hulkenberg  HUL,Renault,01:30.4,2018,17
+16,17,Sergey  Sirotkin  SIR,Williams Mercedes,01:30.4,2018,17
+17,18,Fernando  Alonso  ALO,McLaren Renault,01:30.6,2018,17
+18,19,Stoffel  Vandoorne  VAN,McLaren Renault,01:31.0,2018,17
+19,20,Marcus  Ericsson  ERI,Sauber Ferrari,01:31.2,2018,17
+0,1,Lewis  Hamilton  HAM,Mercedes,01:32.2,2018,18
+1,2,Kimi  Räikkönen  RAI,Ferrari,01:32.3,2018,18
+2,3,Valtteri  Bottas  BOT,Mercedes,01:32.6,2018,18
+3,4,Daniel  Ricciardo  RIC,Red Bull Racing TAG Heuer,01:33.5,2018,18
+4,5,Sebastian  Vettel  VET,Ferrari,01:32.3,2018,18
+5,6,Esteban  Ocon  OCO,Force India Mercedes,01:34.1,2018,18
+6,7,Nico  Hulkenberg  HUL,Renault,01:34.2,2018,18
+7,8,Romain  Grosjean  GRO,Haas Ferrari,01:34.3,2018,18
+8,9,Charles  Leclerc  LEC,Sauber Ferrari,01:34.4,2018,18
+9,10,Sergio  Perez  PER,Force India Mercedes,01:34.6,2018,18
+10,11,Carlos  Sainz  SAI,Renault,01:34.6,2018,18
+11,12,Kevin  Magnussen  MAG,Haas Ferrari,01:34.7,2018,18
+12,13,Fernando  Alonso  ALO,McLaren Renault,01:35.3,2018,18
+13,14,Sergey  Sirotkin  SIR,Williams Mercedes,01:35.4,2018,18
+14,15,Lance  Stroll  STR,Williams Mercedes,01:35.5,2018,18
+15,16,Marcus  Ericsson  ERI,Sauber Ferrari,01:35.5,2018,18
+16,17,Stoffel  Vandoorne  VAN,McLaren Renault,01:35.7,2018,18
+17,18,Max  Verstappen  VER,Red Bull Racing TAG Heuer,01:34.8,2018,18
+18,19,Pierre  Gasly  GAS,Scuderia Toro Rosso Honda,,2018,18
+19,20,Brendon  Hartley  HAR,Scuderia Toro Rosso Honda,,2018,18
+0,1,Daniel  Ricciardo  RIC,Red Bull Racing TAG Heuer,01:14.8,2018,19
+1,2,Max  Verstappen  VER,Red Bull Racing TAG Heuer,01:14.8,2018,19
+2,3,Lewis  Hamilton  HAM,Mercedes,01:14.9,2018,19
+3,4,Sebastian  Vettel  VET,Ferrari,01:15.0,2018,19
+4,5,Valtteri  Bottas  BOT,Mercedes,01:15.2,2018,19
+5,6,Kimi  Räikkönen  RAI,Ferrari,01:15.3,2018,19
+6,7,Nico  Hulkenberg  HUL,Renault,01:15.8,2018,19
+7,8,Carlos  Sainz  SAI,Renault,01:16.1,2018,19
+8,9,Charles  Leclerc  LEC,Sauber Ferrari,01:16.2,2018,19
+9,10,Marcus  Ericsson  ERI,Sauber Ferrari,01:16.5,2018,19
+10,11,Esteban  Ocon  OCO,Force India Mercedes,01:16.8,2018,19
+11,12,Fernando  Alonso  ALO,McLaren Renault,01:16.9,2018,19
+12,13,Sergio  Perez  PER,Force India Mercedes,01:17.2,2018,19
+13,14,Brendon  Hartley  HAR,Scuderia Toro Rosso Honda,01:17.2,2018,19
+14,15,Stoffel  Vandoorne  VAN,McLaren Renault,01:17.0,2018,19
+15,16,Kevin  Magnussen  MAG,Haas Ferrari,01:17.6,2018,19
+16,17,Lance  Stroll  STR,Williams Mercedes,01:17.7,2018,19
+17,18,Romain  Grosjean  GRO,Haas Ferrari,01:16.9,2018,19
+18,19,Sergey  Sirotkin  SIR,Williams Mercedes,01:17.9,2018,19
+19,20,Pierre  Gasly  GAS,Scuderia Toro Rosso Honda,,2018,19
+0,1,Lewis  Hamilton  HAM,Mercedes,01:07.3,2018,20
+1,2,Sebastian  Vettel  VET,Ferrari,01:07.4,2018,20
+2,3,Valtteri  Bottas  BOT,Mercedes,01:07.4,2018,20
+3,4,Kimi  Räikkönen  RAI,Ferrari,01:07.5,2018,20
+4,5,Max  Verstappen  VER,Red Bull Racing TAG Heuer,01:07.8,2018,20
+5,6,Marcus  Ericsson  ERI,Sauber Ferrari,01:08.3,2018,20
+6,7,Charles  Leclerc  LEC,Sauber Ferrari,01:08.5,2018,20
+7,8,Romain  Grosjean  GRO,Haas Ferrari,01:08.5,2018,20
+8,9,Pierre  Gasly  GAS,Scuderia Toro Rosso Honda,01:09.0,2018,20
+9,10,Kevin  Magnussen  MAG,Haas Ferrari,01:08.7,2018,20
+10,11,Daniel  Ricciardo  RIC,Red Bull Racing TAG Heuer,01:07.8,2018,20
+11,12,Sergio  Perez  PER,Force India Mercedes,01:08.7,2018,20
+12,13,Nico  Hulkenberg  HUL,Renault,01:08.8,2018,20
+13,14,Sergey  Sirotkin  SIR,Williams Mercedes,01:10.4,2018,20
+14,15,Carlos  Sainz  SAI,Renault,01:09.3,2018,20
+15,16,Brendon  Hartley  HAR,Scuderia Toro Rosso Honda,01:09.3,2018,20
+16,17,Fernando  Alonso  ALO,McLaren Renault,01:09.4,2018,20
+17,18,Esteban  Ocon  OCO,Force India Mercedes,01:08.8,2018,20
+18,19,Lance  Stroll  STR,Williams Mercedes,01:09.4,2018,20
+19,20,Stoffel  Vandoorne  VAN,McLaren Renault,01:09.6,2018,20
+0,1,Lewis  Hamilton  HAM,Mercedes,01:34.8,2018,21
+1,2,Valtteri  Bottas  BOT,Mercedes,01:35.0,2018,21
+2,3,Sebastian  Vettel  VET,Ferrari,01:35.1,2018,21
+3,4,Kimi  Räikkönen  RAI,Ferrari,01:35.4,2018,21
+4,5,Daniel  Ricciardo  RIC,Red Bull Racing TAG Heuer,01:35.4,2018,21
+5,6,Max  Verstappen  VER,Red Bull Racing TAG Heuer,01:35.6,2018,21
+6,7,Romain  Grosjean  GRO,Haas Ferrari,01:36.2,2018,21
+7,8,Charles  Leclerc  LEC,Sauber Ferrari,01:36.2,2018,21
+8,9,Esteban  Ocon  OCO,Force India Mercedes,01:36.5,2018,21
+9,10,Nico  Hulkenberg  HUL,Renault,01:36.5,2018,21
+10,11,Carlos  Sainz  SAI,Renault,01:37.0,2018,21
+11,12,Marcus  Ericsson  ERI,Sauber Ferrari,01:37.1,2018,21
+12,13,Kevin  Magnussen  MAG,Haas Ferrari,01:37.3,2018,21
+13,14,Sergio  Perez  PER,Force India Mercedes,01:37.5,2018,21
+14,15,Fernando  Alonso  ALO,McLaren Renault,01:37.7,2018,21
+15,16,Brendon  Hartley  HAR,Scuderia Toro Rosso Honda,01:38.0,2018,21
+16,17,Pierre  Gasly  GAS,Scuderia Toro Rosso Honda,01:38.2,2018,21
+17,18,Stoffel  Vandoorne  VAN,McLaren Renault,01:38.6,2018,21
+18,19,Sergey  Sirotkin  SIR,Williams Mercedes,01:38.6,2018,21
+19,20,Lance  Stroll  STR,Williams Mercedes,01:38.7,2018,21
+0,1,Lewis  Hamilton  HAM,Mercedes,01:20.5,2019,1
+1,2,Valtteri  Bottas  BOT,Mercedes,01:20.6,2019,1
+2,3,Sebastian  Vettel  VET,Ferrari,01:21.2,2019,1
+3,4,Max  Verstappen  VER,Red Bull Racing Honda,01:21.3,2019,1
+4,5,Charles  Leclerc  LEC,Ferrari,01:21.4,2019,1
+5,6,Romain  Grosjean  GRO,Haas Ferrari,01:21.8,2019,1
+6,7,Kevin  Magnussen  MAG,Haas Ferrari,01:22.1,2019,1
+7,8,Lando  Norris  NOR,McLaren Renault,01:22.3,2019,1
+8,9,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,01:22.3,2019,1
+9,10,Sergio  Perez  PER,Racing Point BWT Mercedes,01:22.8,2019,1
+10,11,Nico  Hulkenberg  HUL,Renault,01:22.6,2019,1
+11,12,Daniel  Ricciardo  RIC,Renault,01:22.6,2019,1
+12,13,Alexander  Albon  ALB,Scuderia Toro Rosso Honda,01:22.6,2019,1
+13,14,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,01:22.7,2019,1
+14,15,Daniil  Kvyat  KVY,Scuderia Toro Rosso Honda,01:22.8,2019,1
+15,16,Lance  Stroll  STR,Racing Point BWT Mercedes,01:23.0,2019,1
+16,17,Pierre  Gasly  GAS,Red Bull Racing Honda,01:23.0,2019,1
+17,18,Carlos  Sainz  SAI,McLaren Renault,01:23.1,2019,1
+18,19,George  Russell  RUS,Williams Mercedes,01:24.4,2019,1
+19,20,Robert  Kubica  KUB,Williams Mercedes,01:26.1,2019,1
+0,1,Charles  Leclerc  LEC,Ferrari,01:27.9,2019,2
+1,2,Sebastian  Vettel  VET,Ferrari,01:28.2,2019,2
+2,3,Lewis  Hamilton  HAM,Mercedes,01:28.2,2019,2
+3,4,Valtteri  Bottas  BOT,Mercedes,01:28.3,2019,2
+4,5,Max  Verstappen  VER,Red Bull Racing Honda,01:28.8,2019,2
+5,6,Kevin  Magnussen  MAG,Haas Ferrari,01:28.8,2019,2
+6,7,Carlos  Sainz  SAI,McLaren Renault,01:28.8,2019,2
+7,8,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,01:29.0,2019,2
+8,9,Lando  Norris  NOR,McLaren Renault,01:29.0,2019,2
+9,10,Daniel  Ricciardo  RIC,Renault,01:29.5,2019,2
+10,11,Romain  Grosjean  GRO,Haas Ferrari,01:29.0,2019,2
+11,12,Alexander  Albon  ALB,Scuderia Toro Rosso Honda,01:29.5,2019,2
+12,13,Pierre  Gasly  GAS,Red Bull Racing Honda,01:29.5,2019,2
+13,14,Sergio  Perez  PER,Racing Point BWT Mercedes,01:29.8,2019,2
+14,15,Daniil  Kvyat  KVY,Scuderia Toro Rosso Honda,01:29.9,2019,2
+15,16,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,01:30.0,2019,2
+16,17,Nico  Hulkenberg  HUL,Renault,01:30.0,2019,2
+17,18,Lance  Stroll  STR,Racing Point BWT Mercedes,01:30.2,2019,2
+18,19,George  Russell  RUS,Williams Mercedes,01:31.8,2019,2
+19,20,Robert  Kubica  KUB,Williams Mercedes,01:31.8,2019,2
+0,1,Valtteri  Bottas  BOT,Mercedes,01:31.5,2019,3
+1,2,Lewis  Hamilton  HAM,Mercedes,01:31.6,2019,3
+2,3,Sebastian  Vettel  VET,Ferrari,01:31.8,2019,3
+3,4,Charles  Leclerc  LEC,Ferrari,01:31.9,2019,3
+4,5,Max  Verstappen  VER,Red Bull Racing Honda,01:32.1,2019,3
+5,6,Pierre  Gasly  GAS,Red Bull Racing Honda,01:32.9,2019,3
+6,7,Daniel  Ricciardo  RIC,Renault,01:33.0,2019,3
+7,8,Nico  Hulkenberg  HUL,Renault,01:33.0,2019,3
+8,9,Kevin  Magnussen  MAG,Haas Ferrari,,2019,3
+9,10,Romain  Grosjean  GRO,Haas Ferrari,,2019,3
+10,11,Daniil  Kvyat  KVY,Scuderia Toro Rosso Honda,01:33.2,2019,3
+11,12,Sergio  Perez  PER,Racing Point BWT Mercedes,01:33.3,2019,3
+12,13,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,01:33.4,2019,3
+13,14,Carlos  Sainz  SAI,McLaren Renault,01:33.5,2019,3
+14,15,Lando  Norris  NOR,McLaren Renault,01:34.0,2019,3
+15,16,Lance  Stroll  STR,Racing Point BWT Mercedes,01:34.3,2019,3
+16,17,George  Russell  RUS,Williams Mercedes,01:35.3,2019,3
+17,18,Robert  Kubica  KUB,Williams Mercedes,01:35.3,2019,3
+18,19,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,,2019,3
+19,20,Alexander  Albon  ALB,Scuderia Toro Rosso Honda,,2019,3
+0,1,Valtteri  Bottas  BOT,Mercedes,01:40.5,2019,4
+1,2,Lewis  Hamilton  HAM,Mercedes,01:40.6,2019,4
+2,3,Sebastian  Vettel  VET,Ferrari,01:40.8,2019,4
+3,4,Max  Verstappen  VER,Red Bull Racing Honda,01:41.1,2019,4
+4,5,Sergio  Perez  PER,Racing Point BWT Mercedes,01:41.6,2019,4
+5,6,Daniil  Kvyat  KVY,Scuderia Toro Rosso Honda,01:41.7,2019,4
+6,7,Lando  Norris  NOR,McLaren Renault,01:41.9,2019,4
+7,8,Charles  Leclerc  LEC,Ferrari,,2019,4
+8,9,Carlos  Sainz  SAI,McLaren Renault,01:42.4,2019,4
+9,10,Daniel  Ricciardo  RIC,Renault,01:42.5,2019,4
+10,11,Alexander  Albon  ALB,Scuderia Toro Rosso Honda,01:42.5,2019,4
+11,12,Kevin  Magnussen  MAG,Haas Ferrari,01:42.7,2019,4
+12,13,Lance  Stroll  STR,Racing Point BWT Mercedes,01:42.6,2019,4
+13,14,Romain  Grosjean  GRO,Haas Ferrari,01:43.4,2019,4
+14,15,Nico  Hulkenberg  HUL,Renault,01:43.4,2019,4
+15,16,George  Russell  RUS,Williams Mercedes,01:45.1,2019,4
+16,17,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,01:42.4,2019,4
+17,18,Robert  Kubica  KUB,Williams Mercedes,01:45.5,2019,4
+18,19,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,01:43.1,2019,4
+19,20,Pierre  Gasly  GAS,Red Bull Racing Honda,01:41.3,2019,4
+0,1,Valtteri  Bottas  BOT,Mercedes,01:15.4,2019,5
+1,2,Lewis  Hamilton  HAM,Mercedes,01:16.0,2019,5
+2,3,Sebastian  Vettel  VET,Ferrari,01:16.3,2019,5
+3,4,Max  Verstappen  VER,Red Bull Racing Honda,01:16.4,2019,5
+4,5,Charles  Leclerc  LEC,Ferrari,01:16.6,2019,5
+5,6,Pierre  Gasly  GAS,Red Bull Racing Honda,01:16.7,2019,5
+6,7,Romain  Grosjean  GRO,Haas Ferrari,01:16.9,2019,5
+7,8,Kevin  Magnussen  MAG,Haas Ferrari,01:16.9,2019,5
+8,9,Daniil  Kvyat  KVY,Scuderia Toro Rosso Honda,01:17.6,2019,5
+9,10,Lando  Norris  NOR,McLaren Renault,01:17.3,2019,5
+10,11,Alexander  Albon  ALB,Scuderia Toro Rosso Honda,01:17.4,2019,5
+11,12,Carlos  Sainz  SAI,McLaren Renault,01:17.6,2019,5
+12,13,Daniel  Ricciardo  RIC,Renault,01:18.1,2019,5
+13,14,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,01:17.8,2019,5
+14,15,Sergio  Perez  PER,Racing Point BWT Mercedes,01:17.9,2019,5
+15,16,Lance  Stroll  STR,Racing Point BWT Mercedes,01:18.5,2019,5
+16,17,Robert  Kubica  KUB,Williams Mercedes,01:20.3,2019,5
+17,18,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,01:18.7,2019,5
+18,19,George  Russell  RUS,Williams Mercedes,01:19.1,2019,5
+19,20,Nico  Hulkenberg  HUL,Renault,01:18.4,2019,5
+0,1,Lewis  Hamilton  HAM,Mercedes,01:10.2,2019,6
+1,2,Valtteri  Bottas  BOT,Mercedes,01:10.3,2019,6
+2,3,Max  Verstappen  VER,Red Bull Racing Honda,01:10.6,2019,6
+3,4,Sebastian  Vettel  VET,Ferrari,01:10.9,2019,6
+4,5,Kevin  Magnussen  MAG,Haas Ferrari,01:11.1,2019,6
+5,6,Daniel  Ricciardo  RIC,Renault,01:11.2,2019,6
+6,7,Daniil  Kvyat  KVY,Scuderia Toro Rosso Honda,01:11.3,2019,6
+7,8,Pierre  Gasly  GAS,Red Bull Racing Honda,01:11.0,2019,6
+8,9,Carlos  Sainz  SAI,McLaren Renault,01:11.4,2019,6
+9,10,Alexander  Albon  ALB,Scuderia Toro Rosso Honda,01:11.7,2019,6
+10,11,Nico  Hulkenberg  HUL,Renault,01:11.7,2019,6
+11,12,Lando  Norris  NOR,McLaren Renault,01:11.7,2019,6
+12,13,Romain  Grosjean  GRO,Haas Ferrari,01:12.0,2019,6
+13,14,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,01:12.1,2019,6
+14,15,Charles  Leclerc  LEC,Ferrari,01:12.1,2019,6
+15,16,Sergio  Perez  PER,Racing Point BWT Mercedes,01:12.2,2019,6
+16,17,Lance  Stroll  STR,Racing Point BWT Mercedes,01:12.8,2019,6
+17,18,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,01:12.2,2019,6
+18,19,George  Russell  RUS,Williams Mercedes,01:13.5,2019,6
+19,20,Robert  Kubica  KUB,Williams Mercedes,01:13.8,2019,6
+0,1,Sebastian  Vettel  VET,Ferrari,01:10.2,2019,7
+1,2,Lewis  Hamilton  HAM,Mercedes,01:10.4,2019,7
+2,3,Charles  Leclerc  LEC,Ferrari,01:10.9,2019,7
+3,4,Daniel  Ricciardo  RIC,Renault,01:11.1,2019,7
+4,5,Pierre  Gasly  GAS,Red Bull Racing Honda,01:11.1,2019,7
+5,6,Valtteri  Bottas  BOT,Mercedes,01:11.1,2019,7
+6,7,Nico  Hulkenberg  HUL,Renault,01:11.3,2019,7
+7,8,Lando  Norris  NOR,McLaren Renault,01:11.9,2019,7
+8,9,Max  Verstappen  VER,Red Bull Racing Honda,01:11.8,2019,7
+9,10,Daniil  Kvyat  KVY,Scuderia Toro Rosso Honda,01:11.9,2019,7
+10,11,Carlos  Sainz  SAI,McLaren Renault,01:14.0,2019,7
+11,12,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,01:12.1,2019,7
+12,13,Alexander  Albon  ALB,Scuderia Toro Rosso Honda,01:12.2,2019,7
+13,14,Romain  Grosjean  GRO,Haas Ferrari,,2019,7
+14,15,Sergio  Perez  PER,Racing Point BWT Mercedes,01:12.2,2019,7
+15,16,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,01:12.2,2019,7
+16,17,Lance  Stroll  STR,Racing Point BWT Mercedes,01:12.3,2019,7
+17,18,George  Russell  RUS,Williams Mercedes,01:13.6,2019,7
+18,19,Robert  Kubica  KUB,Williams Mercedes,01:14.4,2019,7
+19,20,Kevin  Magnussen  MAG,Haas Ferrari,,2019,7
+0,1,Lewis  Hamilton  HAM,Mercedes,01:28.3,2019,8
+1,2,Valtteri  Bottas  BOT,Mercedes,01:28.6,2019,8
+2,3,Charles  Leclerc  LEC,Ferrari,01:29.0,2019,8
+3,4,Max  Verstappen  VER,Red Bull Racing Honda,01:29.4,2019,8
+4,5,Lando  Norris  NOR,McLaren Renault,01:29.4,2019,8
+5,6,Carlos  Sainz  SAI,McLaren Renault,01:29.5,2019,8
+6,7,Sebastian  Vettel  VET,Ferrari,01:29.8,2019,8
+7,8,Daniel  Ricciardo  RIC,Renault,01:29.9,2019,8
+8,9,Pierre  Gasly  GAS,Red Bull Racing Honda,01:30.2,2019,8
+9,10,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,01:33.4,2019,8
+10,11,Alexander  Albon  ALB,Scuderia Toro Rosso Honda,01:30.5,2019,8
+11,12,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,01:30.5,2019,8
+12,13,Nico  Hulkenberg  HUL,Renault,01:30.5,2019,8
+13,14,Sergio  Perez  PER,Racing Point BWT Mercedes,01:30.7,2019,8
+14,15,Kevin  Magnussen  MAG,Haas Ferrari,01:31.4,2019,8
+15,16,Romain  Grosjean  GRO,Haas Ferrari,01:31.6,2019,8
+16,17,Lance  Stroll  STR,Racing Point BWT Mercedes,01:31.7,2019,8
+17,18,Robert  Kubica  KUB,Williams Mercedes,01:33.2,2019,8
+18,19,Daniil  Kvyat  KVY,Scuderia Toro Rosso Honda,01:31.6,2019,8
+19,20,George  Russell  RUS,Williams Mercedes,01:32.8,2019,8
+0,1,Charles  Leclerc  LEC,Ferrari,01:03.0,2019,9
+1,2,Max  Verstappen  VER,Red Bull Racing Honda,01:03.4,2019,9
+2,3,Valtteri  Bottas  BOT,Mercedes,01:03.5,2019,9
+3,4,Lewis  Hamilton  HAM,Mercedes,01:03.3,2019,9
+4,5,Lando  Norris  NOR,McLaren Renault,01:04.1,2019,9
+5,6,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,01:04.2,2019,9
+6,7,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,01:04.2,2019,9
+7,8,Pierre  Gasly  GAS,Red Bull Racing Honda,01:04.2,2019,9
+8,9,Sebastian  Vettel  VET,Ferrari,,2019,9
+9,10,Kevin  Magnussen  MAG,Haas Ferrari,01:04.1,2019,9
+10,11,Romain  Grosjean  GRO,Haas Ferrari,01:04.5,2019,9
+11,12,Daniel  Ricciardo  RIC,Renault,01:04.8,2019,9
+12,13,Sergio  Perez  PER,Racing Point BWT Mercedes,01:04.8,2019,9
+13,14,Lance  Stroll  STR,Racing Point BWT Mercedes,01:04.8,2019,9
+14,15,Nico  Hulkenberg  HUL,Renault,01:04.5,2019,9
+15,16,Daniil  Kvyat  KVY,Scuderia Toro Rosso Honda,01:05.3,2019,9
+16,17,Robert  Kubica  KUB,Williams Mercedes,01:06.2,2019,9
+17,18,Alexander  Albon  ALB,Scuderia Toro Rosso Honda,01:04.7,2019,9
+18,19,Carlos  Sainz  SAI,McLaren Renault,01:13.6,2019,9
+19,20,George  Russell  RUS,Williams Mercedes,01:05.9,2019,9
+0,1,Valtteri  Bottas  BOT,Mercedes,01:25.1,2019,10
+1,2,Lewis  Hamilton  HAM,Mercedes,01:25.1,2019,10
+2,3,Charles  Leclerc  LEC,Ferrari,01:25.2,2019,10
+3,4,Max  Verstappen  VER,Red Bull Racing Honda,01:25.3,2019,10
+4,5,Pierre  Gasly  GAS,Red Bull Racing Honda,01:25.6,2019,10
+5,6,Sebastian  Vettel  VET,Ferrari,01:25.8,2019,10
+6,7,Daniel  Ricciardo  RIC,Renault,01:26.2,2019,10
+7,8,Lando  Norris  NOR,McLaren Renault,01:26.2,2019,10
+8,9,Alexander  Albon  ALB,Scuderia Toro Rosso Honda,01:26.3,2019,10
+9,10,Nico  Hulkenberg  HUL,Renault,01:26.4,2019,10
+10,11,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,01:26.5,2019,10
+11,12,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,01:26.5,2019,10
+12,13,Carlos  Sainz  SAI,McLaren Renault,01:26.6,2019,10
+13,14,Romain  Grosjean  GRO,Haas Ferrari,01:26.8,2019,10
+14,15,Sergio  Perez  PER,Racing Point BWT Mercedes,01:26.9,2019,10
+15,16,Kevin  Magnussen  MAG,Haas Ferrari,01:26.7,2019,10
+16,17,Daniil  Kvyat  KVY,Scuderia Toro Rosso Honda,01:26.7,2019,10
+17,18,Lance  Stroll  STR,Racing Point BWT Mercedes,01:26.8,2019,10
+18,19,George  Russell  RUS,Williams Mercedes,01:27.8,2019,10
+19,20,Robert  Kubica  KUB,Williams Mercedes,01:28.3,2019,10
+0,1,Lewis  Hamilton  HAM,Mercedes,01:11.8,2019,11
+1,2,Max  Verstappen  VER,Red Bull Racing Honda,01:12.1,2019,11
+2,3,Valtteri  Bottas  BOT,Mercedes,01:12.1,2019,11
+3,4,Pierre  Gasly  GAS,Red Bull Racing Honda,01:12.5,2019,11
+4,5,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,01:12.5,2019,11
+5,6,Romain  Grosjean  GRO,Haas Ferrari,01:12.9,2019,11
+6,7,Carlos  Sainz  SAI,McLaren Renault,01:12.9,2019,11
+7,8,Sergio  Perez  PER,Racing Point BWT Mercedes,01:13.1,2019,11
+8,9,Nico  Hulkenberg  HUL,Renault,01:13.1,2019,11
+9,10,Charles  Leclerc  LEC,Ferrari,,2019,11
+10,11,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,01:12.8,2019,11
+11,12,Kevin  Magnussen  MAG,Haas Ferrari,01:12.8,2019,11
+12,13,Daniel  Ricciardo  RIC,Renault,01:12.8,2019,11
+13,14,Daniil  Kvyat  KVY,Scuderia Toro Rosso Honda,01:13.1,2019,11
+14,15,Lance  Stroll  STR,Racing Point BWT Mercedes,01:13.5,2019,11
+15,16,Alexander  Albon  ALB,Scuderia Toro Rosso Honda,01:13.5,2019,11
+16,17,George  Russell  RUS,Williams Mercedes,01:14.7,2019,11
+17,18,Robert  Kubica  KUB,Williams Mercedes,01:14.8,2019,11
+18,19,Lando  Norris  NOR,McLaren Renault,01:13.3,2019,11
+19,20,Sebastian  Vettel  VET,Ferrari,,2019,11
+0,1,Max  Verstappen  VER,Red Bull Racing Honda,01:14.6,2019,12
+1,2,Valtteri  Bottas  BOT,Mercedes,01:14.6,2019,12
+2,3,Lewis  Hamilton  HAM,Mercedes,01:14.8,2019,12
+3,4,Charles  Leclerc  LEC,Ferrari,01:15.0,2019,12
+4,5,Sebastian  Vettel  VET,Ferrari,01:15.1,2019,12
+5,6,Pierre  Gasly  GAS,Red Bull Racing Honda,01:15.5,2019,12
+6,7,Lando  Norris  NOR,McLaren Renault,01:15.8,2019,12
+7,8,Carlos  Sainz  SAI,McLaren Renault,01:15.9,2019,12
+8,9,Romain  Grosjean  GRO,Haas Ferrari,01:16.0,2019,12
+9,10,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,01:16.0,2019,12
+10,11,Nico  Hulkenberg  HUL,Renault,01:16.6,2019,12
+11,12,Alexander  Albon  ALB,Scuderia Toro Rosso Honda,01:16.7,2019,12
+12,13,Daniil  Kvyat  KVY,Scuderia Toro Rosso Honda,01:16.7,2019,12
+13,14,Kevin  Magnussen  MAG,Haas Ferrari,01:17.1,2019,12
+14,15,George  Russell  RUS,Williams Mercedes,01:17.0,2019,12
+15,16,Sergio  Perez  PER,Racing Point BWT Mercedes,01:17.1,2019,12
+16,17,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,01:16.8,2019,12
+17,18,Lance  Stroll  STR,Racing Point BWT Mercedes,01:17.5,2019,12
+18,19,Robert  Kubica  KUB,Williams Mercedes,01:18.3,2019,12
+19,20,Daniel  Ricciardo  RIC,Renault,01:17.3,2019,12
+0,1,Charles  Leclerc  LEC,Ferrari,01:42.5,2019,13
+1,2,Sebastian  Vettel  VET,Ferrari,01:43.3,2019,13
+2,3,Lewis  Hamilton  HAM,Mercedes,01:43.3,2019,13
+3,4,Valtteri  Bottas  BOT,Mercedes,01:43.4,2019,13
+4,5,Max  Verstappen  VER,Red Bull Racing Honda,01:43.7,2019,13
+5,6,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,01:44.6,2019,13
+6,7,Sergio  Perez  PER,Racing Point BWT Mercedes,01:44.7,2019,13
+7,8,Kevin  Magnussen  MAG,Haas Ferrari,01:45.1,2019,13
+8,9,Romain  Grosjean  GRO,Haas Ferrari,01:44.8,2019,13
+9,10,Daniel  Ricciardo  RIC,Renault,01:44.3,2019,13
+10,11,Lando  Norris  NOR,McLaren Renault,01:44.8,2019,13
+11,12,Nico  Hulkenberg  HUL,Renault,01:44.5,2019,13
+12,13,Pierre  Gasly  GAS,Scuderia Toro Rosso Honda,01:46.4,2019,13
+13,14,George  Russell  RUS,Williams Mercedes,01:47.5,2019,13
+14,15,Carlos  Sainz  SAI,McLaren Renault,01:46.5,2019,13
+15,16,Lance  Stroll  STR,Racing Point BWT Mercedes,01:45.0,2019,13
+16,17,Alexander  Albon  ALB,Red Bull Racing Honda,01:45.8,2019,13
+17,18,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,,2019,13
+18,19,Daniil  Kvyat  KVY,Scuderia Toro Rosso Honda,01:46.5,2019,13
+19,20,Robert  Kubica  KUB,Williams Mercedes,,2019,13
+0,1,Charles  Leclerc  LEC,Ferrari,01:19.3,2019,14
+1,2,Lewis  Hamilton  HAM,Mercedes,01:19.3,2019,14
+2,3,Valtteri  Bottas  BOT,Mercedes,01:19.4,2019,14
+3,4,Sebastian  Vettel  VET,Ferrari,01:19.5,2019,14
+4,5,Daniel  Ricciardo  RIC,Renault,01:19.8,2019,14
+5,6,Nico  Hulkenberg  HUL,Renault,01:20.0,2019,14
+6,7,Carlos  Sainz  SAI,McLaren Renault,01:20.5,2019,14
+7,8,Alexander  Albon  ALB,Red Bull Racing Honda,,2019,14
+8,9,Lance  Stroll  STR,Racing Point BWT Mercedes,,2019,14
+9,10,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,01:20.5,2019,14
+10,11,Kevin  Magnussen  MAG,Haas Ferrari,01:20.6,2019,14
+11,12,Daniil  Kvyat  KVY,Scuderia Toro Rosso Honda,01:20.6,2019,14
+12,13,Romain  Grosjean  GRO,Haas Ferrari,01:20.8,2019,14
+13,14,George  Russell  RUS,Williams Mercedes,01:21.8,2019,14
+14,15,Robert  Kubica  KUB,Williams Mercedes,01:22.4,2019,14
+15,16,Lando  Norris  NOR,McLaren Renault,01:21.1,2019,14
+16,17,Pierre  Gasly  GAS,Scuderia Toro Rosso Honda,01:21.1,2019,14
+17,18,Sergio  Perez  PER,Racing Point BWT Mercedes,01:21.3,2019,14
+18,19,Max  Verstappen  VER,Red Bull Racing Honda,,2019,14
+19,20,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,,2019,14
+0,1,Charles  Leclerc  LEC,Ferrari,01:36.2,2019,15
+1,2,Lewis  Hamilton  HAM,Mercedes,01:36.4,2019,15
+2,3,Sebastian  Vettel  VET,Ferrari,01:36.4,2019,15
+3,4,Max  Verstappen  VER,Red Bull Racing Honda,01:36.8,2019,15
+4,5,Valtteri  Bottas  BOT,Mercedes,01:37.1,2019,15
+5,6,Alexander  Albon  ALB,Red Bull Racing Honda,01:37.4,2019,15
+6,7,Carlos  Sainz  SAI,McLaren Renault,01:37.8,2019,15
+7,8,Nico  Hulkenberg  HUL,Renault,01:38.3,2019,15
+8,9,Lando  Norris  NOR,McLaren Renault,01:38.3,2019,15
+9,10,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,01:38.7,2019,15
+10,11,Pierre  Gasly  GAS,Scuderia Toro Rosso Honda,01:38.7,2019,15
+11,12,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,01:38.9,2019,15
+12,13,Kevin  Magnussen  MAG,Haas Ferrari,01:39.6,2019,15
+13,14,Daniil  Kvyat  KVY,Scuderia Toro Rosso Honda,01:40.0,2019,15
+14,15,Sergio  Perez  PER,Racing Point BWT Mercedes,01:38.6,2019,15
+15,16,Lance  Stroll  STR,Racing Point BWT Mercedes,01:40.0,2019,15
+16,17,Romain  Grosjean  GRO,Haas Ferrari,01:40.3,2019,15
+17,18,George  Russell  RUS,Williams Mercedes,01:40.9,2019,15
+18,19,Robert  Kubica  KUB,Williams Mercedes,01:41.2,2019,15
+19,20,Daniel  Ricciardo  RIC,Renault,,2019,15
+0,1,Charles  Leclerc  LEC,Ferrari,01:31.6,2019,16
+1,2,Lewis  Hamilton  HAM,Mercedes,01:32.0,2019,16
+2,3,Sebastian  Vettel  VET,Ferrari,01:32.1,2019,16
+3,4,Valtteri  Bottas  BOT,Mercedes,01:32.6,2019,16
+4,5,Carlos  Sainz  SAI,McLaren Renault,01:33.2,2019,16
+5,6,Nico  Hulkenberg  HUL,Renault,01:33.3,2019,16
+6,7,Lando  Norris  NOR,McLaren Renault,01:33.3,2019,16
+7,8,Romain  Grosjean  GRO,Haas Ferrari,01:33.5,2019,16
+8,9,Max  Verstappen  VER,Red Bull Racing Honda,01:32.3,2019,16
+9,10,Daniel  Ricciardo  RIC,Renault,01:33.7,2019,16
+10,11,Sergio  Perez  PER,Racing Point BWT Mercedes,01:34.0,2019,16
+11,12,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,01:34.0,2019,16
+12,13,Kevin  Magnussen  MAG,Haas Ferrari,01:34.1,2019,16
+13,14,Lance  Stroll  STR,Racing Point BWT Mercedes,01:34.2,2019,16
+14,15,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,01:34.8,2019,16
+15,16,Pierre  Gasly  GAS,Scuderia Toro Rosso Honda,01:34.0,2019,16
+16,17,George  Russell  RUS,Williams Mercedes,01:35.4,2019,16
+17,18,Robert  Kubica  KUB,Williams Mercedes,01:36.5,2019,16
+18,19,Daniil  Kvyat  KVY,Scuderia Toro Rosso Honda,,2019,16
+19,20,Alexander  Albon  ALB,Red Bull Racing Honda,01:39.2,2019,16
+0,1,Sebastian  Vettel  VET,Ferrari,01:27.1,2019,17
+1,2,Charles  Leclerc  LEC,Ferrari,01:27.3,2019,17
+2,3,Valtteri  Bottas  BOT,Mercedes,01:27.3,2019,17
+3,4,Lewis  Hamilton  HAM,Mercedes,01:27.3,2019,17
+4,5,Max  Verstappen  VER,Red Bull Racing Honda,01:27.9,2019,17
+5,6,Alexander  Albon  ALB,Red Bull Racing Honda,01:27.9,2019,17
+6,7,Carlos  Sainz  SAI,McLaren Renault,01:28.3,2019,17
+7,8,Lando  Norris  NOR,McLaren Renault,01:28.5,2019,17
+8,9,Pierre  Gasly  GAS,Scuderia Toro Rosso Honda,01:28.8,2019,17
+9,10,Romain  Grosjean  GRO,Haas Ferrari,01:29.3,2019,17
+10,11,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,01:29.3,2019,17
+11,12,Lance  Stroll  STR,Racing Point BWT Mercedes,01:29.3,2019,17
+12,13,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,01:29.4,2019,17
+13,14,Daniil  Kvyat  KVY,Scuderia Toro Rosso Honda,01:29.6,2019,17
+14,15,Nico  Hulkenberg  HUL,Renault,01:30.1,2019,17
+15,16,Daniel  Ricciardo  RIC,Renault,01:29.8,2019,17
+16,17,Sergio  Perez  PER,Racing Point BWT Mercedes,01:30.3,2019,17
+17,18,George  Russell  RUS,Williams Mercedes,01:30.4,2019,17
+18,19,Kevin  Magnussen  MAG,Haas Ferrari,,2019,17
+0,1,Charles  Leclerc  LEC,Ferrari,01:15.0,2019,18
+1,2,Sebastian  Vettel  VET,Ferrari,01:15.2,2019,18
+2,3,Lewis  Hamilton  HAM,Mercedes,01:15.3,2019,18
+3,4,Max  Verstappen  VER,Red Bull Racing Honda,01:14.8,2019,18
+4,5,Alexander  Albon  ALB,Red Bull Racing Honda,01:15.3,2019,18
+5,6,Valtteri  Bottas  BOT,Mercedes,01:15.3,2019,18
+6,7,Carlos  Sainz  SAI,McLaren Renault,01:16.0,2019,18
+7,8,Lando  Norris  NOR,McLaren Renault,01:16.3,2019,18
+8,9,Daniil  Kvyat  KVY,Scuderia Toro Rosso Honda,01:16.5,2019,18
+9,10,Pierre  Gasly  GAS,Scuderia Toro Rosso Honda,01:16.6,2019,18
+10,11,Sergio  Perez  PER,Racing Point BWT Mercedes,01:16.7,2019,18
+11,12,Nico  Hulkenberg  HUL,Renault,01:16.9,2019,18
+12,13,Daniel  Ricciardo  RIC,Renault,01:16.9,2019,18
+13,14,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,01:17.0,2019,18
+14,15,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,01:17.3,2019,18
+15,16,Lance  Stroll  STR,Racing Point BWT Mercedes,01:18.1,2019,18
+16,17,Kevin  Magnussen  MAG,Haas Ferrari,01:18.4,2019,18
+17,18,Romain  Grosjean  GRO,Haas Ferrari,01:18.6,2019,18
+18,19,George  Russell  RUS,Williams Mercedes,01:18.8,2019,18
+19,20,Robert  Kubica  KUB,Williams Mercedes,01:20.2,2019,18
+0,1,Valtteri  Bottas  BOT,Mercedes,01:32.0,2019,19
+1,2,Sebastian  Vettel  VET,Ferrari,01:32.0,2019,19
+2,3,Max  Verstappen  VER,Red Bull Racing Honda,01:32.1,2019,19
+3,4,Charles  Leclerc  LEC,Ferrari,01:32.1,2019,19
+4,5,Lewis  Hamilton  HAM,Mercedes,01:32.3,2019,19
+5,6,Alexander  Albon  ALB,Red Bull Racing Honda,01:32.5,2019,19
+6,7,Carlos  Sainz  SAI,McLaren Renault,01:32.8,2019,19
+7,8,Lando  Norris  NOR,McLaren Renault,01:33.2,2019,19
+8,9,Daniel  Ricciardo  RIC,Renault,01:33.5,2019,19
+9,10,Pierre  Gasly  GAS,Scuderia Toro Rosso Honda,01:33.6,2019,19
+10,11,Nico  Hulkenberg  HUL,Renault,01:33.8,2019,19
+11,12,Kevin  Magnussen  MAG,Haas Ferrari,01:34.0,2019,19
+12,13,Daniil  Kvyat  KVY,Scuderia Toro Rosso Honda,01:34.0,2019,19
+13,14,Lance  Stroll  STR,Racing Point BWT Mercedes,01:34.1,2019,19
+14,15,Romain  Grosjean  GRO,Haas Ferrari,01:34.2,2019,19
+15,16,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,01:34.2,2019,19
+16,17,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,01:34.4,2019,19
+17,18,George  Russell  RUS,Williams Mercedes,01:35.4,2019,19
+18,19,Robert  Kubica  KUB,Williams Mercedes,01:35.9,2019,19
+19,20,Sergio  Perez  PER,Racing Point BWT Mercedes,01:35.8,2019,19
+0,1,Max  Verstappen  VER,Red Bull Racing Honda,01:07.5,2019,20
+1,2,Sebastian  Vettel  VET,Ferrari,01:07.6,2019,20
+2,3,Lewis  Hamilton  HAM,Mercedes,01:07.7,2019,20
+3,4,Valtteri  Bottas  BOT,Mercedes,01:07.9,2019,20
+4,5,Alexander  Albon  ALB,Red Bull Racing Honda,01:07.9,2019,20
+5,6,Pierre  Gasly  GAS,Scuderia Toro Rosso Honda,01:08.8,2019,20
+6,7,Romain  Grosjean  GRO,Haas Ferrari,01:08.9,2019,20
+7,8,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,01:09.0,2019,20
+8,9,Kevin  Magnussen  MAG,Haas Ferrari,01:09.0,2019,20
+9,10,Lando  Norris  NOR,McLaren Renault,01:08.9,2019,20
+10,11,Daniel  Ricciardo  RIC,Renault,01:08.9,2019,20
+11,12,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,01:08.9,2019,20
+12,13,Nico  Hulkenberg  HUL,Renault,01:08.9,2019,20
+13,14,Charles  Leclerc  LEC,Ferrari,01:07.7,2019,20
+14,15,Sergio  Perez  PER,Racing Point BWT Mercedes,01:09.0,2019,20
+15,16,Daniil  Kvyat  KVY,Scuderia Toro Rosso Honda,01:09.3,2019,20
+16,17,Lance  Stroll  STR,Racing Point BWT Mercedes,01:09.5,2019,20
+17,18,George  Russell  RUS,Williams Mercedes,01:10.1,2019,20
+18,19,Robert  Kubica  KUB,Williams Mercedes,01:10.6,2019,20
+19,20,Carlos  Sainz  SAI,McLaren Renault,,2019,20
+0,1,Lewis  Hamilton  HAM,Mercedes,01:34.8,2019,21
+1,2,Max  Verstappen  VER,Red Bull Racing Honda,01:35.1,2019,21
+2,3,Charles  Leclerc  LEC,Ferrari,01:35.2,2019,21
+3,4,Sebastian  Vettel  VET,Ferrari,01:35.3,2019,21
+4,5,Alexander  Albon  ALB,Red Bull Racing Honda,01:35.7,2019,21
+5,6,Lando  Norris  NOR,McLaren Renault,01:36.4,2019,21
+6,7,Daniel  Ricciardo  RIC,Renault,01:36.5,2019,21
+7,8,Carlos  Sainz  SAI,McLaren Renault,01:36.5,2019,21
+8,9,Nico  Hulkenberg  HUL,Renault,01:36.7,2019,21
+9,10,Sergio  Perez  PER,Racing Point BWT Mercedes,01:37.1,2019,21
+10,11,Pierre  Gasly  GAS,Scuderia Toro Rosso Honda,01:37.1,2019,21
+11,12,Lance  Stroll  STR,Racing Point BWT Mercedes,01:37.1,2019,21
+12,13,Daniil  Kvyat  KVY,Scuderia Toro Rosso Honda,01:37.1,2019,21
+13,14,Kevin  Magnussen  MAG,Haas Ferrari,01:37.3,2019,21
+14,15,Romain  Grosjean  GRO,Haas Ferrari,01:38.1,2019,21
+15,16,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,01:38.1,2019,21
+16,17,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,01:38.4,2019,21
+17,18,George  Russell  RUS,Williams Mercedes,01:38.7,2019,21
+18,19,Robert  Kubica  KUB,Williams Mercedes,01:39.2,2019,21
+19,20,Valtteri  Bottas  BOT,Mercedes,01:35.0,2019,21
+0,1,Valtteri  Bottas  BOT,Mercedes,01:02.9,2020,1
+1,2,Max  Verstappen  VER,Red Bull Racing Honda,01:03.5,2020,1
+2,3,Lando  Norris  NOR,McLaren Renault,01:03.6,2020,1
+3,4,Alexander  Albon  ALB,Red Bull Racing Honda,01:03.9,2020,1
+4,5,Lewis  Hamilton  HAM,Mercedes,01:03.0,2020,1
+5,6,Sergio  Perez  PER,Racing Point BWT Mercedes,01:03.9,2020,1
+6,7,Charles  Leclerc  LEC,Ferrari,01:03.9,2020,1
+7,8,Carlos  Sainz  SAI,McLaren Renault,01:04.0,2020,1
+8,9,Lance  Stroll  STR,Racing Point BWT Mercedes,01:04.0,2020,1
+9,10,Daniel  Ricciardo  RIC,Renault,01:04.2,2020,1
+10,11,Sebastian  Vettel  VET,Ferrari,01:04.2,2020,1
+11,12,Pierre  Gasly  GAS,AlphaTauri Honda,01:04.3,2020,1
+12,13,Daniil  Kvyat  KVY,AlphaTauri Honda,01:04.4,2020,1
+13,14,Esteban  Ocon  OCO,Renault,01:04.6,2020,1
+14,15,Romain  Grosjean  GRO,Haas Ferrari,01:04.7,2020,1
+15,16,Kevin  Magnussen  MAG,Haas Ferrari,01:05.2,2020,1
+16,17,George  Russell  RUS,Williams Mercedes,01:05.2,2020,1
+17,18,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,01:05.2,2020,1
+18,19,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,01:05.2,2020,1
+19,20,Nicholas  Latifi  LAT,Williams Mercedes,01:05.8,2020,1
+0,1,Lewis  Hamilton  HAM,Mercedes,01:19.3,2020,2
+1,2,Max  Verstappen  VER,Red Bull Racing Honda,01:20.5,2020,2
+2,3,Carlos  Sainz  SAI,McLaren Renault,01:20.7,2020,2
+3,4,Valtteri  Bottas  BOT,Mercedes,01:20.7,2020,2
+4,5,Esteban  Ocon  OCO,Renault,01:20.9,2020,2
+5,6,Alexander  Albon  ALB,Red Bull Racing Honda,01:21.0,2020,2
+6,7,Pierre  Gasly  GAS,AlphaTauri Honda,01:21.0,2020,2
+7,8,Daniel  Ricciardo  RIC,Renault,01:21.2,2020,2
+8,9,Lando  Norris  NOR,McLaren Renault,01:20.9,2020,2
+9,10,Sebastian  Vettel  VET,Ferrari,01:21.7,2020,2
+10,11,George  Russell  RUS,Williams Mercedes,01:19.6,2020,2
+11,12,Lance  Stroll  STR,Racing Point BWT Mercedes,01:19.6,2020,2
+12,13,Daniil  Kvyat  KVY,AlphaTauri Honda,01:19.7,2020,2
+13,14,Charles  Leclerc  LEC,Ferrari,01:19.6,2020,2
+14,15,Kevin  Magnussen  MAG,Haas Ferrari,01:20.2,2020,2
+15,16,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,01:21.4,2020,2
+16,17,Sergio  Perez  PER,Racing Point BWT Mercedes,01:21.6,2020,2
+17,18,Nicholas  Latifi  LAT,Williams Mercedes,01:21.8,2020,2
+18,19,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,01:21.8,2020,2
+0,1,Lewis  Hamilton  HAM,Mercedes,01:13.4,2020,3
+1,2,Valtteri  Bottas  BOT,Mercedes,01:13.6,2020,3
+2,3,Lance  Stroll  STR,Racing Point BWT Mercedes,01:14.4,2020,3
+3,4,Sergio  Perez  PER,Racing Point BWT Mercedes,01:14.5,2020,3
+4,5,Sebastian  Vettel  VET,Ferrari,01:14.8,2020,3
+5,6,Charles  Leclerc  LEC,Ferrari,01:14.8,2020,3
+6,7,Max  Verstappen  VER,Red Bull Racing Honda,01:14.8,2020,3
+7,8,Lando  Norris  NOR,McLaren Renault,01:15.0,2020,3
+8,9,Carlos  Sainz  SAI,McLaren Renault,01:15.0,2020,3
+9,10,Pierre  Gasly  GAS,AlphaTauri Honda,,2020,3
+10,11,Daniel  Ricciardo  RIC,Renault,01:15.7,2020,3
+11,12,George  Russell  RUS,Williams Mercedes,01:15.7,2020,3
+12,13,Alexander  Albon  ALB,Red Bull Racing Honda,01:15.7,2020,3
+13,14,Esteban  Ocon  OCO,Renault,01:15.7,2020,3
+14,15,Nicholas  Latifi  LAT,Williams Mercedes,01:16.5,2020,3
+15,16,Kevin  Magnussen  MAG,Haas Ferrari,01:16.2,2020,3
+16,17,Daniil  Kvyat  KVY,AlphaTauri Honda,01:16.2,2020,3
+17,18,Romain  Grosjean  GRO,Haas Ferrari,01:16.4,2020,3
+18,19,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,01:16.5,2020,3
+19,20,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,01:16.6,2020,3
+0,1,Lewis  Hamilton  HAM,Mercedes,01:24.3,2020,4
+1,2,Valtteri  Bottas  BOT,Mercedes,01:24.6,2020,4
+2,3,Max  Verstappen  VER,Red Bull Racing Honda,01:25.3,2020,4
+3,4,Charles  Leclerc  LEC,Ferrari,01:25.4,2020,4
+4,5,Lando  Norris  NOR,McLaren Renault,01:25.8,2020,4
+5,6,Lance  Stroll  STR,Racing Point BWT Mercedes,01:25.8,2020,4
+6,7,Carlos  Sainz  SAI,McLaren Renault,01:26.0,2020,4
+7,8,Daniel  Ricciardo  RIC,Renault,01:26.0,2020,4
+8,9,Esteban  Ocon  OCO,Renault,01:26.2,2020,4
+9,10,Sebastian  Vettel  VET,Ferrari,01:26.3,2020,4
+10,11,Pierre  Gasly  GAS,AlphaTauri Honda,01:26.5,2020,4
+11,12,Alexander  Albon  ALB,Red Bull Racing Honda,01:26.5,2020,4
+12,13,Nico  Hulkenberg  HUL,Racing Point BWT Mercedes,01:26.6,2020,4
+13,14,Kevin  Magnussen  MAG,Haas Ferrari,01:27.2,2020,4
+14,15,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,01:27.2,2020,4
+15,16,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,01:27.4,2020,4
+16,17,Romain  Grosjean  GRO,Haas Ferrari,01:27.6,2020,4
+17,18,Nicholas  Latifi  LAT,Williams Mercedes,01:27.7,2020,4
+18,19,Daniil  Kvyat  KVY,AlphaTauri Honda,01:26.7,2020,4
+19,20,George  Russell  RUS,Williams Mercedes,01:27.1,2020,4
+0,1,Valtteri  Bottas  BOT,Mercedes,01:25.2,2020,5
+1,2,Lewis  Hamilton  HAM,Mercedes,01:25.2,2020,5
+2,3,Nico  Hulkenberg  HUL,Racing Point BWT Mercedes,01:26.1,2020,5
+3,4,Max  Verstappen  VER,Red Bull Racing Honda,01:26.2,2020,5
+4,5,Daniel  Ricciardo  RIC,Renault,01:26.3,2020,5
+5,6,Lance  Stroll  STR,Racing Point BWT Mercedes,01:26.4,2020,5
+6,7,Pierre  Gasly  GAS,AlphaTauri Honda,01:26.5,2020,5
+7,8,Charles  Leclerc  LEC,Ferrari,01:26.6,2020,5
+8,9,Alexander  Albon  ALB,Red Bull Racing Honda,01:26.7,2020,5
+9,10,Lando  Norris  NOR,McLaren Renault,01:26.8,2020,5
+10,11,Sebastian  Vettel  VET,Ferrari,01:27.1,2020,5
+11,12,Carlos  Sainz  SAI,McLaren Renault,01:27.1,2020,5
+12,13,Romain  Grosjean  GRO,Haas Ferrari,01:27.3,2020,5
+13,14,Esteban  Ocon  OCO,Renault,01:27.0,2020,5
+14,15,George  Russell  RUS,Williams Mercedes,01:27.5,2020,5
+15,16,Daniil  Kvyat  KVY,AlphaTauri Honda,01:27.9,2020,5
+16,17,Kevin  Magnussen  MAG,Haas Ferrari,01:28.2,2020,5
+17,18,Nicholas  Latifi  LAT,Williams Mercedes,01:28.4,2020,5
+18,19,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,01:28.4,2020,5
+19,20,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,01:28.5,2020,5
+0,1,Lewis  Hamilton  HAM,Mercedes,01:15.6,2020,6
+1,2,Valtteri  Bottas  BOT,Mercedes,01:15.6,2020,6
+2,3,Max  Verstappen  VER,Red Bull Racing Honda,01:16.3,2020,6
+3,4,Sergio  Perez  PER,Racing Point BWT Mercedes,01:16.5,2020,6
+4,5,Lance  Stroll  STR,Racing Point BWT Mercedes,01:16.6,2020,6
+5,6,Alexander  Albon  ALB,Red Bull Racing Honda,01:17.0,2020,6
+6,7,Carlos  Sainz  SAI,McLaren Renault,01:17.0,2020,6
+7,8,Lando  Norris  NOR,McLaren Renault,01:17.1,2020,6
+8,9,Charles  Leclerc  LEC,Ferrari,01:17.1,2020,6
+9,10,Pierre  Gasly  GAS,AlphaTauri Honda,01:17.1,2020,6
+10,11,Sebastian  Vettel  VET,Ferrari,01:17.2,2020,6
+11,12,Daniil  Kvyat  KVY,AlphaTauri Honda,01:17.2,2020,6
+12,13,Daniel  Ricciardo  RIC,Renault,01:17.2,2020,6
+13,14,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,01:17.4,2020,6
+14,15,Esteban  Ocon  OCO,Renault,01:17.6,2020,6
+15,16,Kevin  Magnussen  MAG,Haas Ferrari,01:17.9,2020,6
+16,17,Romain  Grosjean  GRO,Haas Ferrari,01:18.1,2020,6
+17,18,George  Russell  RUS,Williams Mercedes,01:18.1,2020,6
+18,19,Nicholas  Latifi  LAT,Williams Mercedes,01:18.5,2020,6
+19,20,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,01:18.7,2020,6
+0,1,Lewis  Hamilton  HAM,Mercedes,01:41.3,2020,7
+1,2,Valtteri  Bottas  BOT,Mercedes,01:41.8,2020,7
+2,3,Max  Verstappen  VER,Red Bull Racing Honda,01:41.8,2020,7
+3,4,Daniel  Ricciardo  RIC,Renault,01:42.1,2020,7
+4,5,Alexander  Albon  ALB,Red Bull Racing Honda,01:42.3,2020,7
+5,6,Esteban  Ocon  OCO,Renault,01:42.4,2020,7
+6,7,Carlos  Sainz  SAI,McLaren Renault,01:42.4,2020,7
+7,8,Sergio  Perez  PER,Racing Point BWT Mercedes,01:42.5,2020,7
+8,9,Lance  Stroll  STR,Racing Point BWT Mercedes,01:42.6,2020,7
+9,10,Lando  Norris  NOR,McLaren Renault,01:42.7,2020,7
+10,11,Daniil  Kvyat  KVY,AlphaTauri Honda,01:42.7,2020,7
+11,12,Pierre  Gasly  GAS,AlphaTauri Honda,01:42.7,2020,7
+12,13,Charles  Leclerc  LEC,Ferrari,01:43.0,2020,7
+13,14,Sebastian  Vettel  VET,Ferrari,01:43.3,2020,7
+14,15,George  Russell  RUS,Williams Mercedes,01:43.5,2020,7
+15,16,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,01:43.7,2020,7
+16,17,Romain  Grosjean  GRO,Haas Ferrari,01:43.8,2020,7
+17,18,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,01:44.0,2020,7
+18,19,Nicholas  Latifi  LAT,Williams Mercedes,01:44.1,2020,7
+19,20,Kevin  Magnussen  MAG,Haas Ferrari,01:44.3,2020,7
+0,1,Lewis  Hamilton  HAM,Mercedes,01:18.9,2020,8
+1,2,Valtteri  Bottas  BOT,Mercedes,01:19.0,2020,8
+2,3,Carlos  Sainz  SAI,McLaren Renault,01:19.7,2020,8
+3,4,Sergio  Perez  PER,Racing Point BWT Mercedes,01:19.7,2020,8
+4,5,Max  Verstappen  VER,Red Bull Racing Honda,01:19.8,2020,8
+5,6,Lando  Norris  NOR,McLaren Renault,01:19.8,2020,8
+6,7,Daniel  Ricciardo  RIC,Renault,01:19.9,2020,8
+7,8,Lance  Stroll  STR,Racing Point BWT Mercedes,01:20.0,2020,8
+8,9,Alexander  Albon  ALB,Red Bull Racing Honda,01:20.1,2020,8
+9,10,Pierre  Gasly  GAS,AlphaTauri Honda,01:20.2,2020,8
+10,11,Daniil  Kvyat  KVY,AlphaTauri Honda,01:20.2,2020,8
+11,12,Esteban  Ocon  OCO,Renault,01:20.2,2020,8
+12,13,Charles  Leclerc  LEC,Ferrari,01:20.3,2020,8
+13,14,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,01:20.9,2020,8
+14,15,Kevin  Magnussen  MAG,Haas Ferrari,01:21.6,2020,8
+15,16,Romain  Grosjean  GRO,Haas Ferrari,01:21.1,2020,8
+16,17,Sebastian  Vettel  VET,Ferrari,01:21.2,2020,8
+17,18,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,01:21.2,2020,8
+18,19,George  Russell  RUS,Williams Mercedes,01:21.6,2020,8
+19,20,Nicholas  Latifi  LAT,Williams Mercedes,01:21.7,2020,8
+0,1,Lewis  Hamilton  HAM,Mercedes,01:15.1,2020,9
+1,2,Valtteri  Bottas  BOT,Mercedes,01:15.2,2020,9
+2,3,Max  Verstappen  VER,Red Bull Racing Honda,01:15.5,2020,9
+3,4,Alexander  Albon  ALB,Red Bull Racing Honda,01:16.0,2020,9
+4,5,Charles  Leclerc  LEC,Ferrari,01:16.3,2020,9
+5,6,Lance  Stroll  STR,Racing Point BWT Mercedes,01:16.4,2020,9
+6,7,Sergio  Perez  PER,Racing Point BWT Mercedes,01:16.3,2020,9
+7,8,Daniel  Ricciardo  RIC,Renault,01:16.5,2020,9
+8,9,Carlos  Sainz  SAI,McLaren Renault,01:17.9,2020,9
+9,10,Esteban  Ocon  OCO,Renault,,2020,9
+10,11,Lando  Norris  NOR,McLaren Renault,01:16.6,2020,9
+11,12,Daniil  Kvyat  KVY,AlphaTauri Honda,01:16.9,2020,9
+12,13,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,01:16.9,2020,9
+13,14,Sebastian  Vettel  VET,Ferrari,01:16.9,2020,9
+14,15,Romain  Grosjean  GRO,Haas Ferrari,01:17.3,2020,9
+15,16,Pierre  Gasly  GAS,AlphaTauri Honda,01:17.1,2020,9
+16,17,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,01:17.2,2020,9
+17,18,George  Russell  RUS,Williams Mercedes,01:17.2,2020,9
+18,19,Nicholas  Latifi  LAT,Williams Mercedes,01:17.3,2020,9
+19,20,Kevin  Magnussen  MAG,Haas Ferrari,01:17.3,2020,9
+0,1,Lewis  Hamilton  HAM,Mercedes,01:31.3,2020,10
+1,2,Max  Verstappen  VER,Red Bull Racing Honda,01:31.9,2020,10
+2,3,Valtteri  Bottas  BOT,Mercedes,01:32.0,2020,10
+3,4,Sergio  Perez  PER,Racing Point BWT Mercedes,01:32.3,2020,10
+4,5,Daniel  Ricciardo  RIC,Renault,01:32.4,2020,10
+5,6,Carlos  Sainz  SAI,McLaren Renault,01:32.6,2020,10
+6,7,Esteban  Ocon  OCO,Renault,01:32.6,2020,10
+7,8,Lando  Norris  NOR,McLaren Renault,01:32.8,2020,10
+8,9,Pierre  Gasly  GAS,AlphaTauri Honda,01:33.0,2020,10
+9,10,Charles  Leclerc  LEC,Ferrari,01:33.2,2020,10
+10,11,Daniil  Kvyat  KVY,AlphaTauri Honda,01:33.2,2020,10
+11,12,Lance  Stroll  STR,Racing Point BWT Mercedes,01:33.4,2020,10
+12,13,George  Russell  RUS,Williams Mercedes,01:33.6,2020,10
+13,14,Sebastian  Vettel  VET,Ferrari,01:33.6,2020,10
+14,15,Alexander  Albon  ALB,Red Bull Racing Honda,01:33.0,2020,10
+15,16,Romain  Grosjean  GRO,Haas Ferrari,01:34.6,2020,10
+16,17,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,01:34.6,2020,10
+17,18,Kevin  Magnussen  MAG,Haas Ferrari,01:34.7,2020,10
+18,19,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,01:35.3,2020,10
+19,20,Nicholas  Latifi  LAT,Williams Mercedes,01:35.1,2020,10
+0,1,Valtteri  Bottas  BOT,Mercedes,01:25.3,2020,11
+1,2,Lewis  Hamilton  HAM,Mercedes,01:25.5,2020,11
+2,3,Max  Verstappen  VER,Red Bull Racing Honda,01:25.6,2020,11
+3,4,Charles  Leclerc  LEC,Ferrari,01:26.0,2020,11
+4,5,Alexander  Albon  ALB,Red Bull Racing Honda,01:26.0,2020,11
+5,6,Daniel  Ricciardo  RIC,Renault,01:26.2,2020,11
+6,7,Esteban  Ocon  OCO,Renault,01:26.2,2020,11
+7,8,Lando  Norris  NOR,McLaren Renault,01:26.5,2020,11
+8,9,Sergio  Perez  PER,Racing Point BWT Mercedes,01:26.7,2020,11
+9,10,Carlos  Sainz  SAI,McLaren Renault,01:26.7,2020,11
+10,11,Sebastian  Vettel  VET,Ferrari,01:26.7,2020,11
+11,12,Pierre  Gasly  GAS,AlphaTauri Honda,01:26.8,2020,11
+12,13,Daniil  Kvyat  KVY,AlphaTauri Honda,01:26.8,2020,11
+13,14,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,01:26.9,2020,11
+14,15,Kevin  Magnussen  MAG,Haas Ferrari,01:27.1,2020,11
+15,16,Romain  Grosjean  GRO,Haas Ferrari,01:27.6,2020,11
+16,17,George  Russell  RUS,Williams Mercedes,01:27.6,2020,11
+17,18,Nicholas  Latifi  LAT,Williams Mercedes,01:27.8,2020,11
+18,19,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,01:27.8,2020,11
+19,20,Nico  Hulkenberg  HUL,Racing Point BWT Mercedes,01:28.0,2020,11
+0,1,Lewis  Hamilton  HAM,Mercedes,01:16.7,2020,12
+1,2,Valtteri  Bottas  BOT,Mercedes,01:16.8,2020,12
+2,3,Max  Verstappen  VER,Red Bull Racing Honda,01:16.9,2020,12
+3,4,Charles  Leclerc  LEC,Ferrari,01:17.1,2020,12
+4,5,Sergio  Perez  PER,Racing Point BWT Mercedes,01:17.2,2020,12
+5,6,Alexander  Albon  ALB,Red Bull Racing Honda,01:17.4,2020,12
+6,7,Carlos  Sainz  SAI,McLaren Renault,01:17.5,2020,12
+7,8,Lando  Norris  NOR,McLaren Renault,01:17.5,2020,12
+8,9,Pierre  Gasly  GAS,AlphaTauri Honda,01:17.8,2020,12
+9,10,Daniel  Ricciardo  RIC,Renault,,2020,12
+10,11,Esteban  Ocon  OCO,Renault,01:17.6,2020,12
+11,12,Lance  Stroll  STR,Racing Point BWT Mercedes,01:17.6,2020,12
+12,13,Daniil  Kvyat  KVY,AlphaTauri Honda,01:17.7,2020,12
+13,14,George  Russell  RUS,Williams Mercedes,01:17.8,2020,12
+14,15,Sebastian  Vettel  VET,Ferrari,01:17.9,2020,12
+15,16,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,01:18.2,2020,12
+16,17,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,01:18.3,2020,12
+17,18,Romain  Grosjean  GRO,Haas Ferrari,01:18.4,2020,12
+18,19,Kevin  Magnussen  MAG,Haas Ferrari,01:18.5,2020,12
+19,20,Nicholas  Latifi  LAT,Williams Mercedes,01:18.8,2020,12
+0,1,Valtteri  Bottas  BOT,Mercedes,01:13.6,2020,13
+1,2,Lewis  Hamilton  HAM,Mercedes,01:13.7,2020,13
+2,3,Max  Verstappen  VER,Red Bull Racing Honda,01:14.2,2020,13
+3,4,Pierre  Gasly  GAS,AlphaTauri Honda,01:14.5,2020,13
+4,5,Daniel  Ricciardo  RIC,Renault,01:14.5,2020,13
+5,6,Alexander  Albon  ALB,Red Bull Racing Honda,01:14.6,2020,13
+6,7,Charles  Leclerc  LEC,Ferrari,01:14.6,2020,13
+7,8,Daniil  Kvyat  KVY,AlphaTauri Honda,01:14.7,2020,13
+8,9,Lando  Norris  NOR,McLaren Renault,01:14.8,2020,13
+9,10,Carlos  Sainz  SAI,McLaren Renault,01:14.9,2020,13
+10,11,Sergio  Perez  PER,Racing Point BWT Mercedes,01:15.1,2020,13
+11,12,Esteban  Ocon  OCO,Renault,01:15.2,2020,13
+12,13,George  Russell  RUS,Williams Mercedes,01:15.3,2020,13
+13,14,Sebastian  Vettel  VET,Ferrari,01:15.4,2020,13
+14,15,Lance  Stroll  STR,Racing Point BWT Mercedes,01:15.5,2020,13
+15,16,Romain  Grosjean  GRO,Haas Ferrari,01:15.9,2020,13
+16,17,Kevin  Magnussen  MAG,Haas Ferrari,01:15.9,2020,13
+17,18,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,01:16.0,2020,13
+18,19,Nicholas  Latifi  LAT,Williams Mercedes,01:16.0,2020,13
+19,20,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,01:16.2,2020,13
+0,1,Lance  Stroll  STR,Racing Point BWT Mercedes,01:47.8,2020,14
+1,2,Max  Verstappen  VER,Red Bull Racing Honda,01:48.1,2020,14
+2,3,Sergio  Perez  PER,Racing Point BWT Mercedes,01:49.3,2020,14
+3,4,Alexander  Albon  ALB,Red Bull Racing Honda,01:50.4,2020,14
+4,5,Daniel  Ricciardo  RIC,Renault,01:51.6,2020,14
+5,6,Lewis  Hamilton  HAM,Mercedes,01:52.6,2020,14
+6,7,Esteban  Ocon  OCO,Renault,01:52.6,2020,14
+7,8,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,01:52.7,2020,14
+8,9,Valtteri  Bottas  BOT,Mercedes,01:53.3,2020,14
+9,10,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,01:57.2,2020,14
+10,11,Sebastian  Vettel  VET,Ferrari,01:55.2,2020,14
+11,12,Charles  Leclerc  LEC,Ferrari,01:56.7,2020,14
+12,13,Kevin  Magnussen  MAG,Haas Ferrari,02:08.0,2020,14
+13,14,Lando  Norris  NOR,McLaren Renault,01:54.9,2020,14
+14,15,Carlos  Sainz  SAI,McLaren Renault,01:55.4,2020,14
+15,16,Daniil  Kvyat  KVY,AlphaTauri Honda,02:09.1,2020,14
+16,17,Romain  Grosjean  GRO,Haas Ferrari,02:12.9,2020,14
+17,18,Nicholas  Latifi  LAT,Williams Mercedes,02:21.6,2020,14
+18,19,Pierre  Gasly  GAS,AlphaTauri Honda,01:58.6,2020,14
+19,20,George  Russell  RUS,Williams Mercedes,02:10.0,2020,14
+0,1,Lewis  Hamilton  HAM,Mercedes,01:27.3,2020,15
+1,2,Valtteri  Bottas  BOT,Mercedes,01:27.6,2020,15
+2,3,Max  Verstappen  VER,Red Bull Racing Honda,01:27.7,2020,15
+3,4,Alexander  Albon  ALB,Red Bull Racing Honda,01:28.3,2020,15
+4,5,Sergio  Perez  PER,Racing Point BWT Mercedes,01:28.3,2020,15
+5,6,Daniel  Ricciardo  RIC,Renault,01:28.4,2020,15
+6,7,Esteban  Ocon  OCO,Renault,01:28.4,2020,15
+7,8,Pierre  Gasly  GAS,AlphaTauri Honda,01:28.4,2020,15
+8,9,Lando  Norris  NOR,McLaren Renault,01:28.5,2020,15
+9,10,Daniil  Kvyat  KVY,AlphaTauri Honda,01:28.6,2020,15
+10,11,Sebastian  Vettel  VET,Ferrari,01:29.1,2020,15
+11,12,Charles  Leclerc  LEC,Ferrari,01:29.2,2020,15
+12,13,Lance  Stroll  STR,Racing Point BWT Mercedes,01:29.6,2020,15
+13,14,George  Russell  RUS,Williams Mercedes,01:31.2,2020,15
+14,15,Carlos  Sainz  SAI,McLaren Renault,,2020,15
+15,16,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,01:29.5,2020,15
+16,17,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,01:29.8,2020,15
+17,18,Kevin  Magnussen  MAG,Haas Ferrari,01:30.1,2020,15
+18,19,Romain  Grosjean  GRO,Haas Ferrari,01:30.1,2020,15
+19,20,Nicholas  Latifi  LAT,Williams Mercedes,01:30.2,2020,15
+0,1,Valtteri  Bottas  BOT,Mercedes,53.377,2020,16
+1,2,George  Russell  RUS,Mercedes,53.403,2020,16
+2,3,Max  Verstappen  VER,Red Bull Racing Honda,53.433,2020,16
+3,4,Charles  Leclerc  LEC,Ferrari,53.613,2020,16
+4,5,Sergio  Perez  PER,Racing Point BWT Mercedes,53.79,2020,16
+5,6,Daniil  Kvyat  KVY,AlphaTauri Honda,53.906,2020,16
+6,7,Daniel  Ricciardo  RIC,Renault,53.957,2020,16
+7,8,Carlos  Sainz  SAI,McLaren Renault,54.01,2020,16
+8,9,Pierre  Gasly  GAS,AlphaTauri Honda,54.154,2020,16
+9,10,Lance  Stroll  STR,Racing Point BWT Mercedes,54.2,2020,16
+10,11,Esteban  Ocon  OCO,Renault,53.995,2020,16
+11,12,Alexander  Albon  ALB,Red Bull Racing Honda,54.026,2020,16
+12,13,Sebastian  Vettel  VET,Ferrari,54.175,2020,16
+13,14,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,54.377,2020,16
+14,15,Lando  Norris  NOR,McLaren Renault,54.693,2020,16
+15,16,Kevin  Magnussen  MAG,Haas Ferrari,54.705,2020,16
+16,17,Nicholas  Latifi  LAT,Williams Mercedes,54.796,2020,16
+17,18,Jack  Aitken  AIT,Williams Mercedes,54.892,2020,16
+18,19,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,54.963,2020,16
+19,20,Pietro  Fittipaldi  FIT,Haas Ferrari,55.426,2020,16
+0,1,Max  Verstappen  VER,Red Bull Racing Honda,01:35.2,2020,17
+1,2,Valtteri  Bottas  BOT,Mercedes,01:35.3,2020,17
+2,3,Lewis  Hamilton  HAM,Mercedes,01:35.3,2020,17
+3,4,Lando  Norris  NOR,McLaren Renault,01:35.5,2020,17
+4,5,Alexander  Albon  ALB,Red Bull Racing Honda,01:35.6,2020,17
+5,6,Carlos  Sainz  SAI,McLaren Renault,01:35.8,2020,17
+6,7,Daniil  Kvyat  KVY,AlphaTauri Honda,01:36.0,2020,17
+7,8,Lance  Stroll  STR,Racing Point BWT Mercedes,01:36.0,2020,17
+8,9,Pierre  Gasly  GAS,AlphaTauri Honda,01:36.2,2020,17
+9,10,Esteban  Ocon  OCO,Renault,01:36.4,2020,17
+10,11,Daniel  Ricciardo  RIC,Renault,01:36.4,2020,17
+11,12,Charles  Leclerc  LEC,Ferrari,01:36.1,2020,17
+12,13,Sebastian  Vettel  VET,Ferrari,01:36.6,2020,17
+13,14,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,01:38.2,2020,17
+14,15,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,01:37.6,2020,17
+15,16,George  Russell  RUS,Williams Mercedes,01:38.0,2020,17
+16,17,Pietro  Fittipaldi  FIT,Haas Ferrari,01:38.2,2020,17
+17,18,Nicholas  Latifi  LAT,Williams Mercedes,01:38.4,2020,17
+18,19,Sergio  Perez  PER,Racing Point BWT Mercedes,,2020,17
+19,20,Kevin  Magnussen  MAG,Haas Ferrari,01:37.9,2020,17
+0,1,Max  Verstappen  VER,Red Bull Racing Honda,01:29.0,2021,1
+1,2,Lewis  Hamilton  HAM,Mercedes,01:29.4,2021,1
+2,3,Valtteri  Bottas  BOT,Mercedes,01:29.6,2021,1
+3,4,Charles  Leclerc  LEC,Ferrari,01:29.7,2021,1
+4,5,Pierre  Gasly  GAS,AlphaTauri Honda,01:29.8,2021,1
+5,6,Daniel  Ricciardo  RIC,McLaren Mercedes,01:29.9,2021,1
+6,7,Lando  Norris  NOR,McLaren Mercedes,01:30.0,2021,1
+7,8,Carlos  Sainz  SAI,Ferrari,01:30.2,2021,1
+8,9,Fernando  Alonso  ALO,Alpine Renault,01:30.2,2021,1
+9,10,Lance  Stroll  STR,Aston Martin Mercedes,01:30.6,2021,1
+10,11,Sergio  Perez  PER,Red Bull Racing Honda,01:30.7,2021,1
+11,12,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,01:30.7,2021,1
+12,13,Yuki  Tsunoda  TSU,AlphaTauri Honda,01:31.2,2021,1
+13,14,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,01:31.2,2021,1
+14,15,George  Russell  RUS,Williams Mercedes,01:33.4,2021,1
+15,16,Esteban  Ocon  OCO,Alpine Renault,01:31.7,2021,1
+16,17,Nicholas  Latifi  LAT,Williams Mercedes,01:31.9,2021,1
+17,18,Mick  Schumacher  MSC,Haas Ferrari,01:32.4,2021,1
+18,19,Nikita  Mazepin  MAZ,Haas Ferrari,01:33.3,2021,1
+19,20,Sebastian  Vettel  VET,Aston Martin Mercedes,01:32.1,2021,1
+0,1,Lewis  Hamilton  HAM,Mercedes,01:14.4,2021,2
+1,2,Sergio  Perez  PER,Red Bull Racing Honda,01:14.4,2021,2
+2,3,Max  Verstappen  VER,Red Bull Racing Honda,01:14.5,2021,2
+3,4,Charles  Leclerc  LEC,Ferrari,01:14.7,2021,2
+4,5,Pierre  Gasly  GAS,AlphaTauri Honda,01:14.8,2021,2
+5,6,Daniel  Ricciardo  RIC,McLaren Mercedes,01:14.8,2021,2
+6,7,Lando  Norris  NOR,McLaren Mercedes,01:14.9,2021,2
+7,8,Valtteri  Bottas  BOT,Mercedes,01:14.9,2021,2
+8,9,Esteban  Ocon  OCO,Alpine Renault,01:15.2,2021,2
+9,10,Lance  Stroll  STR,Aston Martin Mercedes,,2021,2
+10,11,Carlos  Sainz  SAI,Ferrari,01:15.2,2021,2
+11,12,George  Russell  RUS,Williams Mercedes,01:15.3,2021,2
+12,13,Sebastian  Vettel  VET,Aston Martin Mercedes,01:15.4,2021,2
+13,14,Nicholas  Latifi  LAT,Williams Mercedes,01:15.6,2021,2
+14,15,Fernando  Alonso  ALO,Alpine Renault,01:15.6,2021,2
+15,16,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,01:16.0,2021,2
+16,17,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,01:16.1,2021,2
+17,18,Mick  Schumacher  MSC,Haas Ferrari,01:16.3,2021,2
+18,19,Nikita  Mazepin  MAZ,Haas Ferrari,01:16.8,2021,2
+19,20,Yuki  Tsunoda  TSU,AlphaTauri Honda,,2021,2
+0,1,Valtteri  Bottas  BOT,Mercedes,01:18.3,2021,3
+1,2,Lewis  Hamilton  HAM,Mercedes,01:18.4,2021,3
+2,3,Max  Verstappen  VER,Red Bull Racing Honda,01:18.7,2021,3
+3,4,Sergio  Perez  PER,Red Bull Racing Honda,01:18.9,2021,3
+4,5,Carlos  Sainz  SAI,Ferrari,01:19.0,2021,3
+5,6,Esteban  Ocon  OCO,Alpine Renault,01:19.0,2021,3
+6,7,Lando  Norris  NOR,McLaren Mercedes,01:19.1,2021,3
+7,8,Charles  Leclerc  LEC,Ferrari,01:19.3,2021,3
+8,9,Pierre  Gasly  GAS,AlphaTauri Honda,01:19.5,2021,3
+9,10,Sebastian  Vettel  VET,Aston Martin Mercedes,01:19.7,2021,3
+10,11,George  Russell  RUS,Williams Mercedes,01:19.1,2021,3
+11,12,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,01:19.2,2021,3
+12,13,Fernando  Alonso  ALO,Alpine Renault,01:19.5,2021,3
+13,14,Yuki  Tsunoda  TSU,AlphaTauri Honda,01:19.5,2021,3
+14,15,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,01:19.8,2021,3
+15,16,Daniel  Ricciardo  RIC,McLaren Mercedes,01:19.8,2021,3
+16,17,Lance  Stroll  STR,Aston Martin Mercedes,01:19.9,2021,3
+17,18,Nicholas  Latifi  LAT,Williams Mercedes,01:20.3,2021,3
+18,19,Mick  Schumacher  MSC,Haas Ferrari,01:20.5,2021,3
+19,20,Nikita  Mazepin  MAZ,Haas Ferrari,01:20.9,2021,3
+0,1,Lewis  Hamilton  HAM,Mercedes,01:16.7,2021,4
+1,2,Max  Verstappen  VER,Red Bull Racing Honda,01:16.8,2021,4
+2,3,Valtteri  Bottas  BOT,Mercedes,01:16.9,2021,4
+3,4,Charles  Leclerc  LEC,Ferrari,01:17.5,2021,4
+4,5,Esteban  Ocon  OCO,Alpine Renault,01:17.6,2021,4
+5,6,Carlos  Sainz  SAI,Ferrari,01:17.6,2021,4
+6,7,Daniel  Ricciardo  RIC,McLaren Mercedes,01:17.6,2021,4
+7,8,Sergio  Perez  PER,Red Bull Racing Honda,01:17.7,2021,4
+8,9,Lando  Norris  NOR,McLaren Mercedes,01:18.0,2021,4
+9,10,Fernando  Alonso  ALO,Alpine Renault,01:18.1,2021,4
+10,11,Lance  Stroll  STR,Aston Martin Mercedes,01:18.0,2021,4
+11,12,Pierre  Gasly  GAS,AlphaTauri Honda,01:18.0,2021,4
+12,13,Sebastian  Vettel  VET,Aston Martin Mercedes,01:18.1,2021,4
+13,14,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,01:18.4,2021,4
+14,15,George  Russell  RUS,Williams Mercedes,01:19.2,2021,4
+15,16,Yuki  Tsunoda  TSU,AlphaTauri Honda,01:18.6,2021,4
+16,17,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,01:18.9,2021,4
+17,18,Mick  Schumacher  MSC,Haas Ferrari,01:19.1,2021,4
+18,19,Nicholas  Latifi  LAT,Williams Mercedes,01:19.2,2021,4
+19,20,Nikita  Mazepin  MAZ,Haas Ferrari,01:19.8,2021,4
+0,1,Charles  Leclerc  LEC,Ferrari,01:10.3,2021,5
+1,2,Max  Verstappen  VER,Red Bull Racing Honda,01:10.6,2021,5
+2,3,Valtteri  Bottas  BOT,Mercedes,01:10.6,2021,5
+3,4,Carlos  Sainz  SAI,Ferrari,01:10.6,2021,5
+4,5,Lando  Norris  NOR,McLaren Mercedes,01:10.6,2021,5
+5,6,Pierre  Gasly  GAS,AlphaTauri Honda,01:10.9,2021,5
+6,7,Lewis  Hamilton  HAM,Mercedes,01:11.1,2021,5
+7,8,Sebastian  Vettel  VET,Aston Martin Mercedes,01:11.4,2021,5
+8,9,Sergio  Perez  PER,Red Bull Racing Honda,01:11.6,2021,5
+9,10,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,01:11.8,2021,5
+10,11,Esteban  Ocon  OCO,Alpine Renault,01:11.5,2021,5
+11,12,Daniel  Ricciardo  RIC,McLaren Mercedes,01:11.6,2021,5
+12,13,Lance  Stroll  STR,Aston Martin Mercedes,01:11.6,2021,5
+13,14,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,01:11.6,2021,5
+14,15,George  Russell  RUS,Williams Mercedes,01:11.8,2021,5
+15,16,Yuki  Tsunoda  TSU,AlphaTauri Honda,01:12.1,2021,5
+16,17,Fernando  Alonso  ALO,Alpine Renault,01:12.2,2021,5
+17,18,Nicholas  Latifi  LAT,Williams Mercedes,01:12.4,2021,5
+18,19,Nikita  Mazepin  MAZ,Haas Ferrari,01:13.0,2021,5
+19,20,Mick  Schumacher  MSC,Haas Ferrari,,2021,5
+0,1,Charles  Leclerc  LEC,Ferrari,01:41.2,2021,6
+1,2,Lewis  Hamilton  HAM,Mercedes,01:41.5,2021,6
+2,3,Max  Verstappen  VER,Red Bull Racing Honda,01:41.6,2021,6
+3,4,Pierre  Gasly  GAS,AlphaTauri Honda,01:41.6,2021,6
+4,5,Carlos  Sainz  SAI,Ferrari,01:41.6,2021,6
+5,6,Sergio  Perez  PER,Red Bull Racing Honda,01:41.9,2021,6
+6,7,Yuki  Tsunoda  TSU,AlphaTauri Honda,01:42.2,2021,6
+7,8,Fernando  Alonso  ALO,Alpine Renault,01:42.3,2021,6
+8,9,Lando  Norris  NOR,McLaren Mercedes,01:41.7,2021,6
+9,10,Valtteri  Bottas  BOT,Mercedes,01:42.7,2021,6
+10,11,Sebastian  Vettel  VET,Aston Martin Mercedes,01:42.2,2021,6
+11,12,Esteban  Ocon  OCO,Alpine Renault,01:42.3,2021,6
+12,13,Daniel  Ricciardo  RIC,McLaren Mercedes,01:42.6,2021,6
+13,14,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,01:42.6,2021,6
+14,15,George  Russell  RUS,Williams Mercedes,01:42.8,2021,6
+15,16,Nicholas  Latifi  LAT,Williams Mercedes,01:43.1,2021,6
+16,17,Mick  Schumacher  MSC,Haas Ferrari,01:44.2,2021,6
+17,18,Nikita  Mazepin  MAZ,Haas Ferrari,01:44.2,2021,6
+18,19,Lance  Stroll  STR,Aston Martin Mercedes,,2021,6
+19,20,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,,2021,6
+0,1,Max  Verstappen  VER,Red Bull Racing Honda,01:30.0,2021,7
+1,2,Lewis  Hamilton  HAM,Mercedes,01:30.2,2021,7
+2,3,Valtteri  Bottas  BOT,Mercedes,01:30.4,2021,7
+3,4,Sergio  Perez  PER,Red Bull Racing Honda,01:30.4,2021,7
+4,5,Carlos  Sainz  SAI,Ferrari,01:30.8,2021,7
+5,6,Pierre  Gasly  GAS,AlphaTauri Honda,01:30.9,2021,7
+6,7,Charles  Leclerc  LEC,Ferrari,01:31.0,2021,7
+7,8,Lando  Norris  NOR,McLaren Mercedes,01:31.3,2021,7
+8,9,Fernando  Alonso  ALO,Alpine Renault,01:31.3,2021,7
+9,10,Daniel  Ricciardo  RIC,McLaren Mercedes,01:31.4,2021,7
+10,11,Esteban  Ocon  OCO,Alpine Renault,01:31.7,2021,7
+11,12,Sebastian  Vettel  VET,Aston Martin Mercedes,01:31.8,2021,7
+12,13,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,01:31.8,2021,7
+13,14,George  Russell  RUS,Williams Mercedes,01:32.1,2021,7
+14,15,Mick  Schumacher  MSC,Haas Ferrari,,2021,7
+15,16,Nicholas  Latifi  LAT,Williams Mercedes,01:33.1,2021,7
+16,17,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,01:33.4,2021,7
+17,18,Nikita  Mazepin  MAZ,Haas Ferrari,01:33.6,2021,7
+18,19,Lance  Stroll  STR,Aston Martin Mercedes,02:12.6,2021,7
+0,1,Max  Verstappen  VER,Red Bull Racing Honda,01:03.8,2021,8
+1,2,Lewis  Hamilton  HAM,Mercedes,01:04.1,2021,8
+2,3,Lando  Norris  NOR,McLaren Mercedes,01:04.1,2021,8
+3,4,Sergio  Perez  PER,Red Bull Racing Honda,01:04.2,2021,8
+4,5,Valtteri  Bottas  BOT,Mercedes,01:04.0,2021,8
+5,6,Pierre  Gasly  GAS,AlphaTauri Honda,01:04.2,2021,8
+6,7,Charles  Leclerc  LEC,Ferrari,01:04.5,2021,8
+7,8,Fernando  Alonso  ALO,Alpine Renault,01:04.6,2021,8
+8,9,Lance  Stroll  STR,Aston Martin Mercedes,01:04.7,2021,8
+9,10,George  Russell  RUS,Williams Mercedes,01:04.7,2021,8
+10,11,Yuki  Tsunoda  TSU,AlphaTauri Honda,01:04.5,2021,8
+11,12,Carlos  Sainz  SAI,Ferrari,01:04.8,2021,8
+12,13,Daniel  Ricciardo  RIC,McLaren Mercedes,01:04.8,2021,8
+13,14,Sebastian  Vettel  VET,Aston Martin Mercedes,01:04.9,2021,8
+14,15,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,01:04.9,2021,8
+15,16,Nicholas  Latifi  LAT,Williams Mercedes,01:05.2,2021,8
+16,17,Esteban  Ocon  OCO,Alpine Renault,01:05.2,2021,8
+17,18,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,01:05.4,2021,8
+18,19,Mick  Schumacher  MSC,Haas Ferrari,01:06.0,2021,8
+19,20,Nikita  Mazepin  MAZ,Haas Ferrari,01:06.2,2021,8
+0,1,Max  Verstappen  VER,Red Bull Racing Honda,01:03.7,2021,9
+1,2,Lando  Norris  NOR,McLaren Mercedes,01:03.8,2021,9
+2,3,Sergio  Perez  PER,Red Bull Racing Honda,01:04.0,2021,9
+3,4,Lewis  Hamilton  HAM,Mercedes,01:04.0,2021,9
+4,5,Valtteri  Bottas  BOT,Mercedes,01:04.0,2021,9
+5,6,Pierre  Gasly  GAS,AlphaTauri Honda,01:04.1,2021,9
+6,7,Yuki  Tsunoda  TSU,AlphaTauri Honda,01:04.3,2021,9
+7,8,George  Russell  RUS,Williams Mercedes,01:04.6,2021,9
+8,9,Lance  Stroll  STR,Aston Martin Mercedes,01:04.6,2021,9
+9,10,Carlos  Sainz  SAI,Ferrari,01:04.6,2021,9
+10,11,Sebastian  Vettel  VET,Aston Martin Mercedes,01:04.6,2021,9
+11,12,Charles  Leclerc  LEC,Ferrari,01:04.6,2021,9
+12,13,Daniel  Ricciardo  RIC,McLaren Mercedes,01:04.7,2021,9
+13,14,Fernando  Alonso  ALO,Alpine Renault,01:04.9,2021,9
+14,15,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,01:05.1,2021,9
+15,16,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,01:05.0,2021,9
+16,17,Esteban  Ocon  OCO,Alpine Renault,01:05.1,2021,9
+17,18,Nicholas  Latifi  LAT,Williams Mercedes,01:05.2,2021,9
+18,19,Mick  Schumacher  MSC,Haas Ferrari,01:05.4,2021,9
+19,20,Nikita  Mazepin  MAZ,Haas Ferrari,01:06.0,2021,9
+0,1,Max  Verstappen  VER,Red Bull Racing Honda,,2021,10
+1,2,Lewis  Hamilton  HAM,Mercedes,,2021,10
+2,3,Valtteri  Bottas  BOT,Mercedes,,2021,10
+3,4,Charles  Leclerc  LEC,Ferrari,,2021,10
+4,5,Lando  Norris  NOR,McLaren Mercedes,,2021,10
+5,6,Daniel  Ricciardo  RIC,McLaren Mercedes,,2021,10
+6,7,Fernando  Alonso  ALO,Alpine Renault,,2021,10
+7,8,Sebastian  Vettel  VET,Aston Martin Mercedes,,2021,10
+8,9,Esteban  Ocon  OCO,Alpine Renault,,2021,10
+9,10,Carlos  Sainz  SAI,Ferrari,,2021,10
+10,11,Pierre  Gasly  GAS,AlphaTauri Honda,,2021,10
+11,12,George  Russell  RUS,Williams Mercedes,,2021,10
+12,13,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,,2021,10
+13,14,Lance  Stroll  STR,Aston Martin Mercedes,,2021,10
+14,15,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,,2021,10
+15,16,Yuki  Tsunoda  TSU,AlphaTauri Honda,,2021,10
+16,17,Nicholas  Latifi  LAT,Williams Mercedes,,2021,10
+17,18,Mick  Schumacher  MSC,Haas Ferrari,,2021,10
+18,19,Nikita  Mazepin  MAZ,Haas Ferrari,,2021,10
+19,20,Sergio  Perez  PER,Red Bull Racing Honda,,2021,10
+0,1,Lewis  Hamilton  HAM,Mercedes,01:15.4,2021,11
+1,2,Valtteri  Bottas  BOT,Mercedes,01:15.7,2021,11
+2,3,Max  Verstappen  VER,Red Bull Racing Honda,01:15.8,2021,11
+3,4,Sergio  Perez  PER,Red Bull Racing Honda,01:16.4,2021,11
+4,5,Pierre  Gasly  GAS,AlphaTauri Honda,01:16.5,2021,11
+5,6,Lando  Norris  NOR,McLaren Mercedes,01:16.5,2021,11
+6,7,Charles  Leclerc  LEC,Ferrari,01:16.5,2021,11
+7,8,Esteban  Ocon  OCO,Alpine Renault,01:16.7,2021,11
+8,9,Fernando  Alonso  ALO,Alpine Renault,01:16.7,2021,11
+9,10,Sebastian  Vettel  VET,Aston Martin Mercedes,01:16.8,2021,11
+10,11,Daniel  Ricciardo  RIC,McLaren Mercedes,01:16.9,2021,11
+11,12,Lance  Stroll  STR,Aston Martin Mercedes,01:16.9,2021,11
+12,13,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,01:17.6,2021,11
+13,14,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,01:17.6,2021,11
+14,15,Carlos  Sainz  SAI,Ferrari,,2021,11
+15,16,Yuki  Tsunoda  TSU,AlphaTauri Honda,01:17.9,2021,11
+16,17,George  Russell  RUS,Williams Mercedes,01:17.9,2021,11
+17,18,Nicholas  Latifi  LAT,Williams Mercedes,01:18.0,2021,11
+18,19,Nikita  Mazepin  MAZ,Haas Ferrari,01:18.9,2021,11
+19,20,Mick  Schumacher  MSC,Haas Ferrari,,2021,11
+0,1,Max  Verstappen  VER,Red Bull Racing Honda,01:59.8,2021,12
+1,2,George  Russell  RUS,Williams Mercedes,02:00.1,2021,12
+2,3,Lewis  Hamilton  HAM,Mercedes,02:00.1,2021,12
+3,4,Daniel  Ricciardo  RIC,McLaren Mercedes,02:00.9,2021,12
+4,5,Sebastian  Vettel  VET,Aston Martin Mercedes,02:00.9,2021,12
+5,6,Pierre  Gasly  GAS,AlphaTauri Honda,02:01.2,2021,12
+6,7,Sergio  Perez  PER,Red Bull Racing Honda,02:02.1,2021,12
+7,8,Esteban  Ocon  OCO,Alpine Renault,02:03.5,2021,12
+8,9,Charles  Leclerc  LEC,Ferrari,01:57.7,2021,12
+9,10,Nicholas  Latifi  LAT,Williams Mercedes,01:58.1,2021,12
+10,11,Carlos  Sainz  SAI,Ferrari,01:58.1,2021,12
+11,12,Fernando  Alonso  ALO,Alpine Renault,01:58.2,2021,12
+12,13,Valtteri  Bottas  BOT,Mercedes,02:02.5,2021,12
+13,14,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,02:02.3,2021,12
+14,15,Lando  Norris  NOR,McLaren Mercedes,,2021,12
+15,16,Yuki  Tsunoda  TSU,AlphaTauri Honda,02:02.4,2021,12
+16,17,Mick  Schumacher  MSC,Haas Ferrari,02:04.0,2021,12
+17,18,Nikita  Mazepin  MAZ,Haas Ferrari,02:04.9,2021,12
+18,19,Lance  Stroll  STR,Aston Martin Mercedes,01:58.2,2021,12
+19,20,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,02:04.5,2021,12
+0,1,Max  Verstappen  VER,Red Bull Racing Honda,01:08.9,2021,13
+1,2,Lewis  Hamilton  HAM,Mercedes,01:08.9,2021,13
+2,3,Valtteri  Bottas  BOT,Mercedes,01:09.2,2021,13
+3,4,Pierre  Gasly  GAS,AlphaTauri Honda,01:09.5,2021,13
+4,5,Charles  Leclerc  LEC,Ferrari,01:09.5,2021,13
+5,6,Carlos  Sainz  SAI,Ferrari,01:09.5,2021,13
+6,7,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,01:09.6,2021,13
+7,8,Esteban  Ocon  OCO,Alpine Renault,01:09.9,2021,13
+8,9,Fernando  Alonso  ALO,Alpine Renault,01:10.0,2021,13
+9,10,Daniel  Ricciardo  RIC,McLaren Mercedes,01:10.2,2021,13
+10,11,George  Russell  RUS,Williams Mercedes,01:10.3,2021,13
+11,12,Lance  Stroll  STR,Aston Martin Mercedes,01:10.4,2021,13
+12,13,Lando  Norris  NOR,McLaren Mercedes,01:10.4,2021,13
+13,14,Yuki  Tsunoda  TSU,AlphaTauri Honda,01:11.3,2021,13
+14,15,Sebastian  Vettel  VET,Aston Martin Mercedes,01:10.7,2021,13
+15,16,Robert  Kubica  KUB,Alfa Romeo Racing Ferrari,01:11.3,2021,13
+16,17,Mick  Schumacher  MSC,Haas Ferrari,01:11.4,2021,13
+17,18,Nikita  Mazepin  MAZ,Haas Ferrari,01:11.9,2021,13
+0,1,Max  Verstappen  VER,Red Bull Racing Honda,,2021,14
+1,2,Daniel  Ricciardo  RIC,McLaren Mercedes,,2021,14
+2,3,Lando  Norris  NOR,McLaren Mercedes,,2021,14
+3,4,Lewis  Hamilton  HAM,Mercedes,,2021,14
+4,5,Charles  Leclerc  LEC,Ferrari,,2021,14
+5,6,Carlos  Sainz  SAI,Ferrari,,2021,14
+6,7,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,,2021,14
+7,8,Sergio  Perez  PER,Red Bull Racing Honda,,2021,14
+8,9,Lance  Stroll  STR,Aston Martin Mercedes,,2021,14
+9,10,Fernando  Alonso  ALO,Alpine Renault,,2021,14
+10,11,Sebastian  Vettel  VET,Aston Martin Mercedes,,2021,14
+11,12,Esteban  Ocon  OCO,Alpine Renault,,2021,14
+12,13,Nicholas  Latifi  LAT,Williams Mercedes,,2021,14
+13,14,George  Russell  RUS,Williams Mercedes,,2021,14
+14,15,Yuki  Tsunoda  TSU,AlphaTauri Honda,,2021,14
+15,16,Nikita  Mazepin  MAZ,Haas Ferrari,,2021,14
+16,17,Robert  Kubica  KUB,Alfa Romeo Racing Ferrari,,2021,14
+17,18,Mick  Schumacher  MSC,Haas Ferrari,,2021,14
+18,19,Valtteri  Bottas  BOT,Mercedes,,2021,14
+0,1,Lando  Norris  NOR,McLaren Mercedes,01:42.0,2021,15
+1,2,Carlos  Sainz  SAI,Ferrari,01:42.5,2021,15
+2,3,George  Russell  RUS,Williams Mercedes,01:43.0,2021,15
+3,4,Lewis  Hamilton  HAM,Mercedes,01:44.1,2021,15
+4,5,Daniel  Ricciardo  RIC,McLaren Mercedes,01:44.2,2021,15
+5,6,Fernando  Alonso  ALO,Alpine Renault,01:44.2,2021,15
+6,7,Lance  Stroll  STR,Aston Martin Mercedes,01:45.0,2021,15
+7,8,Sergio  Perez  PER,Red Bull Racing Honda,01:45.3,2021,15
+8,9,Esteban  Ocon  OCO,Alpine Renault,01:45.9,2021,15
+9,10,Sebastian  Vettel  VET,Aston Martin Mercedes,01:46.6,2021,15
+10,11,Pierre  Gasly  GAS,AlphaTauri Honda,01:46.6,2021,15
+11,12,Yuki  Tsunoda  TSU,AlphaTauri Honda,01:46.8,2021,15
+12,13,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,01:49.6,2021,15
+13,14,Mick  Schumacher  MSC,Haas Ferrari,01:49.8,2021,15
+14,15,Nikita  Mazepin  MAZ,Haas Ferrari,01:53.8,2021,15
+15,16,Valtteri  Bottas  BOT,Mercedes,01:44.7,2021,15
+16,17,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,01:51.0,2021,15
+17,18,Nicholas  Latifi  LAT,Williams Mercedes,,2021,15
+18,19,Charles  Leclerc  LEC,Ferrari,,2021,15
+19,20,Max  Verstappen  VER,Red Bull Racing Honda,,2021,15
+0,1,Valtteri  Bottas  BOT,Mercedes,01:23.0,2021,16
+1,2,Max  Verstappen  VER,Red Bull Racing Honda,01:23.2,2021,16
+2,3,Charles  Leclerc  LEC,Ferrari,01:23.3,2021,16
+3,4,Pierre  Gasly  GAS,AlphaTauri Honda,01:23.3,2021,16
+4,5,Fernando  Alonso  ALO,Alpine Renault,01:23.5,2021,16
+5,6,Sergio  Perez  PER,Red Bull Racing Honda,01:23.7,2021,16
+6,7,Lando  Norris  NOR,McLaren Mercedes,01:24.0,2021,16
+7,8,Lance  Stroll  STR,Aston Martin Mercedes,01:24.3,2021,16
+8,9,Yuki  Tsunoda  TSU,AlphaTauri Honda,01:24.4,2021,16
+9,10,Sebastian  Vettel  VET,Aston Martin Mercedes,01:24.8,2021,16
+10,11,Lewis  Hamilton  HAM,Mercedes,01:22.9,2021,16
+11,12,Esteban  Ocon  OCO,Alpine Renault,01:24.8,2021,16
+12,13,George  Russell  RUS,Williams Mercedes,01:25.0,2021,16
+13,14,Mick  Schumacher  MSC,Haas Ferrari,01:25.2,2021,16
+14,15,Nicholas  Latifi  LAT,Williams Mercedes,01:26.1,2021,16
+15,16,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,01:26.4,2021,16
+16,17,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,01:27.5,2021,16
+17,18,Nikita  Mazepin  MAZ,Haas Ferrari,01:28.4,2021,16
+18,19,Carlos  Sainz  SAI,Ferrari,,2021,16
+19,20,Daniel  Ricciardo  RIC,McLaren Mercedes,01:25.9,2021,16
+0,1,Max  Verstappen  VER,Red Bull Racing Honda,01:32.9,2021,17
+1,2,Lewis  Hamilton  HAM,Mercedes,01:33.1,2021,17
+2,3,Sergio  Perez  PER,Red Bull Racing Honda,01:33.1,2021,17
+3,4,Charles  Leclerc  LEC,Ferrari,01:33.6,2021,17
+4,5,Carlos  Sainz  SAI,Ferrari,01:33.8,2021,17
+5,6,Daniel  Ricciardo  RIC,McLaren Mercedes,01:33.8,2021,17
+6,7,Lando  Norris  NOR,McLaren Mercedes,01:33.9,2021,17
+7,8,Pierre  Gasly  GAS,AlphaTauri Honda,01:34.1,2021,17
+8,9,Valtteri  Bottas  BOT,Mercedes,01:33.5,2021,17
+9,10,Yuki  Tsunoda  TSU,AlphaTauri Honda,01:34.9,2021,17
+10,11,Esteban  Ocon  OCO,Alpine Renault,01:35.4,2021,17
+11,12,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,01:35.8,2021,17
+12,13,Lance  Stroll  STR,Aston Martin Mercedes,01:36.0,2021,17
+13,14,Nicholas  Latifi  LAT,Williams Mercedes,01:36.0,2021,17
+14,15,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,01:36.3,2021,17
+15,16,Mick  Schumacher  MSC,Haas Ferrari,01:36.5,2021,17
+16,17,Nikita  Mazepin  MAZ,Haas Ferrari,01:36.8,2021,17
+17,18,Sebastian  Vettel  VET,Aston Martin Mercedes,01:35.5,2021,17
+18,19,Fernando  Alonso  ALO,Alpine Renault,01:44.5,2021,17
+19,20,George  Russell  RUS,Williams Mercedes,,2021,17
+0,1,Valtteri  Bottas  BOT,Mercedes,01:15.9,2021,18
+1,2,Lewis  Hamilton  HAM,Mercedes,01:16.0,2021,18
+2,3,Max  Verstappen  VER,Red Bull Racing Honda,01:16.2,2021,18
+3,4,Sergio  Perez  PER,Red Bull Racing Honda,01:16.3,2021,18
+4,5,Pierre  Gasly  GAS,AlphaTauri Honda,01:16.5,2021,18
+5,6,Carlos  Sainz  SAI,Ferrari,01:16.8,2021,18
+6,7,Daniel  Ricciardo  RIC,McLaren Mercedes,01:16.8,2021,18
+7,8,Charles  Leclerc  LEC,Ferrari,01:16.8,2021,18
+8,9,Sebastian  Vettel  VET,Aston Martin Mercedes,01:17.7,2021,18
+9,10,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,01:18.0,2021,18
+10,11,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,01:18.3,2021,18
+11,12,Fernando  Alonso  ALO,Alpine Renault,01:18.5,2021,18
+12,13,Nicholas  Latifi  LAT,Williams Mercedes,01:18.8,2021,18
+13,14,Mick  Schumacher  MSC,Haas Ferrari,01:18.9,2021,18
+14,15,Nikita  Mazepin  MAZ,Haas Ferrari,01:19.3,2021,18
+15,16,George  Russell  RUS,Williams Mercedes,01:18.2,2021,18
+16,17,Yuki  Tsunoda  TSU,AlphaTauri Honda,01:17.2,2021,18
+17,18,Lando  Norris  NOR,McLaren Mercedes,01:36.8,2021,18
+18,19,Esteban  Ocon  OCO,Alpine Renault,01:18.4,2021,18
+19,20,Lance  Stroll  STR,Aston Martin Mercedes,01:20.9,2021,18
+0,1,Valtteri  Bottas  BOT,Mercedes,,2021,19
+1,2,Max  Verstappen  VER,Red Bull Racing Honda,,2021,19
+2,3,Carlos  Sainz  SAI,Ferrari,,2021,19
+3,4,Sergio  Perez  PER,Red Bull Racing Honda,,2021,19
+4,5,Lando  Norris  NOR,McLaren Mercedes,,2021,19
+5,6,Charles  Leclerc  LEC,Ferrari,,2021,19
+6,7,Pierre  Gasly  GAS,AlphaTauri Honda,,2021,19
+7,8,Esteban  Ocon  OCO,Alpine Renault,,2021,19
+8,9,Sebastian  Vettel  VET,Aston Martin Mercedes,,2021,19
+9,10,Lewis  Hamilton  HAM,Mercedes,,2021,19
+10,11,Daniel  Ricciardo  RIC,McLaren Mercedes,,2021,19
+11,12,Fernando  Alonso  ALO,Alpine Renault,,2021,19
+12,13,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,,2021,19
+13,14,Lance  Stroll  STR,Aston Martin Mercedes,,2021,19
+14,15,Yuki  Tsunoda  TSU,AlphaTauri Honda,,2021,19
+15,16,Nicholas  Latifi  LAT,Williams Mercedes,,2021,19
+16,17,George  Russell  RUS,Williams Mercedes,,2021,19
+17,18,Mick  Schumacher  MSC,Haas Ferrari,,2021,19
+18,19,Nikita  Mazepin  MAZ,Haas Ferrari,,2021,19
+19,20,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,,2021,19
+0,1,Lewis  Hamilton  HAM,Mercedes,01:20.8,2021,20
+1,2,Pierre  Gasly  GAS,AlphaTauri Honda,01:21.6,2021,20
+2,3,Fernando  Alonso  ALO,Alpine Renault,01:21.7,2021,20
+3,4,Lando  Norris  NOR,McLaren Mercedes,01:21.7,2021,20
+4,5,Carlos  Sainz  SAI,Ferrari,01:21.8,2021,20
+5,6,Valtteri  Bottas  BOT,Mercedes,01:21.5,2021,20
+6,7,Max  Verstappen  VER,Red Bull Racing Honda,01:21.4,2021,20
+7,8,Yuki  Tsunoda  TSU,AlphaTauri Honda,01:21.9,2021,20
+8,9,Esteban  Ocon  OCO,Alpine Renault,01:22.0,2021,20
+9,10,Sebastian  Vettel  VET,Aston Martin Mercedes,01:22.8,2021,20
+10,11,Sergio  Perez  PER,Red Bull Racing Honda,01:22.3,2021,20
+11,12,Lance  Stroll  STR,Aston Martin Mercedes,01:22.5,2021,20
+12,13,Charles  Leclerc  LEC,Ferrari,01:22.5,2021,20
+13,14,Daniel  Ricciardo  RIC,McLaren Mercedes,01:22.6,2021,20
+14,15,George  Russell  RUS,Williams Mercedes,01:22.8,2021,20
+15,16,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,01:23.2,2021,20
+16,17,Nicholas  Latifi  LAT,Williams Mercedes,01:23.2,2021,20
+17,18,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,01:23.3,2021,20
+18,19,Mick  Schumacher  MSC,Haas Ferrari,01:23.4,2021,20
+19,20,Nikita  Mazepin  MAZ,Haas Ferrari,01:25.9,2021,20
+0,1,Lewis  Hamilton  HAM,Mercedes,01:27.5,2021,21
+1,2,Valtteri  Bottas  BOT,Mercedes,01:27.6,2021,21
+2,3,Max  Verstappen  VER,Red Bull Racing Honda,01:27.7,2021,21
+3,4,Charles  Leclerc  LEC,Ferrari,01:28.1,2021,21
+4,5,Sergio  Perez  PER,Red Bull Racing Honda,01:28.1,2021,21
+5,6,Pierre  Gasly  GAS,AlphaTauri Honda,01:28.1,2021,21
+6,7,Lando  Norris  NOR,McLaren Mercedes,01:28.2,2021,21
+7,8,Yuki  Tsunoda  TSU,AlphaTauri Honda,01:28.4,2021,21
+8,9,Esteban  Ocon  OCO,Alpine Renault,01:28.6,2021,21
+9,10,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,01:28.8,2021,21
+10,11,Daniel  Ricciardo  RIC,McLaren Mercedes,01:28.7,2021,21
+11,12,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,01:28.9,2021,21
+12,13,Fernando  Alonso  ALO,Alpine Renault,01:28.9,2021,21
+13,14,George  Russell  RUS,Williams Mercedes,01:29.1,2021,21
+14,15,Carlos  Sainz  SAI,Ferrari,01:53.7,2021,21
+15,16,Nicholas  Latifi  LAT,Williams Mercedes,01:29.2,2021,21
+16,17,Sebastian  Vettel  VET,Aston Martin Mercedes,01:29.2,2021,21
+17,18,Lance  Stroll  STR,Aston Martin Mercedes,01:29.4,2021,21
+18,19,Mick  Schumacher  MSC,Haas Ferrari,01:29.5,2021,21
+19,20,Nikita  Mazepin  MAZ,Haas Ferrari,01:30.5,2021,21
+0,1,Max  Verstappen  VER,Red Bull Racing Honda,01:22.1,2021,22
+1,2,Lewis  Hamilton  HAM,Mercedes,01:22.5,2021,22
+2,3,Lando  Norris  NOR,McLaren Mercedes,01:22.9,2021,22
+3,4,Sergio  Perez  PER,Red Bull Racing Honda,01:22.9,2021,22
+4,5,Carlos  Sainz  SAI,Ferrari,01:23.0,2021,22
+5,6,Valtteri  Bottas  BOT,Mercedes,01:23.0,2021,22
+6,7,Charles  Leclerc  LEC,Ferrari,01:23.1,2021,22
+7,8,Yuki  Tsunoda  TSU,AlphaTauri Honda,01:23.2,2021,22
+8,9,Esteban  Ocon  OCO,Alpine Renault,01:23.4,2021,22
+9,10,Daniel  Ricciardo  RIC,McLaren Mercedes,01:23.4,2021,22
+10,11,Fernando  Alonso  ALO,Alpine Renault,01:23.5,2021,22
+11,12,Pierre  Gasly  GAS,AlphaTauri Honda,01:24.0,2021,22
+12,13,Lance  Stroll  STR,Aston Martin Mercedes,01:24.1,2021,22
+13,14,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,01:24.3,2021,22
+14,15,Sebastian  Vettel  VET,Aston Martin Mercedes,01:24.3,2021,22
+15,16,Nicholas  Latifi  LAT,Williams Mercedes,01:24.3,2021,22
+16,17,George  Russell  RUS,Williams Mercedes,01:24.4,2021,22
+17,18,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,01:24.8,2021,22
+18,19,Mick  Schumacher  MSC,Haas Ferrari,01:24.9,2021,22
+0,1,Charles  Leclerc  LEC,Ferrari,01:30.6,2022,1
+1,2,Max  Verstappen  VER,Red Bull Racing RBPT,01:30.7,2022,1
+2,3,Carlos  Sainz  SAI,Ferrari,01:30.7,2022,1
+3,4,Sergio  Perez  PER,Red Bull Racing RBPT,01:30.9,2022,1
+4,5,Lewis  Hamilton  HAM,Mercedes,01:31.2,2022,1
+5,6,Valtteri  Bottas  BOT,Alfa Romeo Ferrari,01:31.6,2022,1
+6,7,Kevin  Magnussen  MAG,Haas Ferrari,01:31.8,2022,1
+7,8,Fernando  Alonso  ALO,Alpine Renault,01:32.2,2022,1
+8,9,George  Russell  RUS,Mercedes,01:32.2,2022,1
+9,10,Pierre  Gasly  GAS,AlphaTauri RBPT,01:32.3,2022,1
+10,11,Esteban  Ocon  OCO,Alpine Renault,01:31.8,2022,1
+11,12,Mick  Schumacher  MSC,Haas Ferrari,01:32.0,2022,1
+12,13,Lando  Norris  NOR,McLaren Mercedes,01:32.0,2022,1
+13,14,Alexander  Albon  ALB,Williams Mercedes,01:32.7,2022,1
+14,15,Zhou  Guanyu  ZHO,Alfa Romeo Ferrari,01:33.5,2022,1
+15,16,Yuki  Tsunoda  TSU,AlphaTauri RBPT,01:32.7,2022,1
+16,17,Nico  Hulkenberg  HUL,Aston Martin Aramco Mercedes,01:32.8,2022,1
+17,18,Daniel  Ricciardo  RIC,McLaren Mercedes,01:32.9,2022,1
+18,19,Lance  Stroll  STR,Aston Martin Aramco Mercedes,01:33.0,2022,1
+19,20,Nicholas  Latifi  LAT,Williams Mercedes,01:33.6,2022,1
+0,1,Sergio  Perez  PER,Red Bull Racing RBPT,01:28.2,2022,2
+1,2,Charles  Leclerc  LEC,Ferrari,01:28.2,2022,2
+2,3,Carlos  Sainz  SAI,Ferrari,01:28.4,2022,2
+3,4,Max  Verstappen  VER,Red Bull Racing RBPT,01:28.5,2022,2
+4,5,Esteban  Ocon  OCO,Alpine Renault,01:29.1,2022,2
+5,6,George  Russell  RUS,Mercedes,01:29.1,2022,2
+6,7,Fernando  Alonso  ALO,Alpine Renault,01:29.1,2022,2
+7,8,Valtteri  Bottas  BOT,Alfa Romeo Ferrari,01:29.2,2022,2
+8,9,Pierre  Gasly  GAS,AlphaTauri RBPT,01:29.3,2022,2
+9,10,Kevin  Magnussen  MAG,Haas Ferrari,01:29.6,2022,2
+10,11,Lando  Norris  NOR,McLaren Mercedes,01:29.7,2022,2
+11,12,Zhou  Guanyu  ZHO,Alfa Romeo Ferrari,01:29.8,2022,2
+12,13,Lance  Stroll  STR,Aston Martin Aramco Mercedes,01:31.0,2022,2
+13,14,Daniel  Ricciardo  RIC,McLaren Mercedes,01:29.8,2022,2
+14,15,Lewis  Hamilton  HAM,Mercedes,01:30.3,2022,2
+15,16,Alexander  Albon  ALB,Williams Mercedes,01:30.5,2022,2
+16,17,Nico  Hulkenberg  HUL,Aston Martin Aramco Mercedes,01:30.5,2022,2
+17,18,Nicholas  Latifi  LAT,Williams Mercedes,01:31.8,2022,2
+18,19,Yuki  Tsunoda  TSU,AlphaTauri RBPT,,2022,2
+0,1,Charles  Leclerc  LEC,Ferrari,01:17.9,2022,3
+1,2,Max  Verstappen  VER,Red Bull Racing RBPT,01:18.2,2022,3
+2,3,Sergio  Perez  PER,Red Bull Racing RBPT,01:18.2,2022,3
+3,4,Lando  Norris  NOR,McLaren Mercedes,01:18.7,2022,3
+4,5,Lewis  Hamilton  HAM,Mercedes,01:18.8,2022,3
+5,6,George  Russell  RUS,Mercedes,01:18.9,2022,3
+6,7,Daniel  Ricciardo  RIC,McLaren Mercedes,01:19.0,2022,3
+7,8,Esteban  Ocon  OCO,Alpine Renault,01:19.1,2022,3
+8,9,Carlos  Sainz  SAI,Ferrari,01:19.4,2022,3
+9,10,Fernando  Alonso  ALO,Alpine Renault,,2022,3
+10,11,Pierre  Gasly  GAS,AlphaTauri RBPT,01:19.2,2022,3
+11,12,Valtteri  Bottas  BOT,Alfa Romeo Ferrari,01:19.4,2022,3
+12,13,Yuki  Tsunoda  TSU,AlphaTauri RBPT,01:19.4,2022,3
+13,14,Zhou  Guanyu  ZHO,Alfa Romeo Ferrari,01:20.2,2022,3
+14,15,Mick  Schumacher  MSC,Haas Ferrari,01:20.5,2022,3
+15,16,Kevin  Magnussen  MAG,Haas Ferrari,01:20.3,2022,3
+16,17,Sebastian  Vettel  VET,Aston Martin Aramco Mercedes,01:21.1,2022,3
+17,18,Nicholas  Latifi  LAT,Williams Mercedes,01:21.4,2022,3
+18,19,Lance  Stroll  STR,Aston Martin Aramco Mercedes,,2022,3
+19,20,Alexander  Albon  ALB,Williams Mercedes,,2022,3
+0,1,Max  Verstappen  VER,Red Bull Racing RBPT,,2022,4
+1,2,Charles  Leclerc  LEC,Ferrari,,2022,4
+2,3,Sergio  Perez  PER,Red Bull Racing RBPT,,2022,4
+3,4,Carlos  Sainz  SAI,Ferrari,,2022,4
+4,5,Lando  Norris  NOR,McLaren Mercedes,,2022,4
+5,6,Daniel  Ricciardo  RIC,McLaren Mercedes,,2022,4
+6,7,Valtteri  Bottas  BOT,Alfa Romeo Ferrari,,2022,4
+7,8,Kevin  Magnussen  MAG,Haas Ferrari,,2022,4
+8,9,Fernando  Alonso  ALO,Alpine Renault,,2022,4
+9,10,Mick  Schumacher  MSC,Haas Ferrari,,2022,4
+10,11,George  Russell  RUS,Mercedes,,2022,4
+11,12,Yuki  Tsunoda  TSU,AlphaTauri RBPT,,2022,4
+12,13,Sebastian  Vettel  VET,Aston Martin Aramco Mercedes,,2022,4
+13,14,Lewis  Hamilton  HAM,Mercedes,,2022,4
+14,15,Lance  Stroll  STR,Aston Martin Aramco Mercedes,,2022,4
+15,16,Esteban  Ocon  OCO,Alpine Renault,,2022,4
+16,17,Pierre  Gasly  GAS,AlphaTauri RBPT,,2022,4
+17,18,Alexander  Albon  ALB,Williams Mercedes,,2022,4
+18,19,Nicholas  Latifi  LAT,Williams Mercedes,,2022,4
+0,1,Charles  Leclerc  LEC,Ferrari,01:28.8,2022,5
+1,2,Carlos  Sainz  SAI,Ferrari,01:29.0,2022,5
+2,3,Max  Verstappen  VER,Red Bull Racing RBPT,01:29.0,2022,5
+3,4,Sergio  Perez  PER,Red Bull Racing RBPT,01:29.0,2022,5
+4,5,Valtteri  Bottas  BOT,Alfa Romeo Ferrari,01:29.5,2022,5
+5,6,Lewis  Hamilton  HAM,Mercedes,01:29.6,2022,5
+6,7,Pierre  Gasly  GAS,AlphaTauri RBPT,01:29.7,2022,5
+7,8,Lando  Norris  NOR,McLaren Mercedes,01:29.8,2022,5
+8,9,Yuki  Tsunoda  TSU,AlphaTauri RBPT,01:29.9,2022,5
+9,10,Lance  Stroll  STR,Aston Martin Aramco Mercedes,01:30.7,2022,5
+10,11,Fernando  Alonso  ALO,Alpine Renault,01:30.2,2022,5
+11,12,George  Russell  RUS,Mercedes,01:30.2,2022,5
+12,13,Sebastian  Vettel  VET,Aston Martin Aramco Mercedes,01:30.2,2022,5
+13,14,Daniel  Ricciardo  RIC,McLaren Mercedes,01:30.3,2022,5
+14,15,Mick  Schumacher  MSC,Haas Ferrari,01:30.4,2022,5
+15,16,Kevin  Magnussen  MAG,Haas Ferrari,01:31.0,2022,5
+16,17,Zhou  Guanyu  ZHO,Alfa Romeo Ferrari,01:31.0,2022,5
+17,18,Alexander  Albon  ALB,Williams Mercedes,01:31.3,2022,5
+18,19,Nicholas  Latifi  LAT,Williams Mercedes,01:31.3,2022,5
+19,20,Esteban  Ocon  OCO,Alpine Renault,,2022,5
+0,1,Charles  Leclerc  LEC,Ferrari,01:18.7,2022,6
+1,2,Max  Verstappen  VER,Red Bull Racing RBPT,01:19.1,2022,6
+2,3,Carlos  Sainz  SAI,Ferrari,01:19.2,2022,6
+3,4,George  Russell  RUS,Mercedes,01:19.4,2022,6
+4,5,Sergio  Perez  PER,Red Bull Racing RBPT,01:19.4,2022,6
+5,6,Lewis  Hamilton  HAM,Mercedes,01:19.5,2022,6
+6,7,Valtteri  Bottas  BOT,Alfa Romeo Ferrari,01:19.6,2022,6
+7,8,Kevin  Magnussen  MAG,Haas Ferrari,01:19.7,2022,6
+8,9,Daniel  Ricciardo  RIC,McLaren Mercedes,01:20.3,2022,6
+9,10,Mick  Schumacher  MSC,Haas Ferrari,01:20.4,2022,6
+10,11,Lando  Norris  NOR,McLaren Mercedes,01:20.5,2022,6
+11,12,Esteban  Ocon  OCO,Alpine Renault,01:20.6,2022,6
+12,13,Yuki  Tsunoda  TSU,AlphaTauri RBPT,01:20.6,2022,6
+13,14,Pierre  Gasly  GAS,AlphaTauri RBPT,01:20.9,2022,6
+14,15,Zhou  Guanyu  ZHO,Alfa Romeo Ferrari,01:21.1,2022,6
+15,16,Sebastian  Vettel  VET,Aston Martin Aramco Mercedes,01:21.0,2022,6
+16,17,Lance  Stroll  STR,Aston Martin Aramco Mercedes,01:21.4,2022,6
+17,18,Alexander  Albon  ALB,Williams Mercedes,01:21.6,2022,6
+18,19,Nicholas  Latifi  LAT,Williams Mercedes,01:21.9,2022,6
+19,20,Fernando  Alonso  ALO,Alpine Renault,01:21.0,2022,6
+0,1,Charles  Leclerc  LEC,Ferrari,01:11.4,2022,7
+1,2,Carlos  Sainz  SAI,Ferrari,01:11.6,2022,7
+2,3,Sergio  Perez  PER,Red Bull Racing RBPT,01:11.6,2022,7
+3,4,Max  Verstappen  VER,Red Bull Racing RBPT,01:11.7,2022,7
+4,5,Lando  Norris  NOR,McLaren Mercedes,01:11.8,2022,7
+5,6,George  Russell  RUS,Mercedes,01:12.1,2022,7
+6,7,Fernando  Alonso  ALO,Alpine Renault,01:12.2,2022,7
+7,8,Lewis  Hamilton  HAM,Mercedes,01:12.6,2022,7
+8,9,Sebastian  Vettel  VET,Aston Martin Aramco Mercedes,01:12.7,2022,7
+9,10,Esteban  Ocon  OCO,Alpine Renault,01:13.0,2022,7
+10,11,Yuki  Tsunoda  TSU,AlphaTauri RBPT,01:12.8,2022,7
+11,12,Valtteri  Bottas  BOT,Alfa Romeo Ferrari,01:12.9,2022,7
+12,13,Kevin  Magnussen  MAG,Haas Ferrari,01:12.9,2022,7
+13,14,Daniel  Ricciardo  RIC,McLaren Mercedes,01:13.0,2022,7
+14,15,Mick  Schumacher  MSC,Haas Ferrari,01:13.1,2022,7
+15,16,Alexander  Albon  ALB,Williams Mercedes,01:13.6,2022,7
+16,17,Pierre  Gasly  GAS,AlphaTauri RBPT,01:13.7,2022,7
+17,18,Lance  Stroll  STR,Aston Martin Aramco Mercedes,01:13.7,2022,7
+18,19,Nicholas  Latifi  LAT,Williams Mercedes,01:14.4,2022,7
+19,20,Zhou  Guanyu  ZHO,Alfa Romeo Ferrari,01:15.6,2022,7
+0,1,Charles  Leclerc  LEC,Ferrari,01:41.4,2022,8
+1,2,Sergio  Perez  PER,Red Bull Racing RBPT,01:41.6,2022,8
+2,3,Max  Verstappen  VER,Red Bull Racing RBPT,01:41.7,2022,8
+3,4,Carlos  Sainz  SAI,Ferrari,01:41.8,2022,8
+4,5,George  Russell  RUS,Mercedes,01:42.7,2022,8
+5,6,Pierre  Gasly  GAS,AlphaTauri RBPT,01:42.8,2022,8
+6,7,Lewis  Hamilton  HAM,Mercedes,01:42.9,2022,8
+7,8,Yuki  Tsunoda  TSU,AlphaTauri RBPT,01:43.1,2022,8
+8,9,Sebastian  Vettel  VET,Aston Martin Aramco Mercedes,01:43.1,2022,8
+9,10,Fernando  Alonso  ALO,Alpine Renault,01:43.2,2022,8
+10,11,Lando  Norris  NOR,McLaren Mercedes,01:43.4,2022,8
+11,12,Daniel  Ricciardo  RIC,McLaren Mercedes,01:43.6,2022,8
+12,13,Esteban  Ocon  OCO,Alpine Renault,01:43.6,2022,8
+13,14,Zhou  Guanyu  ZHO,Alfa Romeo Ferrari,01:43.8,2022,8
+14,15,Valtteri  Bottas  BOT,Alfa Romeo Ferrari,01:44.4,2022,8
+15,16,Kevin  Magnussen  MAG,Haas Ferrari,01:44.6,2022,8
+16,17,Alexander  Albon  ALB,Williams Mercedes,01:44.7,2022,8
+17,18,Nicholas  Latifi  LAT,Williams Mercedes,01:45.4,2022,8
+18,19,Lance  Stroll  STR,Aston Martin Aramco Mercedes,01:45.4,2022,8
+19,20,Mick  Schumacher  MSC,Haas Ferrari,01:45.8,2022,8
+0,1,Max  Verstappen  VER,Red Bull Racing RBPT,01:21.3,2022,9
+1,2,Fernando  Alonso  ALO,Alpine Renault,01:21.9,2022,9
+2,3,Carlos  Sainz  SAI,Ferrari,01:22.1,2022,9
+3,4,Lewis  Hamilton  HAM,Mercedes,01:22.9,2022,9
+4,5,Kevin  Magnussen  MAG,Haas Ferrari,01:23.0,2022,9
+5,6,Mick  Schumacher  MSC,Haas Ferrari,01:23.4,2022,9
+6,7,Esteban  Ocon  OCO,Alpine Renault,01:23.5,2022,9
+7,8,George  Russell  RUS,Mercedes,01:23.6,2022,9
+8,9,Daniel  Ricciardo  RIC,McLaren Mercedes,01:23.7,2022,9
+9,10,Zhou  Guanyu  ZHO,Alfa Romeo Ferrari,01:24.0,2022,9
+10,11,Valtteri  Bottas  BOT,Alfa Romeo Ferrari,01:26.8,2022,9
+11,12,Alexander  Albon  ALB,Williams Mercedes,01:26.9,2022,9
+12,13,Sergio  Perez  PER,Red Bull Racing RBPT,01:33.1,2022,9
+13,14,Lando  Norris  NOR,McLaren Mercedes,,2022,9
+14,15,Pierre  Gasly  GAS,AlphaTauri RBPT,01:34.5,2022,9
+15,16,Sebastian  Vettel  VET,Aston Martin Aramco Mercedes,01:34.5,2022,9
+16,17,Lance  Stroll  STR,Aston Martin Aramco Mercedes,01:35.5,2022,9
+17,18,Nicholas  Latifi  LAT,Williams Mercedes,01:35.7,2022,9
+18,19,Charles  Leclerc  LEC,Ferrari,,2022,9
+19,20,Yuki  Tsunoda  TSU,AlphaTauri RBPT,01:36.6,2022,9
+0,1,Carlos  Sainz  SAI,Ferrari,01:41.0,2022,10
+1,2,Max  Verstappen  VER,Red Bull Racing RBPT,01:41.1,2022,10
+2,3,Charles  Leclerc  LEC,Ferrari,01:41.3,2022,10
+3,4,Sergio  Perez  PER,Red Bull Racing RBPT,01:41.6,2022,10
+4,5,Lewis  Hamilton  HAM,Mercedes,01:42.0,2022,10
+5,6,Lando  Norris  NOR,McLaren Mercedes,01:42.1,2022,10
+6,7,Fernando  Alonso  ALO,Alpine Renault,01:42.1,2022,10
+7,8,George  Russell  RUS,Mercedes,01:42.2,2022,10
+8,9,Zhou  Guanyu  ZHO,Alfa Romeo Ferrari,01:42.7,2022,10
+9,10,Nicholas  Latifi  LAT,Williams Mercedes,02:03.1,2022,10
+10,11,Pierre  Gasly  GAS,AlphaTauri RBPT,01:43.7,2022,10
+11,12,Valtteri  Bottas  BOT,Alfa Romeo Ferrari,01:44.2,2022,10
+12,13,Yuki  Tsunoda  TSU,AlphaTauri RBPT,01:44.3,2022,10
+13,14,Daniel  Ricciardo  RIC,McLaren Mercedes,01:44.4,2022,10
+14,15,Esteban  Ocon  OCO,Alpine Renault,01:45.2,2022,10
+15,16,Alexander  Albon  ALB,Williams Mercedes,01:42.1,2022,10
+16,17,Kevin  Magnussen  MAG,Haas Ferrari,01:42.2,2022,10
+17,18,Sebastian  Vettel  VET,Aston Martin Aramco Mercedes,01:42.7,2022,10
+18,19,Mick  Schumacher  MSC,Haas Ferrari,01:42.7,2022,10
+19,20,Lance  Stroll  STR,Aston Martin Aramco Mercedes,01:43.4,2022,10
+0,1,Max  Verstappen  VER,Red Bull Racing RBPT,,2022,11
+1,2,Charles  Leclerc  LEC,Ferrari,,2022,11
+2,3,Carlos  Sainz  SAI,Ferrari,,2022,11
+3,4,George  Russell  RUS,Mercedes,,2022,11
+4,5,Sergio  Perez  PER,Red Bull Racing RBPT,,2022,11
+5,6,Esteban  Ocon  OCO,Alpine Renault,,2022,11
+6,7,Kevin  Magnussen  MAG,Haas Ferrari,,2022,11
+7,8,Lewis  Hamilton  HAM,Mercedes,,2022,11
+8,9,Mick  Schumacher  MSC,Haas Ferrari,,2022,11
+9,10,Lando  Norris  NOR,McLaren Mercedes,,2022,11
+10,11,Daniel  Ricciardo  RIC,McLaren Mercedes,,2022,11
+11,12,Lance  Stroll  STR,Aston Martin Aramco Mercedes,,2022,11
+12,13,Zhou  Guanyu  ZHO,Alfa Romeo Ferrari,,2022,11
+13,14,Pierre  Gasly  GAS,AlphaTauri RBPT,,2022,11
+14,15,Alexander  Albon  ALB,Williams Mercedes,,2022,11
+15,16,Yuki  Tsunoda  TSU,AlphaTauri RBPT,,2022,11
+16,17,Nicholas  Latifi  LAT,Williams Mercedes,,2022,11
+17,18,Sebastian  Vettel  VET,Aston Martin Aramco Mercedes,,2022,11
+18,19,Fernando  Alonso  ALO,Alpine Renault,,2022,11
+0,1,Charles  Leclerc  LEC,Ferrari,01:30.9,2022,12
+1,2,Max  Verstappen  VER,Red Bull Racing RBPT,01:31.2,2022,12
+2,3,Sergio  Perez  PER,Red Bull Racing RBPT,01:31.3,2022,12
+3,4,Lewis  Hamilton  HAM,Mercedes,01:31.8,2022,12
+4,5,Lando  Norris  NOR,McLaren Mercedes,01:32.0,2022,12
+5,6,George  Russell  RUS,Mercedes,01:32.1,2022,12
+6,7,Fernando  Alonso  ALO,Alpine Renault,01:32.6,2022,12
+7,8,Yuki  Tsunoda  TSU,AlphaTauri RBPT,01:32.8,2022,12
+8,9,Daniel  Ricciardo  RIC,McLaren Mercedes,01:32.9,2022,12
+9,10,Esteban  Ocon  OCO,Alpine Renault,01:33.0,2022,12
+10,11,Valtteri  Bottas  BOT,Alfa Romeo Ferrari,01:33.1,2022,12
+11,12,Sebastian  Vettel  VET,Aston Martin Aramco Mercedes,01:33.3,2022,12
+12,13,Alexander  Albon  ALB,Williams Mercedes,01:33.3,2022,12
+13,14,Pierre  Gasly  GAS,AlphaTauri RBPT,01:33.4,2022,12
+14,15,Lance  Stroll  STR,Aston Martin Aramco Mercedes,01:33.4,2022,12
+15,16,Zhou  Guanyu  ZHO,Alfa Romeo Ferrari,01:33.7,2022,12
+16,17,Mick  Schumacher  MSC,Haas Ferrari,01:33.7,2022,12
+17,18,Nicholas  Latifi  LAT,Williams Mercedes,01:33.8,2022,12
+18,19,Carlos  Sainz  SAI,Ferrari,,2022,12
+19,20,Kevin  Magnussen  MAG,Haas Ferrari,,2022,12
+0,1,George  Russell  RUS,Mercedes,01:17.4,2022,13
+1,2,Carlos  Sainz  SAI,Ferrari,01:17.4,2022,13
+2,3,Charles  Leclerc  LEC,Ferrari,01:17.6,2022,13
+3,4,Lando  Norris  NOR,McLaren Mercedes,01:17.8,2022,13
+4,5,Esteban  Ocon  OCO,Alpine Renault,01:18.0,2022,13
+5,6,Fernando  Alonso  ALO,Alpine Renault,01:18.1,2022,13
+6,7,Lewis  Hamilton  HAM,Mercedes,01:18.1,2022,13
+7,8,Valtteri  Bottas  BOT,Alfa Romeo Ferrari,01:18.2,2022,13
+8,9,Daniel  Ricciardo  RIC,McLaren Mercedes,01:18.4,2022,13
+9,10,Max  Verstappen  VER,Red Bull Racing RBPT,01:18.8,2022,13
+10,11,Sergio  Perez  PER,Red Bull Racing RBPT,01:18.5,2022,13
+11,12,Zhou  Guanyu  ZHO,Alfa Romeo Ferrari,01:18.6,2022,13
+12,13,Kevin  Magnussen  MAG,Haas Ferrari,01:18.8,2022,13
+13,14,Lance  Stroll  STR,Aston Martin Aramco Mercedes,01:19.1,2022,13
+14,15,Mick  Schumacher  MSC,Haas Ferrari,01:19.2,2022,13
+15,16,Yuki  Tsunoda  TSU,AlphaTauri RBPT,01:19.2,2022,13
+16,17,Alexander  Albon  ALB,Williams Mercedes,01:19.3,2022,13
+17,18,Sebastian  Vettel  VET,Aston Martin Aramco Mercedes,01:19.3,2022,13
+18,19,Nicholas  Latifi  LAT,Williams Mercedes,01:19.6,2022,13
+19,20,Pierre  Gasly  GAS,AlphaTauri RBPT,01:19.5,2022,13
+0,1,Carlos  Sainz  SAI,Ferrari,01:44.3,2022,14
+1,2,Sergio  Perez  PER,Red Bull Racing RBPT,01:44.5,2022,14
+2,3,Fernando  Alonso  ALO,Alpine Renault,01:45.4,2022,14
+3,4,Lewis  Hamilton  HAM,Mercedes,01:45.5,2022,14
+4,5,George  Russell  RUS,Mercedes,01:45.8,2022,14
+5,6,Alexander  Albon  ALB,Williams Mercedes,01:45.8,2022,14
+6,7,Daniel  Ricciardo  RIC,McLaren Mercedes,01:45.8,2022,14
+7,8,Pierre  Gasly  GAS,AlphaTauri RBPT,01:45.8,2022,14
+8,9,Lance  Stroll  STR,Aston Martin Aramco Mercedes,01:46.6,2022,14
+9,10,Sebastian  Vettel  VET,Aston Martin Aramco Mercedes,01:46.3,2022,14
+10,11,Nicholas  Latifi  LAT,Williams Mercedes,01:46.4,2022,14
+11,12,Kevin  Magnussen  MAG,Haas Ferrari,01:46.6,2022,14
+12,13,Valtteri  Bottas  BOT,Alfa Romeo Ferrari,01:47.9,2022,14
+13,14,Max  Verstappen  VER,Red Bull Racing RBPT,01:43.7,2022,14
+14,15,Charles  Leclerc  LEC,Ferrari,01:44.6,2022,14
+15,16,Esteban  Ocon  OCO,Alpine Renault,01:45.2,2022,14
+16,17,Lando  Norris  NOR,McLaren Mercedes,01:46.2,2022,14
+17,18,Zhou  Guanyu  ZHO,Alfa Romeo Ferrari,01:46.1,2022,14
+18,19,Mick  Schumacher  MSC,Haas Ferrari,01:47.7,2022,14
+19,20,Yuki  Tsunoda  TSU,AlphaTauri RBPT,01:46.7,2022,14
+0,1,Max  Verstappen  VER,Red Bull Racing RBPT,01:10.3,2022,15
+1,2,Charles  Leclerc  LEC,Ferrari,01:10.4,2022,15
+2,3,Carlos  Sainz  SAI,Ferrari,01:10.4,2022,15
+3,4,Lewis  Hamilton  HAM,Mercedes,01:10.6,2022,15
+4,5,Sergio  Perez  PER,Red Bull Racing RBPT,01:11.1,2022,15
+5,6,George  Russell  RUS,Mercedes,01:11.1,2022,15
+6,7,Lando  Norris  NOR,McLaren Mercedes,01:11.2,2022,15
+7,8,Mick  Schumacher  MSC,Haas Ferrari,01:11.4,2022,15
+8,9,Yuki  Tsunoda  TSU,AlphaTauri RBPT,01:12.6,2022,15
+9,10,Lance  Stroll  STR,Aston Martin Aramco Mercedes,,2022,15
+10,11,Pierre  Gasly  GAS,AlphaTauri RBPT,01:11.5,2022,15
+11,12,Esteban  Ocon  OCO,Alpine Renault,01:11.6,2022,15
+12,13,Fernando  Alonso  ALO,Alpine Renault,01:11.6,2022,15
+13,14,Zhou  Guanyu  ZHO,Alfa Romeo Ferrari,01:11.7,2022,15
+14,15,Alexander  Albon  ALB,Williams Mercedes,01:11.8,2022,15
+15,16,Valtteri  Bottas  BOT,Alfa Romeo Ferrari,01:12.0,2022,15
+16,17,Daniel  Ricciardo  RIC,McLaren Mercedes,01:12.1,2022,15
+17,18,Kevin  Magnussen  MAG,Haas Ferrari,01:12.3,2022,15
+18,19,Sebastian  Vettel  VET,Aston Martin Aramco Mercedes,01:12.4,2022,15
+19,20,Nicholas  Latifi  LAT,Williams Mercedes,01:13.4,2022,15
+0,1,Charles  Leclerc  LEC,Ferrari,01:20.2,2022,16
+1,2,George  Russell  RUS,Mercedes,01:21.5,2022,16
+2,3,Lando  Norris  NOR,McLaren Mercedes,01:21.6,2022,16
+3,4,Daniel  Ricciardo  RIC,McLaren Mercedes,01:21.9,2022,16
+4,5,Pierre  Gasly  GAS,AlphaTauri RBPT,01:22.6,2022,16
+5,6,Fernando  Alonso  ALO,Alpine Renault,,2022,16
+6,7,Max  Verstappen  VER,Red Bull Racing RBPT,01:20.3,2022,16
+7,8,Nyck  De Vries  DEV,Williams Mercedes,01:22.5,2022,16
+8,9,Zhou  Guanyu  ZHO,Alfa Romeo Ferrari,01:22.6,2022,16
+9,10,Nicholas  Latifi  LAT,Williams Mercedes,01:22.6,2022,16
+10,11,Sebastian  Vettel  VET,Aston Martin Aramco Mercedes,01:22.6,2022,16
+11,12,Lance  Stroll  STR,Aston Martin Aramco Mercedes,01:22.7,2022,16
+12,13,Sergio  Perez  PER,Red Bull Racing RBPT,01:21.2,2022,16
+13,14,Esteban  Ocon  OCO,Alpine Renault,01:22.1,2022,16
+14,15,Valtteri  Bottas  BOT,Alfa Romeo Ferrari,01:22.2,2022,16
+15,16,Kevin  Magnussen  MAG,Haas Ferrari,01:22.9,2022,16
+16,17,Mick  Schumacher  MSC,Haas Ferrari,01:23.0,2022,16
+17,18,Carlos  Sainz  SAI,Ferrari,01:20.4,2022,16
+18,19,Lewis  Hamilton  HAM,Mercedes,01:21.5,2022,16
+19,20,Yuki  Tsunoda  TSU,AlphaTauri RBPT,,2022,16
+0,1,Charles  Leclerc  LEC,Ferrari,01:49.4,2022,17
+1,2,Sergio  Perez  PER,Red Bull Racing RBPT,01:49.4,2022,17
+2,3,Lewis  Hamilton  HAM,Mercedes,01:49.5,2022,17
+3,4,Carlos  Sainz  SAI,Ferrari,01:49.6,2022,17
+4,5,Fernando  Alonso  ALO,Alpine Renault,01:50.0,2022,17
+5,6,Lando  Norris  NOR,McLaren Mercedes,01:50.6,2022,17
+6,7,Pierre  Gasly  GAS,AlphaTauri RBPT,01:51.2,2022,17
+7,8,Max  Verstappen  VER,Red Bull Racing RBPT,01:51.4,2022,17
+8,9,Kevin  Magnussen  MAG,Haas Ferrari,01:51.6,2022,17
+9,10,Yuki  Tsunoda  TSU,AlphaTauri RBPT,01:52.0,2022,17
+10,11,Lance  Stroll  STR,Aston Martin Aramco Mercedes,01:54.2,2022,17
+11,12,Mick  Schumacher  MSC,Haas Ferrari,01:54.4,2022,17
+12,13,Sebastian  Vettel  VET,Aston Martin Aramco Mercedes,01:54.4,2022,17
+13,14,Zhou  Guanyu  ZHO,Alfa Romeo Ferrari,01:55.5,2022,17
+14,15,Valtteri  Bottas  BOT,Alfa Romeo Ferrari,01:56.1,2022,17
+15,16,Daniel  Ricciardo  RIC,McLaren Mercedes,01:56.2,2022,17
+16,17,Esteban  Ocon  OCO,Alpine Renault,01:56.3,2022,17
+17,18,Alexander  Albon  ALB,Williams Mercedes,01:57.0,2022,17
+18,19,Nicholas  Latifi  LAT,Williams Mercedes,01:57.5,2022,17
+19,20,George  Russell  RUS,Mercedes,01:54.0,2022,17
+0,1,Max  Verstappen  VER,Red Bull Racing RBPT,01:29.3,2022,18
+1,2,Charles  Leclerc  LEC,Ferrari,01:29.3,2022,18
+2,3,Carlos  Sainz  SAI,Ferrari,01:29.4,2022,18
+3,4,Sergio  Perez  PER,Red Bull Racing RBPT,01:29.7,2022,18
+4,5,Esteban  Ocon  OCO,Alpine Renault,01:30.2,2022,18
+5,6,Lewis  Hamilton  HAM,Mercedes,01:30.3,2022,18
+6,7,Fernando  Alonso  ALO,Alpine Renault,01:30.3,2022,18
+7,8,George  Russell  RUS,Mercedes,01:30.4,2022,18
+8,9,Sebastian  Vettel  VET,Aston Martin Aramco Mercedes,01:30.6,2022,18
+9,10,Lando  Norris  NOR,McLaren Mercedes,01:31.0,2022,18
+10,11,Daniel  Ricciardo  RIC,McLaren Mercedes,01:30.7,2022,18
+11,12,Valtteri  Bottas  BOT,Alfa Romeo Ferrari,01:30.7,2022,18
+12,13,Yuki  Tsunoda  TSU,AlphaTauri RBPT,01:30.8,2022,18
+13,14,Zhou  Guanyu  ZHO,Alfa Romeo Ferrari,01:31.0,2022,18
+14,15,Mick  Schumacher  MSC,Haas Ferrari,01:31.4,2022,18
+15,16,Alexander  Albon  ALB,Williams Mercedes,01:31.3,2022,18
+16,17,Kevin  Magnussen  MAG,Haas Ferrari,01:31.4,2022,18
+17,18,Lance  Stroll  STR,Aston Martin Aramco Mercedes,01:31.4,2022,18
+18,19,Nicholas  Latifi  LAT,Williams Mercedes,01:31.5,2022,18
+0,1,Carlos  Sainz  SAI,Ferrari,01:34.4,2022,19
+1,2,Max  Verstappen  VER,Red Bull Racing RBPT,01:34.4,2022,19
+2,3,Lewis  Hamilton  HAM,Mercedes,01:34.9,2022,19
+3,4,George  Russell  RUS,Mercedes,01:35.0,2022,19
+4,5,Lance  Stroll  STR,Aston Martin Aramco Mercedes,01:35.6,2022,19
+5,6,Lando  Norris  NOR,McLaren Mercedes,01:35.7,2022,19
+6,7,Valtteri  Bottas  BOT,Alfa Romeo Ferrari,01:36.3,2022,19
+7,8,Alexander  Albon  ALB,Williams Mercedes,01:36.4,2022,19
+8,9,Sergio  Perez  PER,Red Bull Racing RBPT,01:34.6,2022,19
+9,10,Sebastian  Vettel  VET,Aston Martin Aramco Mercedes,01:36.4,2022,19
+10,11,Pierre  Gasly  GAS,AlphaTauri RBPT,01:36.7,2022,19
+11,12,Charles  Leclerc  LEC,Ferrari,01:34.4,2022,19
+12,13,Kevin  Magnussen  MAG,Haas Ferrari,01:36.9,2022,19
+13,14,Fernando  Alonso  ALO,Alpine Renault,01:35.9,2022,19
+14,15,Daniel  Ricciardo  RIC,McLaren Mercedes,01:37.0,2022,19
+15,16,Mick  Schumacher  MSC,Haas Ferrari,01:37.1,2022,19
+16,17,Nicholas  Latifi  LAT,Williams Mercedes,01:37.2,2022,19
+17,18,Zhou  Guanyu  ZHO,Alfa Romeo Ferrari,01:37.0,2022,19
+18,19,Yuki  Tsunoda  TSU,AlphaTauri RBPT,01:37.1,2022,19
+19,20,Esteban  Ocon  OCO,Alpine Renault,01:37.1,2022,19
+0,1,Max  Verstappen  VER,Red Bull Racing RBPT,01:17.8,2022,20
+1,2,George  Russell  RUS,Mercedes,01:18.1,2022,20
+2,3,Lewis  Hamilton  HAM,Mercedes,01:18.1,2022,20
+3,4,Sergio  Perez  PER,Red Bull Racing RBPT,01:18.1,2022,20
+4,5,Carlos  Sainz  SAI,Ferrari,01:18.4,2022,20
+5,6,Valtteri  Bottas  BOT,Alfa Romeo Ferrari,01:18.4,2022,20
+6,7,Charles  Leclerc  LEC,Ferrari,01:18.6,2022,20
+7,8,Lando  Norris  NOR,McLaren Mercedes,01:18.7,2022,20
+8,9,Fernando  Alonso  ALO,Alpine Renault,01:18.9,2022,20
+9,10,Esteban  Ocon  OCO,Alpine Renault,01:19.0,2022,20
+10,11,Daniel  Ricciardo  RIC,McLaren Mercedes,01:19.3,2022,20
+11,12,Zhou  Guanyu  ZHO,Alfa Romeo Ferrari,01:19.5,2022,20
+12,13,Yuki  Tsunoda  TSU,AlphaTauri RBPT,01:19.6,2022,20
+13,14,Pierre  Gasly  GAS,AlphaTauri RBPT,01:19.7,2022,20
+14,15,Mick  Schumacher  MSC,Haas Ferrari,01:20.4,2022,20
+15,16,Sebastian  Vettel  VET,Aston Martin Aramco Mercedes,01:20.4,2022,20
+16,17,Alexander  Albon  ALB,Williams Mercedes,01:20.9,2022,20
+17,18,Nicholas  Latifi  LAT,Williams Mercedes,01:21.2,2022,20
+18,19,Kevin  Magnussen  MAG,Haas Ferrari,01:19.8,2022,20
+19,20,Lance  Stroll  STR,Aston Martin Aramco Mercedes,01:20.5,2022,20
+0,1,George  Russell  RUS,Mercedes,,2022,21
+1,2,Lewis  Hamilton  HAM,Mercedes,,2022,21
+2,3,Max  Verstappen  VER,Red Bull Racing RBPT,,2022,21
+3,4,Sergio  Perez  PER,Red Bull Racing RBPT,,2022,21
+4,5,Charles  Leclerc  LEC,Ferrari,,2022,21
+5,6,Lando  Norris  NOR,McLaren Mercedes,,2022,21
+6,7,Carlos  Sainz  SAI,Ferrari,,2022,21
+7,8,Kevin  Magnussen  MAG,Haas Ferrari,,2022,21
+8,9,Sebastian  Vettel  VET,Aston Martin Aramco Mercedes,,2022,21
+9,10,Pierre  Gasly  GAS,AlphaTauri RBPT,,2022,21
+10,11,Daniel  Ricciardo  RIC,McLaren Mercedes,,2022,21
+11,12,Mick  Schumacher  MSC,Haas Ferrari,,2022,21
+12,13,Zhou  Guanyu  ZHO,Alfa Romeo Ferrari,,2022,21
+13,14,Valtteri  Bottas  BOT,Alfa Romeo Ferrari,,2022,21
+14,15,Lance  Stroll  STR,Aston Martin Aramco Mercedes,,2022,21
+15,16,Esteban  Ocon  OCO,Alpine Renault,,2022,21
+16,17,Fernando  Alonso  ALO,Alpine Renault,,2022,21
+17,18,Nicholas  Latifi  LAT,Williams Mercedes,,2022,21
+18,19,Alexander  Albon  ALB,Williams Mercedes,,2022,21
+19,20,Yuki  Tsunoda  TSU,AlphaTauri RBPT,,2022,21
+0,1,Max  Verstappen  VER,Red Bull Racing RBPT,01:23.8,2022,22
+1,2,Sergio  Perez  PER,Red Bull Racing RBPT,01:24.1,2022,22
+2,3,Charles  Leclerc  LEC,Ferrari,01:24.1,2022,22
+3,4,Carlos  Sainz  SAI,Ferrari,01:24.2,2022,22
+4,5,Lewis  Hamilton  HAM,Mercedes,01:24.5,2022,22
+5,6,George  Russell  RUS,Mercedes,01:24.5,2022,22
+6,7,Lando  Norris  NOR,McLaren Mercedes,01:24.8,2022,22
+7,8,Esteban  Ocon  OCO,Alpine Renault,01:24.8,2022,22
+8,9,Sebastian  Vettel  VET,Aston Martin Aramco Mercedes,01:25.0,2022,22
+9,10,Fernando  Alonso  ALO,Alpine Renault,01:25.1,2022,22
+10,11,Yuki  Tsunoda  TSU,AlphaTauri RBPT,01:25.2,2022,22
+11,12,Mick  Schumacher  MSC,Haas Ferrari,01:25.2,2022,22
+12,13,Daniel  Ricciardo  RIC,McLaren Mercedes,01:25.0,2022,22
+13,14,Lance  Stroll  STR,Aston Martin Aramco Mercedes,01:25.4,2022,22
+14,15,Zhou  Guanyu  ZHO,Alfa Romeo Ferrari,01:25.4,2022,22
+15,16,Kevin  Magnussen  MAG,Haas Ferrari,01:25.8,2022,22
+16,17,Pierre  Gasly  GAS,AlphaTauri RBPT,01:25.9,2022,22
+17,18,Valtteri  Bottas  BOT,Alfa Romeo Ferrari,01:25.9,2022,22
+18,19,Alexander  Albon  ALB,Williams Mercedes,01:26.0,2022,22
+19,20,Nicholas  Latifi  LAT,Williams Mercedes,01:26.1,2022,22
